@@ -1,0 +1,38 @@
+SELECT DISTINCT (str(?nameObject) as ?name), (str(?cityObject) as ?city), (str(?countryObject) as ?country),
+        (str(?numOfStudentsObject) as ?numOfStudents), ?homepage, ?geoPoint
+        WHERE {
+        {
+            <http://en.wikipedia.org/wiki/uniname>  foaf:primaryTopic ?site.
+            ?site rdfs:label ?nameObject.
+            FILTER (lang(?nameObject) = "" || lang(?nameObject) = "de")
+            ?site dbo:city ?cityObject.
+            ?site dbo:country ?countryObject.
+            ?site dbo:numberOfStudents ?numOfStudentsObject.
+            ?site foaf:homepage ?homepage.
+            ?site georss:point ?geoPoint
+        }
+        UNION
+        {
+            <http://dbpedia.org/resource/uniname>  dbo:wikiPageRedirects ?site.
+            ?site rdfs:label ?nameObject.
+            FILTER (lang(?nameObject) = "" || lang(?nameObject) = "de")
+            ?site dbo:city ?cityObject.
+            ?site dbo:country ?countryObject.
+            ?site dbo:numberOfStudents ?numOfStudentsObject.
+            ?site foaf:homepage ?homepage.
+            ?site georss:point ?geoPoint
+        }
+    }
+
+Funktioniert:
+University_of_Kaiserslautern
+University_of_Greifswald
+University_of_Stuttgart
+
+Funktioniert nicht:
+RWTH_Aachen_University
+University_of_Tübingen
+University_of_Göttingen
+
+
+Die Unterstriche müssen so bleiben, und die Namen werden dann so an die beiden Links angefügt, wo gerade noch "uniname" steht.
