@@ -29,8 +29,6 @@ function buildFormMessage(data){
     let message = {
         "uniName" : data.universityname.value,
         "subject": data.subject.value,
-        "plz": data.plz.value,
-        "plzPerimeter": data.plzPerimeter.value,
         "extraOptions": [
             {
                 "count": data.optionCount1.value,
