@@ -3,23 +3,32 @@
 var baseURL = "http://localhost:4000"; // URL für Backend
 //var baseURL = "http://webengineering.ins.hs-anhalt.de:32197";
 
-var mymap = L.map('mapid').setView([51.54194444444445, 9.934444444444445], 13);
+var counter = 0;
 
-// MapLayer von OSM
-var mapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    'attribution':  'Kartendaten &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Mitwirkende',
-    'useCache': true
-}).addTo(mymap);
-
-var resultWrapper = document.getElementById("resultWrapper"); // Ankerpunkt für Ergebnisanzeige
+var results = document.getElementById("results"); // Ankerpunkt für Ergebnisanzeige
+var noResults = document.getElementById("noResults");
 
 // Anhand Formdaten die Suche in Stardog durchführen
 async function searchWithData(formData) {
+
+    results.innerHTML = "";
+    
+    counter = 0;
      let message = buildFormMessage(formData);
 
      let resJSON = await fetchJSON(message);
 
-     console.log(resJSON);
+     if(resJSON) {
+         noResults.style.display = "none";
+         for(var i = 0; i < resJSON.results.bindings.length; i++) {
+            createNewResult(resJSON.results.bindings[i]);
+            counter++;
+        }
+        initAccordions();
+     }
+     else {
+        noResults.style.display = "block";
+     }
 }
 
 // Funktion zum Holen der Daten und Umwandeln in JSON
@@ -64,25 +73,44 @@ function buildFormMessage(data){
 
 // Neues Result Element hinzufügen
 function createNewResult(data) {
+
+
     // Wichtige Daten aus data holen
-    let name = "";
-    let url = "";
+    let name = data.uniName.value;
+    let url = data.uniURL.value;
 
-    // Kartendaten setzen
+    let lat = data.uniLat.value;
+    let lon = data.uniLon.value;
 
+    let resultID = "result" + counter;
+    let mapID = "map" + counter;
 
     // Aufteilung für Übersichtlichkeit
-    let resultHTML1 = "<div class='result' id='result1'><button class='accordion'>Result 1</button>";
+    let resultHTML1 = "<div class='result' id='" + resultID +"'><button class='accordion'>" + name + "</button>";
     let resultHTML2 = "<div class='panel'><div class='resultWrapper'><div class='resultInfo'>";
-    let resultHTML3 = "<span class='resultText'>Hochschule ABC</span><br />";
-    let resultHTML4 = "<span class='resultText'><a href='#'>Link zur Website</a></span></div>";
-    let resultHTML5 = "<div class='map resultMap' id='mapid'></div></div></div></div>";
+    let resultHTML3 = "<span class='resultText'>" + name +"</span><br />";
+    let resultHTML4 = "<span class='resultText'><a href='" + url + "'>Link zur Homepage</a></span></div>";
+    let resultHTML5 = "<div class='map resultMap' id='" + mapID +"'></div></div></div></div>";
 
     // TMP Element als Anker für HTML String
     let tmp = document.createElement("div");
 
+    resultHTML = resultHTML1.concat(resultHTML2, resultHTML3, resultHTML4, resultHTML5);
+
     tmp.innerHTML = resultHTML;
 
     // An resultWrapper anbringen
-    resultWrapper.append(tmp);
+    results.append(tmp);
+
+    // Kartendaten setzen
+    var map = L.map(mapID).setView([lat, lon], 15);
+
+    var uniMarker = L.marker([lat, lon]).addTo(map);
+
+    // MapLayer von OSM
+    var mapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        'attribution':  'Kartendaten &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Mitwirkende',
+        'useCache': true
+    }).addTo(map);
+
 }

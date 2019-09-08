@@ -94,7 +94,7 @@ iframe {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 
-#resultWrapper {
+#results {
       margin: 1vh 0;
   }
 
@@ -107,8 +107,13 @@ iframe {
     width: 20vw;
     margin-top: 10vh;
     font-size: 20px;
+    text-align: left;
   }
 
   .resultWrapper {
       padding: 5px;
+  }
+
+  #noResults {
+      display:none;
   }
