@@ -1,0 +1,26 @@
+version: '2'
+
+services:
+
+  stardog:
+    image: stardog/stardog
+    restart: always
+    ports:
+      - 32196:5820
+    volumes:
+      - ../data/stardog-home2/:/var/opt/stardog
+    command: bash -c "export PATH=$PATH:~/opt/stardog/bin"
+
+  webserver:
+     build: ./Backend/
+     restart: always
+     ports:
+       - 32197:5002
+
+  nginx:
+     image: nginx
+     volumes:
+      - ./:/usr/share/nginx/html
+      - ./NGINX/nginx.conf:/etc/nginx/nginx.conf
+     ports:
+      - 32198:80

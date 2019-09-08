@@ -1,7 +1,7 @@
 // Variablen
 
-var baseURL = "http://localhost:4000"; // URL für Backend
-//var baseURL = "http://webengineering.ins.hs-anhalt.de:32197";
+//var baseURL = "http://localhost:4000"; // URL für Backend
+var baseURL = "http://webengineering.ins.hs-anhalt.de:32197";
 
 var counter = 0;
 
