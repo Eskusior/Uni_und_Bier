@@ -47,11 +47,11 @@ Im Backend müssen folgende Daten angepasst werden:
 ```python
 conn_details = {
     'endpoint': '[URL von Stardog]',
-    'username': 'admin',
-    'password': 'admin'
+    'username': '[username]',
+    'password': '[passwort]'
 }
 
-dbName = 'db1'
+dbName = '[Datenbankname]'
 
 ```
 

@@ -18,7 +18,7 @@ async function searchWithData(formData) {
 
      let resJSON = await fetchJSON(message);
 
-     if(resJSON) {
+     if(resJSON.results) {
          noResults.style.display = "none";
          for(var i = 0; i < resJSON.results.bindings.length; i++) {
             createNewResult(resJSON.results.bindings[i]);
