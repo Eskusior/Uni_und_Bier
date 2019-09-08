@@ -10,9 +10,9 @@ body {
     margin: auto;
 }
 
-.formWrapper {
+#formWrapper {
     font-size: 14px;
-    background-color: #c7c6c3;
+    background-color: #dbdad7;
     padding: 5px;
 }
 
@@ -41,3 +41,74 @@ select {
 .extraOption{
     margin: 1vh 0;
 }
+
+/* Nur zum Verhindern des Redirects bei Submit der Daten*/
+iframe {
+    width: 0 ;
+    height: 0;
+    border: 0;
+    display: none;
+}
+
+.map {
+    height: 300px; 
+    width: 500px;
+    float: right;
+}
+
+ /* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+   background-color: #8cf593;
+   color: black;
+   cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   text-align: left;
+   border: none;
+   outline: none;
+   transition: 0.4s;
+ }
+ 
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #33b551;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+    padding: 0 18px;
+    background-color: #dbdad7;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+} 
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+#resultWrapper {
+      margin: 1vh 0;
+  }
+
+  .result {
+      margin-bottom: 1vh;
+  }
+
+  .resultInfo {
+    float: left;
+    width: 20vw;
+    margin-top: 10vh;
+    font-size: 20px;
+  }
+
+  .resultWrapper {
+      padding: 5px;
+  }

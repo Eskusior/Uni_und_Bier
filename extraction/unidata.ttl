@@ -1,0 +1,2040 @@
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b0 <http://schema.org/name> "Freie Universität Berlin";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b1;
+  <https://schema.org/hasOfferCatalog> "Allgemeine und Vergleichende Literaturwissenschaft",
+    "Altorientalistik", "Klassische Archäologie", "Prähistorische Archäologie", "Vorderasiatische Archäologie",
+    "Ägyptologie", "Altgriechisch (Lehramt)", "Angewandte Literaturwissenschaft", "Arabistik",
+    "Betriebswirtschaftslehre", "Bildungs- und Erziehungswissenschaft", "Bildungswissenschaft",
+    "Biochemie", "Biodiversität, Evolution und Ökologie", "Bioinformatik", "Biologie",
+    "Biologie (Lehramt)", "Chemie (Lehramt)", "China-Europe Executive Master of Business Marketing",
+    "Chinastudien", "Chinastudien / Ostasienwissenschaften", "Computational Sciences",
+    "Demokratiepädagogische Schulentwicklung und Soziale Kompetenzen", "Deutsch (Lehramt)",
+    "Deutsch als Fremdsprache", "Deutsch-Französiche Literatur- und Kulturstudien", "Deutsche Philologie",
+    "Deutsches und Europäisches Wirtschaftsprivat- und Wirtschaftsverwaltungsrecht", "Deutschsprachige Literatur: Neue Literatur",
+    "Deutschsprachige Literatur: Alte Literatur", "East European Studies online", "Economics",
+    "Editionswissenschaft", "Englisch (Lehramt)", " Englische Philologie", "English Studies: Literature, Language, Culture",
+    "Environmental Earth Sciences", "Environmental Policy and Planning", "Ethik (Lehramt)",
+    "Ethik/Philosophie", "Ethik/Philosophie (Lehramt)", "Europawissenschaften - European Studies",
+    "European International Business, Competition and Regulatory Law", "Executive Master of Business Marketing",
+    "Filmwissenschaft", "Finance, Accounting and Taxation", "Frankreichstudien", "Französisch (Lehramt)",
+    "Französiche Philologie (Lehramt)", "Geographische Entwicklungsforschung", "Geographische Umweltforschung",
+    "Geologische Wissenschaften", "Geschichte", "Geschichte (Lehramt)", "Geschichte und Kultur des Vorderen Orients: Arabistik",
+    "Geschichte und Kultur des Vorderen Orients: Iranistik", "Geschichte und Kultur des Vorderen Orients: Islamwissenschaft",
+    "Geschichte und Kultur des Vorderen Orients: Semitistik", "Geschichte und Kultur des Vorderen Orients: Turkologie",
+    "Geschichte und Kulturen Altvorderasiens: Altorientalistik", "Geschichte und Kulturen Altvorderasiens: Vorderasiatische Archäologie",
+    "Geschichtswissenschaft", "Gesundheitswissenschaften / Public Health", "Global History",
+    "Griechische Philologie (Lehramt)", "Grundschulpädagogig", "Informatik", "Informatik (Lehramt)",
+    "Intellectual Encounters of the Islamicate World", "Interdisziplinäre Lateinameirkastudien",
+    "International Relations online", "Iranistik", "Islamwissenschaft", "Italienisch",
+    "Italienische Philologie", "Italienische Philologie (Lehramt)", "Italienstudien",
+    "Japanologie", "Japanstudien - Ostasienwissenschaften", "Judaism in Historical Context mit dem Profilbereich Judentum im hellenistisch-römischen und islamisch-christlichen Kontext",
+    "Judaism in Historical Context: Modern Judaism and Holocaust Studies", "Judaistik",
+    "Katholische Theologie (Lehramt)", "Klassische Philologie", "Koreastudien/Ostasienwissenschaften",
+    "Kultur- und Medienmanagement", "Kunstgeschichte im globalen Kontext: Afrika", "Kunstgeschichte im globalen Kontext: Europa und Amerika",
+    "Kunstgeschichte im globalen Kontext: Ostasien", "Landschaftsarchäologie", "Latein (Lehramt)",
+    "Lateinische Philologie", "Lateinische Philologie (Lehramt)", "Management und Marketing",
+    "Mathematik", "Mathematik (Lehramt)", "Medical Neurosciences", "Medien und Politische Kommunikation",
+    "Medieninformatik", "Medizin", "Meteorologie", "Musikwissenschaft", "Neogräzistik",
+    "Niederlandistik im Internationalen Kontext", "Niederländische Philologie", "Nordamerikastudien",
+    "Osteuropastudien", "Pferdemedizin", "Pferdewissenschaften", "Pharmazie", "Philosophie",
+    "Physics", "Physik", "Physik (Lehramt)", "Politik / Politische Bildung (Lehramt)",
+    "Politik und deutsche Nachkriegsgeschichte", "Politik- und Sozialwissenschaften",
+    "Politikwissenschaft", "Politikwissenschaft (Lehramt)", "Politikwissenschaften - Affaires Européennes / Affaires Internationales",
+    "Psychologie", "Psychologie: klinische- und Gesundheitsforschung", "Psychologie: Sozial-, Organisations- und Wirtschaftspsychologie",
+    "Public Economics", "Public History", "Public Policy & Management", "Publizistik- und Kommunikationswissenschaft",
+    "Rechtswissenschaft", "Religionswissenschaft", "Romanische Literaturwissenschaft",
+    "Schulentwicklung und Qualitätsicherung", "Semitistik", "Small Animal Science", "Social, Cognitive und Affective Neuroscience",
+    "Sozial- und Kulturanthropologie", "Sozialkunde (Lehramt)", "Soziologie - Europäische Gesellschaften",
+    "Spanisch (Lehramt)", "Spanische Philologie mit Lateinamerikanistik", "Spanische Philologie mit Lateinamerikanistik (Lehramt)",
+    "Sprache & Gesellschaft", "Sprachwissenschaft", "Tanzwissenschaft", "Theaterwissenschaft",
+    "Turkologie", "Veterinärmedizin / Tiermedizin", "Visual and Media Anthropology", "Volkswirtschaftslehre",
+    "Wirtschaftsinformatik", "Zahnheilkunde", "Zukunftsforschung";
+  <https://schema.org/location> "http://dbpedia.org/page/Berlin";
+  <https://schema.org/numberOfEmployees> "34518";
+  <https://schema.org/url> <https://www.fu-berlin.de/en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.45305555555556"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.290555555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b2 <http://schema.org/name> "Ludwig-Maximilians-Universität München";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b3;
+  <https://schema.org/hasOfferCatalog> "Philosophie, Politik und Wirtschaft (berufsbegleitend)",
+    "Italienisch (Lehramt)", "Allgemeine und Vergleichende Literaturwissenschaft (Komparatistik)",
+    "Italianistik", "Italienstudien", "Tiermedizin", "Allgemeine und Indogermanische Sprachwissenschaft",
+    "Alter Orient", "Altorientalistik", "American History, Culture and Society", "Anglistik",
+    "Antike Philosophie", "Antike und Orient", "Archäologie: Europa und Vorderer Orient",
+    "Archäologie: Vor- und Frühgeschichtliche", "Archäologie: Vorderasiatische", "Astrophysik",
+    "B2B Management", "Balkanphilologie", "Betriebswirtschaftliche Forschung", "Betriebswirtschaftslehre",
+    "Biochemie", "Bioinformatik", "Biologie", "Biologie (Lehramt)", "Buchwissenschaft",
+    "Buchwissenschaft: Buch- und Medienforschung", "Buchwissenschaft: Verlagspraxis",
+    "Buddhistische und Südasiatische Studien", "Byzantinistik", "Chemie", "Chemie (Lehramt)",
+    "Chemie und Biochemie", "Computerlinguistik", "Cultural and Cognitive Linguistics",
+    "Data Science", "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Didaktik des Deutschen als Zweitsprache (Lehramt)",
+    "Digital Humanities - Sprachwissenschaften", "Dramaturgie", "Economics", "Empirische Kulturwissenschaft und Europäische Ethnologie",
+    "Englisch (Lehramt)", "English Studies", "Epidemiologie", "Ethik (Lehramt)", "Ethnologie",
+    "European Master of Science in Management", "Evangelische Theologie", "Evangelische Theologie (Lehramt)",
+    "Evolution, Ecology and Systematics", "Experimentalphysik", "Film- und Medienkultur-Forschung",
+    "Finanz- und Versicherungsmathematik", "Finnougristik", "Französisch (Lehramt)", "Fremdsprachliche Qualifikation (Lehramt)",
+    "Gehörlosenpädagogik (Lehramt)", "Geistigbehindertenpädagogik", "Geobiology and Paleobiology",
+    "Geographie", "Geographie (Lehramt)", "Geology", "Geophysics", "Geowissenschaften",
+    "Geowissenschaften - Geologische Wissenschaften", "Geowissenschaften - Geomaterialien und Geochemie",
+    "Germanistik", "Germanistische Linguistik", "Germanistische Literaturwissenschaft",
+    "Geschichte", "Geschichte (Lehramt)", "Geschichtswissenschaft. Theorie, Methode, Praxis",
+    "Griechisch (Lehramt)", "Griechische Philologie", "Griechische Studien", "Grundschuldidaktik (Lehramt)",
+    "Human Geography and Sustainability", "Informatik", "Informatik (Lehramt)", "Informatik plus Computerlinguistik",
+    "Informatik plus Mathematik", "Informatik plus Statistik", "Ingenieur- und Hydrogeologie",
+    "Insurance", "Interkulturelle Kommunikation", "International Occuptional Safety and Health",
+    "Internationale Public Relations", "Japanologie", "Journalismus", "Katholische Theologie",
+    "Katholische Theologie (Lehramt)", "Klassische Archäologie", "Kommunikationswissenschaft",
+    "Kunst (Lehramt)", "Kunst und Multimedia", "Kunst, Musik, Theater", "Kunstpädagogik",
+    "Kunstpädagogik (Lehramt)", "Latein (Lehramt)", "Lateinische Philologie", "Latinistik",
+    "Lernbehindertenpädagogik", "Literarisches Übersetzen", "Logic and Philosophy of Science",
+    "Mathematik", "Mathematik (Lehramt)", "Media, Management and Digital Technologies",
+    "Medieninformatik", "Medieninformatik mit Anwendungsfach Kommunikationswissenschaft",
+    "Medieninformatik mit Anwendungsfach Medienwirtschaft", "Medienpädagogik (Lehramt)",
+    "Medizin", "Mensch-Computer-Interaktion", "Meteorologie", "Mittelalter- und Renaissancestudien",
+    "Mittelschuldidaktik", "Molecular and Cellular Biology", "Musik (Lehramt)", "Musikpädagogik",
+    "Musikwissenschaft", "Naher und Mittlerer Osten", "Neogräzistik", "Neuere deutsche Literatur",
+    "Neuro-cognitive Psychology", "Neuro-cognitive Psychology (ESG)", "Neuroscience",
+    "Nordamerikastudien", "Orthodoxe Theologie", "Osteuropastudien (ESG)", "Pharmaceutical Sciences",
+    "Pharmazie", "Philosophie", "Phonetik und Sprachverarbeitung", "Physik", "Physik (Lehramt)",
+    "Physik plus Meterologie", "Plant Sciences", "Politikwissenschaft", "Polnisch (Lehramt)",
+    "Provinzialrömische Archäologie", "Prävention, Inklusion und Rehabilitation (PIR) - Gehörlosenpädagogik",
+    "Prävention, Integration und Rehabilitation (PIR) bei Hörschädigung", "Psychologie",
+    "Psychologie: Klinische Psychologie und Kognitive Neurowissenschaft", "Psychologie: Wirtschafts-, Organisations- und Sozialpsychologie",
+    "Psychology: Learning Sciences", "Psychopathologie / Klinische Neuropsychologie",
+    "Public Health", "Pädagogik bei Verhaltensstörungen", "Pädagogik mit Schwerpunkt Bildungsforschung und Bildungsmanagement",
+    "Pädagogik und Bildungswissenschaften", "Quantitative Economics", "Rechtswissenschaften",
+    "Religion und Philosophie in Asien", "Religions- und Kulturwissenschaft", "Religionswissenschaft",
+    "Romanistik", "Russisch (Lehramt)", "Schulpsychologie (Lehramt)", "Schwerhörigenpädagogik (Lehramt)",
+    "Sinologie", "Skandinavistik", "Slavistik", "Software Engineering", "Sonderpädagogische Qualifikation",
+    "Lehramt (Sonderschule)", "Sozialkunde (Lehramt)", "Soziologie", "Spanisch (Lehramt)",
+    "Sprache, Literatur, Kultur", "Sprachpädagogik (Lehramt)", "Sprachtherapie", "Spätantike und Byzantinische Kunstgeschichte",
+    "Statistik", "Statistik mit wirtschafts- und sozialwissenschaftlicher Ausrichtung",
+    "Theaterwissenschaft", "Theoretische Philosophie", "Theoretische Physik", "Theoretische und Mathematische Physik",
+    "Umweltsysteme und Nachhaltigkeit - Monitoring, Modellierung und Management", "Vergleichende Indoeuropäische Sprachwissenschaft",
+    "Vergleichende Kultur- und Religionswissenschaft", "Verhaltensgestörtenpädagogik",
+    "Volkswirtschaftslehre", "Wirtschaftsmathematik", "Wirtschaftspädagogik", "Wirtschaftswissenschaften",
+    "Wirtschaftswissenschaften (Lehramt)", "Zahnmedizin", "Ägyptologie und Koptologie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Munich";
+  <https://schema.org/numberOfEmployees> "50542";
+  <https://schema.org/url> <https://www.en.uni-muenchen.de/index.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.15083333333333"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.580277777777777"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b4 <http://schema.org/name> "Technische Universität München";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b5;
+  <https://schema.org/hasOfferCatalog> "Wirtschaftsinformatik", "Biomedical Computing",
+    "Cartography", "Landschaftsarchitektur und Landschaftsplanung", "Berufliche Bildung, Elektrotechnik und Informationstechnik (Lehramt)",
+    "Bioinformatik", "Bauingenieurwesen", "Informatik", "Ingenieurwissenschaften", "Robotics, Cognition, Intelligence",
+    "Informatik: Games Engineering", "Bioprozesstechnik", "Computational Science and Engineering",
+    "Energieeffizientes und nachhaltiges Bauen", "Data Engineering and Analytics", "Betriebswirtschaftslehre, Technologie- und Managementorientierte BWL",
+    "Maschinenwesen", "Elektrotechnik und Informationstechnik", "Aerospace Engineering (GIST-TUM Asia)",
+    "Agrarmanagement", "Agrarsystemwissenschaften", "Agrarwissenschaften und Gartenbauwissenschaften",
+    "Arbeitslehre (Lehramt)", "Architektur", "Bau- und Umweltingenieurwesen", "Berufliche Bildung, Agrarwirtschaft (Lehramt)",
+    "Berufliche Bildung, Bautechnik (Lehramt)", "Berufliche Bildung, Ernährungs- und Hauswirtschaftswissenschaft (Lehramt)",
+    "Berufliche Bildung, Gesundheits- und Pflegewissenschaft (Lehramt)", "Berufliche Bildung, Metalltechnik (Lehramt)",
+    "Betriebswirtschaftslehre, Wirtschaft mit Technologie", "Betriebswirtschaftslehre, Wirtschaftsingenieurwesen",
+    "Betriebswirtschaftslehre, Wirtschaftswissenschaften für Naturwissenschaftler", "Biochemie",
+    "Biologie", "Biologie (Lehramt)", "Biomassetechnologie", "Bodenordnung und Landentwicklung",
+    "Brauwesen", "Brauwesen und Getränketechnologie", "Chemie", "Chemie (Lehramt)", "Chemieingenieurwesen",
+    "Chemische Biotechnologie", "ClimaDesign (berufsbegleitend)", "Communications Engineering",
+    "Computational Mechanics", "Consumer Affairs", "Elektro- und Informationstechnik, Maschinenbau",
+    "Elektrotechnik und Informationstechnik (Lehramt)", "Energie- und Prozesstechnik",
+    "Entwicklung und Konstruktion", "Ergonomie - Human Factors Engineering", "Ernährungswissenschaft",
+    "ESPACE - Earth Oriented Space Science and Technology", "Executive MBA in Business & IT",
+    "Executive MBA in General Management", "Executive MBA in Innovation and Business Creation",
+    "Fahrzeug- und Motorentechnik", "Finance and Information Management", "Forst- und Holzwissenschaft",
+    "Forstwissenschaft und Resourcenmanagement", "Gartenbaumanagement", "Geodäsie und Geoinformation",
+    "GeoThermie / GeoEnergie", "Geowissenschaften", "Gesundheit- und Pflegewissenschaft (Lehramt)",
+    "Gesundheitswissenschaft", "Green Electronics", "Health Science  Prevention and Health Promotion",
+    "Horticultural Science - Gartenbauwissenschaften", "Industrial Chemistry (GIST-Singapur)",
+    "Industrial Design", "Industrielle Biotechnologie", "Informatik (Lehramt)", "Ingenieur- und Hydrogeologie",
+    "Ingenieurökologie", "Ingenieurökologie Teilzeit 50%", "Ingenieurökologie Teilzeit 66%",
+    "Integrated Circuit Design (GIST-Singapur)", "Land Management and Land Tenure", "Lebensmittelchemie",
+    "Lehramt an beruflichen Schulen", "Lehramt an Gymnasien", "Life Science Economics and Policy",
+    "Luft- und Raumfahrttechnik", "Management", "Management and Innovation", "Management and Technology (TUM-BWL)",
+    "Maschinenbau und Management", "Mathematical Finance and Actuarial Science", "Mathematics in Bioscience",
+    "Mathematics in Data Science", "Mathematics in Operations Research", "Mathematics in Science and Engineering",
+    "Mathematik", "Mathematik (Lehramt)", "Mathematik, Maschinenwesen, Elektrotechnik und Bauingenieurwesen",
+    "Mechatronik und Informationstechnik", "Medical Life Science and Technology", "Medizin",
+    "Medizin (klinischer Abschnitt)", "Medizintechnik", "Molekulare Biotechnologie", "Nachwachsende Rohstoffe",
+    "Nanoscience and Catalysis", "Naturschutz und Landschaftsplanung", "Naturschutz und Landschaftsplanung Teilzeit 50%",
+    "Naturschutz und Landschaftsplanung Teilzeit 66%", "Naturwissenschaftliche Bildung (Lehramt)",
+    "Neuroengineering", "Nukleartechnik", "Nutrition and Biomedicine", "Pharmazeutische Bioprozesstechnik",
+    "Physics (Applied and Engineering Physics)", "Physik", "Physik (Biophysik)", "Physik (Kern- Teilchen- und Astrophysik)",
+    "Physik (Lehramt)", "Physik der Kondensierten Materie", "Politics & Technology", "Politikwissenschaft",
+    "Power Engineering", "Produktion und Logistik", "Radiation Biology", "Recht des Geistigen Eigentums und Wettbewerbsrecht (Intellectual Property and Competition Law)",
+    "Research on Teaching and Learning", "Responsibility in Science, Engineering and Technology",
+    "Restaurierung, Kunsttechnologie und Konservierungswissenschaften", "Science and Technology Studies",
+    "Software Engineering", "Sport (Lehramt)", "Sport and Exercise Science", "Sportwissenschaft",
+    "Sustainable Resource Management", "Technologie und Biotechnologie der Lebensmittel",
+    "Technology Management", "TopMath, Angewandte Mathematik", "Traditionelle Chinesische Medizin (berufsbegleitend)",
+    "Transport and Logistics (GIST-TUM Asia)", "Transportation Systems", "Umweltingenieurwesen",
+    "Urbanistik - Landschaft und Stadt", "Wissenschafts- und Technikphilosophie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Munich";
+  <https://schema.org/numberOfEmployees> "39081";
+  <https://schema.org/url> <http://www.tum.de> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.14805555555556"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.568055555555556"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b6 <http://schema.org/name> "Ruprecht-Karls-Universität Heidelberg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b7;
+  <https://schema.org/hasOfferCatalog> "Technische Informatik", "Geographie", "Biochemie",
+    "Advanced Physical Methods in Radiotherapy", "Alte Geschichte", "American Studies",
+    "Angewandte Informatik", "Assyriologie", "Berufs- und organisationsbezogene Beratungswissenschaft",
+    "Bildungswissenschaft", "Biologie (Lehramt)", "Biomedical Engineering", "Biowissenschaften",
+    "Byzantinische Archäologie und Kunstgeschichte", "Chemie", "Chemie (Lehramt)", "Christentum und Kultur",
+    "Clinical Medical Physics", "Computerlinguistik", "Deutsch (Lehramt)", "Deutsch als Zweitsprache",
+    "Deutsche Philologie", "Diakonie", "Diakoniewissenschaft - Führung in Diakonie und Kirche",
+    "Economics", "Economics (politische Ökonomie)", "Editionswissenschaft und Textkritik",
+    "Englisch", "Englisch (Lehramt)", "Englische Philologie", "English Studies/ Anglistik",
+    "English Studies/Anglistik (50%)", "Erziehungswissenschaften", "Ethnologie", "Europäische Kunstgeschichte",
+    "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie", "Französisch (Lehramt)",
+    "Geoarchäologie", "Geographie (Lehramt)", "Geowissenschaften", "Germanistik", "Germanistik im Kulturvergleich",
+    "Geschichte", "Geschichte (Lehramt)", "Geschichte Südasiens", "Geschichtswissenschaften",
+    "Global History", "Griechisch (Lehramt)", "Health and Society in South Asia", "Health Economics",
+    "Historische Hilfswissenschaften / Historische Grundwissenschaften", "Informatik (Lehramt)",
+    "International Health", "International Law", "Internationaler Master-Studiengang Kunstgeschichte und Museologie",
+    "Interprofessionelle Gesundheitsversorgung", "Islamwissenschaft / Islamic Studies",
+    "Italienisch (Lehramt)", "Japanologie", "Jüdische Religionslehre", "Jüdische Studien",
+    "Klassische Archäologie", "Klassische Philologie, Gräzistik", "Klassische Philologie, Latinistik",
+    "Klassische und Moderne Literaturwissenschaft", "Konferenzdolmetschen", "Kultur und Religionsgeschichte Südasiens (Klassische Indologie)",
+    "Kunstgeschichte Ostasiens/East Asian Art History", "Latein (Lehramt)", "Management, Ethik und Innovation im Nonprofit-Bereich. Diakonische Führung und Steuerung (berufsbegleitend)",
+    "Mathematik", "Mathematik (Lehramt)", "Medical Biometry / Biostatistics", "Medical Education",
+    "Medical Physics", "Medizin", "Medizinische Informatik", "Mittelalterstudien", "Molecular Biosciences",
+    "Molekulare Biotechnologie", "Musikwissenschaft", "Nah- und Mitteloststudien (Near and Middle Eastern Studies)",
+    "Neuere Sprachen und Literaturen Südasiens", "Neuere Sprachen und Literaturen Südasiens (Moderne Indologie)",
+    "Nonprofit Management and Governance", "Ostasienwissenschaften", "Ostasienwissenschaften (Schwerpunkt Sinologie)",
+    "Osteuropa und Ostmitteleuropastudien", "Pharmazie", "Philosophie", "Philosophie / Ethik (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Politikwissenschaft / Wirtschaftswissenschaft (lehramt)",
+    "Politische Wissenschaft", "Psychologie", "Rechtswissenschaft", "Religionswissenschaft",
+    "Romanische Philologie: Französisch, Italienisch, Spanisch", "Romanistik, Französisch",
+    "Romanistik, Italienisch", "Romanistik, Spanisch", "Romanistik: Portugiesisch", "Russisch (Lehramt)",
+    "Scientific Computing", "Semitistik", "Sinologie (Chinese Studies)", "Slavistik",
+    "Soziologie", "Spanisch (Lehramt)", "Sport (Lehramt)", "Sport und Bewegung im Kindes und Jugendalter",
+    "Südasienstudien", "Theological Research", "Theologie", "Transcultural Studies", "Translation Studies for Information Technologies",
+    "Translational Medical Research", "Unternehmensführung im Wohlfahrtsbereich in Non-Profit-Unternehmen",
+    "Ur- und Frühgeschichte", "Vorderasiatische Archäologie", "Zahnmedizin", "Ägyptologie",
+    "Öffentliches Recht", "Übersetzungswissenschaften";
+  <https://schema.org/location> "http://dbpedia.org/resource/Heidelberg";
+  <https://schema.org/numberOfEmployees> "30873";
+  <https://schema.org/url> <https://www.uni-heidelberg.de/en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.41027777777778"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.706388888888888"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b8 <http://schema.org/name> "Humboldt-Universität zu Berlin";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b9;
+  <https://schema.org/hasOfferCatalog> "Sozialwissenschaften: German-Turkish Master Program in Social Sciences",
+    "Skandinavistik / Nordeuropa-Studien", "Afrikawissenschaften", "Agrar- und Gartenbauwissenschaften",
+    "Agrar- und Gartenbauwissenschaften (Lehramt)", "Agrarwissenschaften", "Agrarökonomie",
+    "Amerikanistik", "Archäologie und Kulturgeschichte Nordostafrikas", "Betriebswirtschaftslehre",
+    "Bibliotheks- und Informationswissenschaft", "Biologie", "Biologie (Lehramt)", "Biophysik",
+    "British Studies", "Chemie", "Chemie (Lehramt)", "Computational Neuroscience", "Deaf Studies (Sprache und Kultur der Gehörlosengemeinschaft)",
+    "Deutsch (Lehramt)", "Deutsche Gebärdensprache", "Deutsche Literatur", "Deutsches und europäisches Recht und Rechtspraxis",
+    "Digitales Datenmanagement", "Economics and Management Science", "Englisch (Lehramt)",
+    "English Literatures", "Erwachsenenpädagogik / Lebenslanges Lernen", "Erziehungswissenschaften",
+    "Euromaster für Französische und Frankophone Studien", "European History", "Europäische Ethnologie",
+    "Europäische Literaturen", "Europäischer Jurist", "Europäisches Recht und Rechtsvergleich",
+    "Evangelische Theologie", "Evangelische Theologie (Lehramt)", "Fishery Science and Aquaculture",
+    "Französisch", "Französisch (Lehramt)", "Gartenbauwissenschaften", "Geographie", "Geographie (Lehramt)",
+    "Germanistische Linguistik", "Geschichte", "Geschichte (Lehramt)", "Geschichtswissenschaften",
+    "Geschlechterstudien / Gender Studies", "Gesundheitswissenschaften", "Global Change Geography",
+    "Global History", "Griechisch (Lehramt)", "Historische Linguistik", "Horticultural Science",
+    "Immaterialgüterrecht und Medienrecht", "Informatik", "Informatik (Lehramt)", "Informatik, Mathematik und Physik",
+    "Informationsmanagement und Informationstechnologie", "Integrated Natural Resource Management",
+    "International Criminal Justice", "International Dispute Resolution", "Internationale Beziehungen",
+    "Italienisch", "Italienisch (Lehramt)", "Klassische Archäologie", "Klassische Philologie",
+    "Kulturen und Literaturen Mittel- und Osteuropas", "Kulturwissenschaft", "Kunst- und Bildgeschichte",
+    "Latein", "Latein (Lehramt)", "Linguistik", "Mathematik", "Mathematik (Lehramt)",
+    "Medienwissenschaft", "Mind and Brain", "Moderne Süd- und Südostasienstudien", "Molekulare Lebenswissenschaft",
+    "Musikwissenschaft", "Open Design", "Optical Sciences", "Organismische Biologie und Evolution",
+    "Philosophie", "Philosophie / Ethik (Lehramt)", "Physik", "Physik (Lehramt)", "Polymer Science",
+    "Prozess- und Qualitätsmanagement", "Psychologie", "Rechtswissenschaft", "Regionalstudien Asien / Afrika",
+    "Rehabilitationspädagogik", "Rehabilitationswissenschaften - Gebärdensprach- und Audiopädagogik",
+    "Religion und Kultur / Religion and Culture", "Research Training Program in Social Sciences",
+    "Romanische Kulturen", "Rural Development", "Russisch", "Russisch (Lehramt)", "Slawische Sprachen",
+    "Sonderpädagogik (Lehramt)", "Sonderpädagogik mit den Fachrichtungen Gebärdensprachpädagogik/Hören & Kommunikation (Lehramt)",
+    "Sozialwissenschaften", "Sozialwissenschaften: Euromaster", "Sozialwissenschaften: TransAtlantic",
+    "Spanisch", "Spanisch (Lehramt)", "Sport (Lehramt)", "Sportwissenschaft", "Sportwissenschaft (Lehramt)",
+    "Statistik", "Ungarische Literatur und Kultur", "Urbane Geographien - Humangeographie",
+    "Volkswirtschaftslehre", "Wirtschaftsinformatik", "Wirtschaftspädagogik (Lehramt)",
+    "Wirtschaftspädagogik (Wirtschaft und Verwaltung)", "Wissenschaftsforschung", "Zentralasien-Studien/Central Asia Studies";
+  <https://schema.org/location> "http://dbpedia.org/resource/Berlin";
+  <https://schema.org/numberOfEmployees> "33540";
+  <https://schema.org/url> <https://www.hu-berlin.de/?set_language=en&cl=en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.518055555555556"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "52.518055555555556"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b10 <http://schema.org/name> "Charité";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b11;
+  <https://schema.org/hasOfferCatalog> "Gesundheitswissenschaften", "Pflege", "Applied Epidemiology",
+    "Epidemiologie", "Health Professions Education", "International Health", "Medizinische Neurowissenschaften",
+    "Molekulare Medizin", "Public Health (konsekutuv)", "Public Health (weiterbildend)";
+  <https://schema.org/location> "http://dbpedia.org/resource/Berlin";
+  <https://schema.org/numberOfEmployees> "6974";
+  <https://schema.org/url> <http://www.charite.de/en/charite> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.526666666666664"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.379722222222222"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b12 <http://schema.org/name> "Rheinische Friedrich-Wilhelms-Universität Bonn";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b13;
+  <https://schema.org/hasOfferCatalog> "Elektrotechnik, Informationstechnik und Technische Informatik",
+    "Technische Informatik (Lehramt)", "Werkstoffingenieurwesen", "Textiltechnik (Lehramt)",
+    "European Studies", "Computational Engineering Science", "Chemie", "Wirtschaftsingenieurwesen - Werkstoff- und Prozesstechnik",
+    "Nachhaltige Rohstoff- und Energieversorgung", "Informatik (Lehramt)", "Materialwissenschaften",
+    "Maschinenbau", "Technik-Kommunikation", "Mathematik", "Informatik", "Allgemeiner Maschinenbau",
+    "Angewandte Geographie", "Angewandte Geowissenschaften", "Applied Geophysics", "Architektur",
+    "Automatisierungstechnik", "Automotive Engineering (International Academy)", "Bauingenieurwesen",
+    "Bautechnik (Lehramt)", "Betriebswirtschaftslehre", "Betriebswirtschaftslehre / Business Administration",
+    "Biologie", "Biologie (Lehramt)", "Biomedical Engineering", "Chemie (Lehramt)", "Computer aided conception and production in mechanical engineering (International Academy)",
+    "Deutsch (Lehramt)", "Digitale Medienkommunikation", "Elektrotechnik (Lehramt)", "Elektrotechnik und Informationstechnik",
+    "Empirische Bildungsforschung", "Energietechnik", "Energietechnik (Lehramt)", "Energiewirtschaft (berufsbegleitend)",
+    "Englisch (Lehramt)", "Entwicklung und Konstruktion", "Executive Master of Business Administration",
+    "Fahrzeugtechnik (Lehramt)", "Fahrzeugtechnik und Transport", "Fertigungstechnik (Lehramt)",
+    "Französisch (Lehramt)", "Georessourcenmanagement", "Geschichte", "Geschichte (Lehramt)",
+    "Geschichtswissenschaft - Geschichte als Wissenskultur", "Gesellschaftswissenschaften",
+    "Governance von Technology und Innovation", "Hochbautechnik (Lehramt)", "Holztechnik (Lehramt)",
+    "Katholische Religionslehre (Lehramt)", "Kunststoff- und Textiltechnik", "Laboratory Animal Science",
+    "Lasers in Dentistry", "Lehr- und Forschungslogopädie", "Literatur- und Sprachwissenschaft",
+    "Logistik und Supply Chain Management (berufsbegleitend)", "Logopädie (dual)", "Luft- und Raumfahrttechnik",
+    "Management and Engineering in Computer Aided Mechanical Engineering", "Management and Engineering in Design Concepts and Structural Engineering of Industrial Facilities",
+    "Management and Engineering in Electrical Power Systems", "Management and Engineering in Production Systems",
+    "Management and Engineering in Technology, Innovation, Marketing and Entrepreneurship",
+    "Management and Engineering in Water", "Maschinenbautechnik (Lehramt)", "Mathematik (Lehramt)",
+    "Media Informatics", "Medizin", "Metallurgical Engineering", "Mobilität und Verkehr",
+    "Molekulare und Angewandte Biotechnologie", "Nachhaltige Energieversorgung", "Nachrichtentechnik (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Politik (Lehramt)", "Politikwissenschaft", "Politische Wissenschaft",
+    "Production Systems Engineering (International Academy)", "Produktionstechnik", "Psychologie",
+    "Redevelopment", "Robotic Systems Engineering", "Rohstoffingenieurwesen / Mineral Ressources Engineering",
+    "Simulation Sciences", "Software Sytems Engineering", "Soziologie", "Spanisch (Lehramt)",
+    "Sprach- und Kommunikationswissenschaft", "Stadtplanung", "Sustainable Management  Water and Energy",
+    "Technik (Lehramt)", "Textile Engineering", "Tiefbautechnik (Lehramt)", "Umweltingenieurwissenschaften",
+    "Verfahrenstechnik", "Verkehrsingenieurwesen und Mobilität", "Versorgungstechnik (Lehramt)",
+    "Werkzeugbau", "Wirtschaftsgeographie", "Wirtschaftsingenieurwesen - Bauingenieurwesen",
+    "Wirtschaftsingenieurwesen - Elektrische Energietechnik", "Wirtschaftsingenieurwesen - Maschinenbau",
+    "Wirtschaftslehre / Politik (Lehramt)", "Wirtschaftswissenschaft (Lehramt)", "Wirtschaftswissenschaften",
+    "Zahnmedizin", "Ökotoxikologie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Bonn";
+  <https://schema.org/numberOfEmployees> "32500";
+  <https://schema.org/url> <http://www3.uni-bonn.de/news-1?set_language=en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.73388888888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.102222222222222"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b14 <http://schema.org/name> "Universität Mannheim";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b15;
+  <https://schema.org/hasOfferCatalog> "Mannheim Master in Management", "Mannheim Master in Business Research",
+    "Mannheim Master in Data Science", "Kultur und Wirtschaft", "Anglistik / Amerikanistik",
+    "Betriebswirtschaftslehre", "Comparative Business Law", "Deutsch (Lehramt)", "Englisch (Lehramt)",
+    "Executive MBA (berufsbegleitend)", "Executive MBA (double degree)", "Französisch (Lehramt)",
+    "Germanistik", "Geschichte", "Geschichte (Lehramt)", "Intercultural German Studies",
+    "Kultur und Wirtschaft: Anglistik / Amerikanistik", "Kultur und Wirtschaft: Französistik",
+    "Kultur und Wirtschaft: Germanistik", "Kultur und Wirtschaft: Geschichte", "Kultur und Wirtschaft: Hispanistik",
+    "Kultur und Wirtschaft: Italianistik", "Kultur und Wirtschaft: Medien- und Kommunikationswissenschaft",
+    "Kultur und Wirtschaft: Philosophie", "Kultur und Wirtschaft: Romanistik", "Kultur und Wirtschaft: Romanistik: Französisch",
+    "Kultur und Wirtschaft: Romanistik: Italienisch", "Kultur und Wirtschaft: Romanistik: Spanisch",
+    "Lehramt an Gymnasien", "Literatur, Medien und Kultur der Moderne", "Master of Accounting & Taxation",
+    "Master of Laws", "Master Wettbewerbs- und Regulierungs­recht", "Mathematik (Lehramt)",
+    "MBA (Full-Time MBA)", "Medien- und Kommunikationswissenschaften", "Philosophie / Ethik (Lehramt)",
+    "Political Science", "Politikwissenschaft", "Politikwissenschaft (Lehramt)", "Psychologie",
+    "Psychologie mit Schwerpunkt Sozial- und Kognitionspsychologie", "Psychologie mit Schwerpunkt Wirtschaftspsychologie",
+    "Romanische Sprachen, Literaturen und Medien", "Soziologie", "Spanisch (Lehramt)",
+    "Sprache und Kommunikation", "Unternehmensjurist", "Volkswirtschaftslehre", "Wirtschaftsinformatik",
+    "Wirtschaftsmathematik", "Wirtschaftspädagogik";
+  <https://schema.org/location> "http://dbpedia.org/resource/Mannheim";
+  <https://schema.org/numberOfEmployees> "12362";
+  <https://schema.org/url> <https://www.uni-mannheim.de/1/english/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.4832"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.4647"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b16 <http://schema.org/name> "Technische Universität Berlin";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b17;
+  <https://schema.org/hasOfferCatalog> "Technische Informatik", "Technischer Umweltschutz",
+    "Urban Management", "Real Estate Management", "Chemie", "Wirtschaftsingenieurwesen",
+    "Informationstechnik im Maschinenwesen", "Architektur", "Chemieingenieurwesen", "Brauerei- und Getränketechnologie",
+    "Geotechnologie", "Energie- und Prozesstechnik", "Wirtschaftsinformatik", "Arbeitslehre (Lehramt)",
+    "Architecture - Typology", "Audiokommunikation und -technologie", "Automotive Systems",
+    "Bauingenieurwesen", "Bautechnik (Lehramt)", "Bautechnik / Bauingenieurwesen (Lehramt)",
+    "Bildungswissenschaft - Organisation und Beratung", "Biologische Chemie", "Biomedizinische Technik",
+    "Biotechnologie", "Building Sustainability - Management Methods for Energy Efficiency",
+    "Business Engineering Energy", "Bühnenbild_Szenischer Raum", "Computational Neuroscience",
+    "Computer Engineering", "Computer Science", "Deutsch als Fremd- und Fachsprache",
+    "Economics", "Elektrotechnik", "Elektrotechnik (Lehramt)", "Elektrotechnik/Informationstechnik als Quereinstieg (Lehramt)",
+    "Energie- und Verfahrenstechnik", "Energy Engineering", "Energy Management", "Environmental Planning (Umweltplanung)",
+    "Ernährung / Lebensmittelwissenschaft (Lehramt)", "Europawissenschaften - European Studies",
+    "European and International Energy Law", "Fahrzeugtechnik", "Fahrzeugtechnik (Lehramt)",
+    "Gebäude-Energie-Systeme", "Geodesy and Geoinformation Science", "Geschichte und Kultur der Wissenschaft und Technik",
+    "Global Production Engineering", "Historische Bauforschung und Denkmalpflege", "Historische Urbanistik / Historical Urban Studies",
+    "Human Factors", "ICT Innovation", "Industrial and Network Economics", "Informatik",
+    "Information Systems Management", "Informationstechnik (Lehramt)", "Ingenieurwissenschaften",
+    "Innovation Management, Entrepreneurship and Sustainability", "Interdisziplinäre Antisemitismusforschung",
+    "IT for Energy", "Kultur und Technik", "Kunstwissenschaft und Kunsttechnologie", "Land- und Gartenbauwissenschaft (Lehramt)",
+    "Landschaftsarchitektur", "Lebensmittelchemie", "Lebensmitteltechnologie", "Luft- und Raumfahrttechnik",
+    "Maschinenbau", "Mathematik", "Medieninformatik", "Medientechnik (Lehramt)", "Medienwissenschaft",
+    "Metalltechnik (Lehramt)", "Nachhaltiges Management", "Naturwissenschaften in der Informationsgesellschaft",
+    "Patentingenieurwesen", "Philosophie des Wissens und der Wissenschaften", "Physik",
+    "Physikalische Ingenieurswissenschaften", "Planung und Betrieb im Verkehrswesen",
+    "Polymer Science", "Process Energy and Environmental Systems Engineering", "Produktionstechnik",
+    "Regenerative Energiesysteme", "Schiffs- und Meerestechnik", "Scientific Computing",
+    "Soziologie technikwissenschaftlicher Richtung", "Space Engineering", "Sprache und Kommunikation",
+    "Stadt- und Regionalplanung", "Stadtökologie", "Statistik", "Sustainable Mobility Management",
+    "Technomathematik", "Umweltplanung", "Urban Design", "Urban Development", "Verkehrswesen",
+    "Water Engineering", "Werkstoffwissenschaften", "Wirtschaftsmathematik", "Wissenschaftsmarketing",
+    "Ökologie und Umweltplanung";
+  <https://schema.org/location> "http://dbpedia.org/resource/Berlin";
+  <https://schema.org/numberOfEmployees> "33933";
+  <https://schema.org/url> <https://www.tu-berlin.de/menue/home/parameter/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.511944444444445"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.32638888888889"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b18 <http://schema.org/name> "Universität Hamburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b19;
+  <https://schema.org/hasOfferCatalog> "Interdisziplinäre Public und Nonprofit Studien",
+    "International Taxation (berufsbegleitend)", "African Languages in Context (MAC)",
+    "Afrikanische Sprachen im Kontext", "Afrikanische Sprachen und Kulturen - sprachenintensiviert",
+    "Afrikanische Sprachen und Kulturen im Vergleich", "Allgemeine Sprachwissenschaft",
+    "Althebraistik", "Anglistik / Amerikanistik", "Arbeit, Wirtschaft, Gesellschaft - Ökonomische und Soziologische Studien",
+    "Arbeits- und Sozialmanagement mit Schwerpunkt Recht", "Arbeitslehre / Technik (Lehramt)",
+    "Archäologie und Kulturgeschichte des antiken Mittelmeerraumes", "Bau- und Holztechnik (Lehramt)",
+    "Behindertenpädagogik", "Berufliche Informatik (Lehramt)", "Betriebswirtschaftliches Schwerpunktfach (Lehramt)",
+    "Betriebswirtschaftslehre", "Betriebswirtschaftslehre (Lehramt)", "Bewegungs- und Sportwissenschaft",
+    "Bewegungswissenschaft", "Bildende Kunst (Lehramt)", "Bioinformatik", "Biologie",
+    "Biologie (Lehramt)", "Bioressourcennutzung", "British and American Cultures: Text and Media",
+    "Buddhist Studies", "Chemie", "Chemie (Lehramt)", "Chemotechnik (Lehramt)", "Computing in Science",
+    "Deutsch (Lehramt)", "Deutsche Sprache und Literatur", "Deutschsprachige Literaturen",
+    "Dokumentation und Analyse Afrikanischer Sprachen (Documentation and Analysis of African Languages)",
+    "Economics", "Elektrotechnik / Informationstechnik (Lehramt)", "Englisch (Lehramt)",
+    "English as a World Language", "Ernährungs- und Haushaltswissenschaften (Lehramt)",
+    "Erziehungs- und Bildungswissenschaft", "Erziehungswissenschaften (Lehramt)", "Ethiopian Studies (Äthiopistik)",
+    "Ethnologie", "European and European Legal Studies", "European Legal Studies and International Economic Law",
+    "European Master in Classical Cultures", "European Studies (EuroMaster)", "Europäisches Wirtschaftsrecht",
+    "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie", "Finanzen und Versicherungen mit Schwerpunkt Recht",
+    "Finnougristik", "Französisch", "Französisch (Lehramt)", "Gebärdensprachdolmetschen",
+    "Gebärdensprachen", "Geographie", "Geographie (Lehramt)", "Geophysik", "Geophysik / Ozeanographie",
+    "Geowissenschaften", "Germanistische Linguistik", "Geschichte", "Geschichte (Lehramt)",
+    "Geschichte der Naturwissenschaften", "Geschichte, Sprachen und Kulturen des Vorderen Orients: Iranistik",
+    "Geschichte, Sprachen und Kulturen des Vorderen Orients: Islamwissenschaft", "Geschichte, Sprachen und Kulturen des Vorderen Orients: Turkologie",
+    "Gesundheitsmanagement (berufsbegleitend)", "Griechisch (Lehramt)", "Griechische und Lateinische Philologie",
+    "Health Economics & Health Care Management", "Higher Education (berufsbegleitend)",
+    "Historische Musikwissenschaft", "Holzwirtschaft", "Human Resource Management / Personalpolitik",
+    "Human Rights and Democratisation", "Industrial Mathematics", "Informatik", "Informatik (Lehramt)",
+    "Integrated Climate System Science", "Integrative Lerntherapie (berufsbegleitend)",
+    "Intelligent Adaptive Systems", "International Business and Sustainability", "Internationale Kriminologie",
+    "Iranistik", "Islamwissenschaft", "IT-Management und -Consulting", "Italienisch",
+    "Japanologie", "Journalism, Media and Globalisation", "Journalistik und Kommunikationswissenschaft",
+    "Jüdische Philosophie und Religion", "Katalanisch", "Katholische Theologie", "Klassische Archäologie",
+    "Klassische Philologie", "Koreanistik", "Kosmetikwissenschaft", "Kosmetikwissenschaften (Lehramt)",
+    "Kriminologie (berufsbegleitend)", "Kunstgeschichte", "Languages and Cultures of Southeast Asia",
+    "Latein (Lehramt)", "Lateinamerikastudien", "Law and Economics of the Arab Region",
+    "Lebensmittelchemie", "Linguistik / Allgemeine Sprachwissenschaften", "Literatur, Sprache und Kultur des modernen Griechenlands (Neogräzistik)",
+    "Magister für ausländische JuristInnen", "Manuskriptkulturen/Manuscript Cultures",
+    "Marine Ökosystem- und Fischereiwissenschaften", "Master of European and International Law (MEIL)",
+    "Mathematical Physics", "Mathematics", "Mathematik", "Mathematik (Lehramt)", "MathMods - Mathematical Modelling Engineering",
+    "Medien- und Kommunikationswissenschaft", "Medientechnik (Lehramt)", "Medienwissenschaft / Mediastudies",
+    "Medizin", "Mehrsprachigkeit und Bildung", "Mensch-Computer-Interaktion", "Metalltechnik (Lehramt)",
+    "Meteorologie", "Mittelalterstudien", "Molecular Life Sciences", "Molecular Plant Science",
+    "Molekularbiologie", "Musik (Lehramt)", "Nanowissenschaften", "Neogräzistik und Byzantinistik",
+    "Ocean and Climate Physics", "Ostasien: Japanologie", "Ostasien: Koreanistik", "Ostasien: Sinologie",
+    "Osteuropastudien", "Peace and Security Studies", "Performance Studies", "Pharmazie",
+    "Philosophie", "Philosophie (Lehramt)", "Physik", "Physik (Lehramt)", "Polar and Marine Sciences (POMOR)",
+    "Politics, Economics and Philosophy", "Politikwissenschaft", "Portugiesisch", "Psychologie",
+    "Psychologische Psychotherapie (berufsbegleitend)", "Rechtswissenschaft", "Religionen, Dialog und Bildung",
+    "Religionswissenschaft", "Romanische Linguistik", "Romanische Literaturen", "Russisch (Lehramt)",
+    "Sinologie", "Slavistik", "Software-Sytem-Entwicklung", "South Asian Studies", "Sozialwissenschaften (Lehramt)",
+    "Sozialökonomie", "Sozialökonomie (berufsbegleitend)", "Soziologie", "Spanisch", "Spanisch (Lehramt)",
+    "Sport (Lehramt)", "Sprachen und Kultur Südostasiens", "Sprachen und Kulturen Indiens und Tibets",
+    "Sprachlehrforschung", "Systematische Musikwissenschaft", "Technomathematik", "Tibetan Studies",
+    "Turkologie", "Türkisch (Lehramt)", "Uralische Sprachen und Kulturen", "Versicherungsrecht (Insurance Law) (berufsbegleitend)",
+    "Volkskunde / Kulturanthropologie", "Volkswirtschaftslehre", "Vor- und frühgeschichtliche Archäologie",
+    "Wirtschaft und Kultur Chinas", "Wirtschaftsinformatik", "Wirtschaftsingenieurwesen",
+    "Wirtschaftsmathematik", "Wirtschaftswissenschaften (Lehramt)", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/resource/Hamburg";
+  <https://schema.org/numberOfEmployees> "42106";
+  <https://schema.org/url> <https://www.uni-hamburg.de/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.566944444444445"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.983888888888888"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b20 <http://schema.org/name> "Karlsruher Institut für Technologie";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b21;
+  <https://schema.org/hasOfferCatalog> "Germanistik", "Regionalwissenschaft/Raumplanung",
+    "Informatik", "Europäische Kultur und Ideengeschichte", "Sport (Lehramt)", "Sportwissenschaft",
+    "Naturwissenschaft und Technik (Lehramt)", "Wirtschaftsinformatik", "Architektur",
+    "Altbauinstandsetzung", "Angewandte Geowissenschaften", "Bauingenieurwesen", "Bioingenieurwesen",
+    "Biologie", "Biologie (Lehramt)", "Chemie", "Chemie (Lehramt)", "Chemieingenieurwesen und Verfahrenstechnik",
+    "Chemische Biologie", "Deutsch (Lehramt)", "Deutsch-Französischer Doppelmaster in Architektur: Bauen und Planen in Euroregionen",
+    "Elektrotechnik und Informationstechnik", "Energy Engineering and Management", "Financial Engineering",
+    "Funktionaler und konstruktiver Ingenieurbau - Engineering Structures", "Geodäsie u. Geoinformatik",
+    "Geodäsie und Geoinformatik/Topographie", "Geographie (Lehramt)", "Geophysik", "Geoökologie",
+    "Informatik (Lehramt)", "Information Systems Engineering and Management", "Informationswirtschaft",
+    "Ingenieurpädagogik", "Kryptographie", "Kunstgeschichte", "Lebensmittelchemie", "Management of Product Development",
+    "Maschinenbau", "Materialwissenschaft und Werkstofftechnik", "Mathematik", "Mathematik (Lehramt)",
+    "Mechanical Engineering", "Mechanical Engineering (International)", "Mechatronik und Informationstechnik",
+    "Meteorologie", "Mobility Systems Engineering and Management", "Mobilität und Infrastruktur",
+    "Naturwissenschaften, Ingenieurwissenschaften KIT-X", "Optics and Photonics", "Personalentwicklung - Berufs- und Betriebspädagogik",
+    "Philosophie / Ethik (Lehramt)", "Physik", "Physik (Lehramt)", "Production and Operations Management",
+    "Pädagogik", "Technische Volkswirtschaftslehre", "Technomathematik", "Water Science and Engineering",
+    "Wirtschaftsingenieurwesen", "Wirtschaftsmathematik", "Wissenschaft - Medien - Kommunikation";
+  <https://schema.org/location> "http://dbpedia.org/resource/Karlsruhe";
+  <https://schema.org/numberOfEmployees> "25196";
+  <https://schema.org/url> <https://www.kit.edu/english/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.00944444444445"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.411666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b22 <http://schema.org/name> "Universität zu Köln";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b23;
+  <https://schema.org/hasOfferCatalog> "Afrikanistik und Ägyptologie", "Antike Sprachen und Kulturen",
+    "Antike Sprachen und Kulturen / Alte Geschichte", "Antike Sprachen und Kulturen / Archäologie der römischen Provinzen",
+    "Antike Sprachen und Kulturen / Byzantinistik", "Antike Sprachen und Kulturen / Griechische Philologie",
+    "Antike Sprachen und Kulturen / Historisch-Vergleichende Sprachwissenschaft", "Antike Sprachen und Kulturen / Judaistik",
+    "Antike Sprachen und Kulturen / Klassische Archäologie", "Antike Sprachen und Kulturen / Lateinische Philologie",
+    "Antike Sprachen und Kulturen / papyrologie, Epigraphik und Numismatik der Antike",
+    "Archäologie", "Betriebswirtschaftslehre", "Bildungswissenschaften (Lehramt)", "Biochemie",
+    "Biochemistry", "Biological Sciences", "Biologie", "Biologie (Lehramt)", "Business Administration",
+    "Business Administration, Executive Master", "Business Administration/Doppelmaster",
+    "Chemie", "Chemie (Lehramt)", "Chemistry (M.Sc.)", "China-Studien", "Cultural and Intellectual History between East and West (Verbundstudium)",
+    "Culture and Environment in Africa", "Demography and Social Inequality / Doppelmaster",
+    "Deutsch (Lehramt)", "Deutsch-Französische Rechtswissenschaften", "Deutsche Sprache und Literatur",
+    "Deutsche Sprache und Literatur in Mitteleuropa (Verbundstudium)", "Drug Discovery and Development",
+    "Economic Research", "Economics", "Economics (Double Master)", "Economics, Research Track",
+    "Englisch (Lehramt)", "English Studies", "Environmental Sciences", "Erziehungswissenschaften",
+    "Ethnologie", "European Studies / Doppelmaster", "Europäische Rechtslinguistik", "Fennistik",
+    "Französisch (Lehramt)", "Frühförderung", "Förderschwerpunkt Geistige Entwicklung (Lehramt)",
+    "Förderschwerpunkt Hören und Kommunikation (Lehramt)", "Förderschwerpunkt Körperlich und motorische Entwicklung (Lehramt)",
+    "Förderschwerpunkt Lernen (Lehramt)", "Förderschwerpunkt Soziale und emotionale Entwicklung (Lehramt)",
+    "Förderschwerpunkt Sprache (Lehramt)", "Gebärdensprachdolmetschen", "Gender & Queer Studies",
+    "Geographie", "Geographie (Lehramt)", "Geophysik und Meteorologie", "Geowissenschaften",
+    "Geschichte", "Geschichte (Lehramt)", "Gesundheitsökonomie", "Griechisch (Lehramt)",
+    "Health Economics and Management / Doppelmaster", "Information Systems", "Informationsverarbeitung",
+    "Interkulturelle Kommunikation und Bildung", "INTERMEDIA Medienbildung, Mediengestaltung, Medienkultur",
+    "International Management", "Italienisch (Lehramt)", "Japan-Studien: Populär- und Medienkultur",
+    "Japanisch (Lehramt)", "Japanische Kultur in Geschichte und Gegenwart", "Katholische Theologie",
+    "Kunsterziehung (Lehramt)", "Kunstgeschichte", "Latein (Lehramt)", "Lehramt für Sonderpädagogische Förderung",
+    "Lernbereich Mathematische Grundbildung (Lehramt)", "Lernbereich Natur- und Gesellschaftswissenschaften (Lehramt)",
+    "Lernbereich Sprachliche Grundbildung (Lehramt)", "Lernbereich Ästhetische Erziehung (Lehramt)",
+    "Linguistik", "Linguistik und Phonetik", "Mathematik", "Mathematik (Lehramt)", "Medienkulturwissenschaft",
+    "Medienwissenschaft", "Medizin", "Meteorologie und Geophysik", "Mittelalterstudien",
+    "Musik (Lehramt)", "Musikvermittlung", "Musikwissenschaft", "Neurowissenschaften",
+    "Neurowissenschaften, Klinische und Experimentelle", "Niederlandistik", "Niederländisch (Lehramt)",
+    "North American Studies (NAS)", "Pflege, klinische", "Philosophie", "Philosophie, Praktische (Lehramt)",
+    "Physics", "Physics of the Earth and Atmosphere", "Physik", "Physik (Lehramt)", "Politik (Lehramt)",
+    "Politikwissenschaft", "Prävention und Intervention in der Kindheit", "Psychologie",
+    "Psychologie, anwendungsorientiert", "Psychologie, forschungsorientiert", "Pädagogik (Lehramt)",
+    "Quartärforschung und Geoarchäologie", "Rechtswissenschaft (Jura)", "Rechtswissenschaft für im Ausland grad. JuristInnen",
+    "Rechtswissenschaft, deutsch-englisch", "Rechtswissenschaft, deutsch-französisch",
+    "Rechtswissenschaft, Deutsch-Französisches Wirtschaftsrecht Köln/Paris I", "Rechtswissenschaft, deutsch-italienisch",
+    "Rechtswissenschaft, deutsch-türkisch", "Rechtswissenschaft, deutsches und türkisches Wirtschaftsrecht Köln/Istanbul",
+    "Rechtswissenschaft, Unternehmensteuerrecht", "Rechtswissenschaft, Wirtschaftsrecht",
+    "Regionalstudien China", "Regionalstudien Lateinamerika", "Regionalstudien Ost- und Mitteleuropa",
+    "Rehabilitationswissenschaft", "Religion-Kultur-Moderne", "Religionslehre, evangelische (Lehramt)",
+    "Religionslehre, katholische (Lehramt)", "Romanistik", "Russisch (Lehramt)", "Skandinavische Kulturen und Literaturen",
+    "Skandinavistik", "Skandinavistik/Fennistik", "Slavistik", "Sociology and Social Research",
+    "Sozialwissenschaft (Lehramt)", "Sozialwissenschaften", "Spanisch (Lehramt)", "Sprach- und Kulturtransfer in Afrika",
+    "Sprachen und Kulturen Afrikas", "Sprachen und Kulturen der islamischen Welt", "Sprachtherapie",
+    "Südasien- und Südostasien-Studien", "Theorien und Praktiken professionellen Schreibens",
+    "Versorgungswissenschaft", "Volkswirtschaftslehre", "Volkswirtschaftslehre sozialwissenschaftliche Richtung",
+    "Wirtschaftsinformatik", "Wirtschaftsinformatik (Lehramt)", "Wirtschaftsmathematik",
+    "Wirtschaftspädagogik", "Wirtschaftswissenschaft (Lehramt)", "Wirtschaftswissenschaft/Wirtschaftspädagogik (Lehramt)",
+    "Wirtschaftswissenschaften", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/resource/Cologne";
+  <https://schema.org/numberOfEmployees> "48179";
+  <https://schema.org/url> <http://www.portal.uni-koeln.de/uoc_home.html?&L=1> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.92805555555555"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.9286111111111115"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b24 <http://schema.org/name> "Friedrich-Alexander-Universität Erlangen-Nürnberg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b25;
+  <https://schema.org/hasOfferCatalog> "Organisations- und Personalentwicklung (berufsbegleitend)",
+    "Wirtschaftsinformatik", "Elektrotechnik, Elektronik & Informationstechnik", "Berufspädagogik Technik",
+    "Energietechnik", "Informatik / IT-Sicherheit (berufsbegleitend)", "Physik Forschungsstudiengang",
+    "Informations- und Kommunikationstechnik", "Health and Medical Management (berufsbegleitend)",
+    "International Production Engineering and Management", "Informatik (Lehramt)", "Wirtschaftsingenieurwesen",
+    "Chemical Engineering - Nachhaltige Chemische Technologien", "Life Science Engineering",
+    "Chemie- und Bioingenieurwesen", "Computational Engineering", "Internationales Projektmanagement im Großanlagenbau",
+    "Mechatronik", "Maschinenbau", "Multimedia - Didaktik", "Finance, Auditing, Controlling, Taxation (FACT)",
+    "Nanotechnologie", "Informatik", "Advanced Materials and Processes", "Materialwissenschaft und Werkstofftechnik",
+    "Medizintechnik", "Communications and Multimedia Engineering", "Advanced Optical Technologies",
+    "Advanced Signal Processing and Communications Engineering", "Antike Sprachen und Kulturen",
+    "Arabistik, Islamwissenschaft, Semitistik", "Arbeitsmarkt und Personal", "Archäologische Wissenschaften",
+    "Biologie", "Biologie (Lehramt)", "Buchwissenschaft", "Business Management", "Chemie",
+    "Chemie (Lehramt)", "Chinesisch (Lehramt)", "Christliche Medienkommunikation", "Climate and Environmental Sciences",
+    "Computational and Applied Mathematics", "Darstellendes Spiel (Lehramt)", "Deutsch (Lehramt)",
+    "Deutsch-Französisches Recht", "Development Economics and International Studies",
+    "Didaktik des Deutschen als Zweitsprache (Lehramt)", "Digitale Geistes- und Sozialwissenschaften / Digital Humanities",
+    "Economics", "Englisch (Lehramt)", "English and American Studies", "English Studies",
+    "Erziehungswissenschaftlich - Empirische Bildungsforschung", "Ethik der Textkulturen",
+    "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie", "Frankoromanistik",
+    "Französisch (Lehramt)", "Geographie (Lehramt)", "Geographie: Kulturgeographie", "Geographie: Physische Geographie",
+    "GeoThermie / GeoEnergie", "Geowissenschaften", "Germanistik", "Gerontologie", "Geschichte",
+    "Geschichte (Lehramt)", "Gesundheitsmanagement und Gesundheitsökonomie", "Griechisch (Lehramt)",
+    "Griechische Philologie", "Health Business Administration (berufsbegleitend)", "Human Rights",
+    "Iberoromanistik", "Imperien und Transkontinentale Räume", "Indogermanistik und Indoiranistik",
+    "Integrated Life Science - Biologie, Biomathematik, Biophysik", "International Business Studies",
+    "International Information Systems (IIS)", "Islamisch-Religiöse Studien", "Islamische Religionslehre (Lehramt)",
+    "Islamischer Unterricht (Lehramt)", "Italienisch (Lehramt)", "Italoromanistik", "Japanologie",
+    "Journalistik/ Christliche Publizistik", "Kulturgeschichte des Christentums", "Kunst (Lehramt)",
+    "Kunstgeschichte", "Kunstvermittlung", "Latein (Lehramt)", "Lateinische Philologie",
+    "Lebensmittelchemie", "Lehramt an Grundschulen / Didaktik der Grundschule", "Lehramt an Gymnasien",
+    "Lehramt an Mittelschulen / Didaktik der Mittelschule", "Lehramt Realschule", "Lexikographie",
+    "Linguistik", "Linguistische Informatik", "Literatur und Buch", "Literaturstudien - intermedial und interkulturell",
+    "Logopädie", "Management", "Marketing", "Marketing Management (berufsbegleitend)",
+    "Materialphysik", "Mathematik", "Mathematik (Lehramt)", "Medical Process Management",
+    "Medien, Ethik, Religion", "Medienpädagogik", "Medizin", "Mittel - und Neulatein",
+    "Mittelalter- und Renaissance-Studien", "Molecular Science", "Molekulare Medizin",
+    "Musik (Lehramt)", "Nahoststudien", "Nordische Philologie", "North American Studies: Culture and Literature",
+    "Orientalistik", "Pharmazie", "Philosophie", "Philosophie / Ethik (Lehramt)", "Physical Activity and Health",
+    "Physik", "Physik (Lehramt)", "Politikwissenschaft", "Populär- und Medienkultur Japans",
+    "Psychologie", "Pädagogik", "Rechtswissenschaft", "Romanistik", "Sinologie", "Sozialkunde (Lehramt)",
+    "Sozialökonomik", "Soziologie", "Spanisch (Lehramt)", "Sport (Lehramt)", "Sportwissenschaft (berufsbegleitend)",
+    "Standards of Decision-Making Across Cultures", "Technomathematik", "The Americas / Las Américas",
+    "Theater - und Medienwissenschaft", "Theaterpädagogik", "Wirtschaftsmathematik", "Wirtschaftspädagogik",
+    "Wirtschaftsrecht", "Wirtschaftswissenschaften", "Wirtschaftswissenschaften (Lehramt)",
+    "Zahnmedizin", "Zell- und Molekularbiologie", "Öffentliches Recht", "Ökonomie";
+  <https://schema.org/location> "http://dbpedia.org/page/Nuremberg";
+  <https://schema.org/numberOfEmployees> "39085";
+  <https://schema.org/url> <http://fau.eu/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.59791666666667"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.004769444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b26 <http://schema.org/name> "Friedrich-Alexander-Universität Erlangen-Nürnberg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b27;
+  <https://schema.org/hasOfferCatalog> "Organisations- und Personalentwicklung (berufsbegleitend)",
+    "Wirtschaftsinformatik", "Elektrotechnik, Elektronik & Informationstechnik", "Berufspädagogik Technik",
+    "Energietechnik", "Informatik / IT-Sicherheit (berufsbegleitend)", "Physik Forschungsstudiengang",
+    "Informations- und Kommunikationstechnik", "Health and Medical Management (berufsbegleitend)",
+    "International Production Engineering and Management", "Informatik (Lehramt)", "Wirtschaftsingenieurwesen",
+    "Chemical Engineering - Nachhaltige Chemische Technologien", "Life Science Engineering",
+    "Chemie- und Bioingenieurwesen", "Computational Engineering", "Internationales Projektmanagement im Großanlagenbau",
+    "Mechatronik", "Maschinenbau", "Multimedia - Didaktik", "Finance, Auditing, Controlling, Taxation (FACT)",
+    "Nanotechnologie", "Informatik", "Advanced Materials and Processes", "Materialwissenschaft und Werkstofftechnik",
+    "Medizintechnik", "Communications and Multimedia Engineering", "Advanced Optical Technologies",
+    "Advanced Signal Processing and Communications Engineering", "Antike Sprachen und Kulturen",
+    "Arabistik, Islamwissenschaft, Semitistik", "Arbeitsmarkt und Personal", "Archäologische Wissenschaften",
+    "Biologie", "Biologie (Lehramt)", "Buchwissenschaft", "Business Management", "Chemie",
+    "Chemie (Lehramt)", "Chinesisch (Lehramt)", "Christliche Medienkommunikation", "Climate and Environmental Sciences",
+    "Computational and Applied Mathematics", "Darstellendes Spiel (Lehramt)", "Deutsch (Lehramt)",
+    "Deutsch-Französisches Recht", "Development Economics and International Studies",
+    "Didaktik des Deutschen als Zweitsprache (Lehramt)", "Digitale Geistes- und Sozialwissenschaften / Digital Humanities",
+    "Economics", "Englisch (Lehramt)", "English and American Studies", "English Studies",
+    "Erziehungswissenschaftlich - Empirische Bildungsforschung", "Ethik der Textkulturen",
+    "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie", "Frankoromanistik",
+    "Französisch (Lehramt)", "Geographie (Lehramt)", "Geographie: Kulturgeographie", "Geographie: Physische Geographie",
+    "GeoThermie / GeoEnergie", "Geowissenschaften", "Germanistik", "Gerontologie", "Geschichte",
+    "Geschichte (Lehramt)", "Gesundheitsmanagement und Gesundheitsökonomie", "Griechisch (Lehramt)",
+    "Griechische Philologie", "Health Business Administration (berufsbegleitend)", "Human Rights",
+    "Iberoromanistik", "Imperien und Transkontinentale Räume", "Indogermanistik und Indoiranistik",
+    "Integrated Life Science - Biologie, Biomathematik, Biophysik", "International Business Studies",
+    "International Information Systems (IIS)", "Islamisch-Religiöse Studien", "Islamische Religionslehre (Lehramt)",
+    "Islamischer Unterricht (Lehramt)", "Italienisch (Lehramt)", "Italoromanistik", "Japanologie",
+    "Journalistik/ Christliche Publizistik", "Kulturgeschichte des Christentums", "Kunst (Lehramt)",
+    "Kunstgeschichte", "Kunstvermittlung", "Latein (Lehramt)", "Lateinische Philologie",
+    "Lebensmittelchemie", "Lehramt an Grundschulen / Didaktik der Grundschule", "Lehramt an Gymnasien",
+    "Lehramt an Mittelschulen / Didaktik der Mittelschule", "Lehramt Realschule", "Lexikographie",
+    "Linguistik", "Linguistische Informatik", "Literatur und Buch", "Literaturstudien - intermedial und interkulturell",
+    "Logopädie", "Management", "Marketing", "Marketing Management (berufsbegleitend)",
+    "Materialphysik", "Mathematik", "Mathematik (Lehramt)", "Medical Process Management",
+    "Medien, Ethik, Religion", "Medienpädagogik", "Medizin", "Mittel - und Neulatein",
+    "Mittelalter- und Renaissance-Studien", "Molecular Science", "Molekulare Medizin",
+    "Musik (Lehramt)", "Nahoststudien", "Nordische Philologie", "North American Studies: Culture and Literature",
+    "Orientalistik", "Pharmazie", "Philosophie", "Philosophie / Ethik (Lehramt)", "Physical Activity and Health",
+    "Physik", "Physik (Lehramt)", "Politikwissenschaft", "Populär- und Medienkultur Japans",
+    "Psychologie", "Pädagogik", "Rechtswissenschaft", "Romanistik", "Sinologie", "Sozialkunde (Lehramt)",
+    "Sozialökonomik", "Soziologie", "Spanisch (Lehramt)", "Sport (Lehramt)", "Sportwissenschaft (berufsbegleitend)",
+    "Standards of Decision-Making Across Cultures", "Technomathematik", "The Americas / Las Américas",
+    "Theater - und Medienwissenschaft", "Theaterpädagogik", "Wirtschaftsmathematik", "Wirtschaftspädagogik",
+    "Wirtschaftsrecht", "Wirtschaftswissenschaften", "Wirtschaftswissenschaften (Lehramt)",
+    "Zahnmedizin", "Zell- und Molekularbiologie", "Öffentliches Recht", "Ökonomie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Erlangen";
+  <https://schema.org/numberOfEmployees> "39085";
+  <https://schema.org/url> <http://fau.eu/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.59791666666667"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.004769444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b28 <http://schema.org/name> "Universität Konstanz";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b29;
+  <https://schema.org/hasOfferCatalog> "Finanzmathematik", "Wirtschaftswissenschaften",
+    "Advanced Safety Sciences for Medicine (berufsbegleitend)", "Biological Sciences",
+    "Biologie (Lehramt)", "British and American Studies", "Chemie", "Chemie (Lehramt)",
+    "Computer & Information Science", "Deutsch (Lehramt)", "Deutsche Literatur", "Economics",
+    "Englisch (Lehramt)", "Ethnologie und Soziologie", "Französisch (Lehramt)", "Französische Studien",
+    "Frühe Kindheit", "Gender Studies", "Geschichte", "Geschichte (Lehramt)", "Geschichtswissenschaften",
+    "Informatik", "Informatik (Lehramt)", "Italienisch (Lehramt)", "Italienische Studien",
+    "Kulturelle Grundlagen Europas", "Kulturwissenschaft der Antike", "Latein (Lehramt)",
+    "Life Science", "Linguistik", "Literatur - Kunst - Medien", "Literaturwissenschaft",
+    "Magister-Aufbaustudiengang im deutschen Recht für ausländische Juristen", "Mathematik",
+    "Mathematik (Lehramt)", "Motorische Neurorehabilitation (berufsbegleitend)", "Multilingualism",
+    "Nanoscience", "Osteuropa: Geschichte - Medien", "Philosophie", "Philosophie / Ethik (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Political Economy", "Politik- und Verwaltungswissenschaft",
+    "Politikwissenschaft", "Politikwissenschaft (Lehramt)", "Psychologie", "Psychologie - Forensische Psychologie (berufsbegleitend)",
+    "Rechtswissenschaft", "Russisch (Lehramt)", "Slavistik (Literaturwissenschaft)", "Social and Economic Data Analysis",
+    "Soziologie", "Spanisch (Lehramt)", "Spanische Studien", "Speech and Language Processing",
+    "Sport (Lehramt)", "Sport Science", "Sportwissenschaft", "Sprachwissenschaft", "Statistik",
+    "Verwaltungswissenschaft", "Wirtschaftspädagogik", "Wirtschaftswissenschaft (Lehramt)";
+  <https://schema.org/location> "http://dbpedia.org/resource/Konstanz";
+  <https://schema.org/numberOfEmployees> "11711";
+  <https://schema.org/url> <https://www.uni-konstanz.de/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.69"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.188"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b30 <http://schema.org/name> "Universität Bielefeld";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b31;
+  <https://schema.org/hasOfferCatalog> "Workplace Health Management (berufsbegleitend)",
+    "Health Administration (berufsbegleitend)", "Anglistik - British and American Studies",
+    "Anglistik: British and American Studies (Lehramt)", "Behaviour: From Neural Mechanisms to Evolution",
+    "Bildungswissenschaften", "Bildungswissenschaften (Lehramt)", "Bildungswissenschaften / Integrierte Sonderpädagogik (Lehramt)",
+    "Biochemie", "Bioinformatik und Genomforschung", "Biologie", "Biologie (Lehramt)",
+    "BioMechatronik", "Biophysik", "British and American Studies", "Chemie", "Chemie (Lehramt)",
+    "Deutsch als Fremd- und Zweitsprache", "Deutsch als Fremdsprache und Germanistik",
+    "Erziehungswissenschaft", "Ethik", "Evangelische Theologie", "Evangelische Theologie (Lehramt)",
+    "Fundamental and Applied Ecology", "Gender Studies", "Genome Based Systems Biology",
+    "Germanistik", "Germanistik (Lehramt)", "Geschichte und Kultur Lateinamerikas", "Geschichtswissenschaft",
+    "Geschichtswissenschaft (Lehramt)", "Health Communication", "History, Economics and Philosophy of Science",
+    "Informatik", "Intelligente Systeme", "Intelligenz und Bewegung", "InterAmerikanische Studien",
+    "Interdisziplinäre Medienwissenschaften", "Klinische Linguistik", "Kognitive Informatik",
+    "Kunst/Musik (Lehramt)", "Latein: Die römische Literatur, Kultur und Gesellschaft im europäischen Kontext",
+    "Linguistik", "Linguistik der romanischen Sprachen", "Linguistik: Kommunikation, Kognition und Sprachtechnologie",
+    "Literaturwissenschaft", "Mathematik", "Mathematik (Lehramt)", "Mathematische Grundausbildung (Lehramt)",
+    "Mathematische und Theoretische Physik", "Medieninformatik und Gestaltung", "Molecular Cell Biology",
+    "Molekularbiologie", "Molekulare Biotechnologie", "Nanowissenschaften", "Naturwissenschaftliche Informatik",
+    "Philosophie", "Philosophie (Lehramt)", "Philosophie des Geistes", "Physik", "Physik (Lehramt)",
+    "Politikwissenschaft", "Politische Kommunikation", "Psychologie", "Public Health",
+    "Pädagogik (Lehramt)", "Quantitative Economics", "Recht und Management", "Rechtswissenschaft",
+    "Romanische Kulturen: Sprache, Literatur, Geschichte", "Sachunterricht (Lehramt)",
+    "Sozialwissenschaft (Lehramt)", "Sozialwissenschaften", "Soziologie", "Sportwissenschaft",
+    "Sportwissenschaft (Lehramt)", "Sprachliche Grundausbildung", "Statische Wissenschaften",
+    "Texttechnologie und Computerlinguistik", "Umweltwissenschaften", "Wirtschaftsmathematik",
+    "Wirtschaftsphilosophie", "Wirtschaftswissenschaften", "Ästhetische Bildung";
+  <https://schema.org/location> "http://dbpedia.org/resource/Bielefeld";
+  <https://schema.org/numberOfEmployees> "23683";
+  <https://schema.org/url> <https://www.uni-bielefeld.de/(en)/index.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.03777777777778"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.493055555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b32 <http://schema.org/name> "Universität Hohenheim";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b33;
+  <https://schema.org/hasOfferCatalog> "Earth and Climate System Science", "Agrarbiologie",
+    "Agrarwissenschaften", "Agribusiness", "Agricultural Economics", "Agricultural Sciences in the Tropics and Subtropics",
+    "Bioeconomy", "Biologie", "Crop Sciences", "Earth Systems Science", "Economics", "Environmental Protection and Agricultural Food Production",
+    "Environmental Science - Soil, Water and Biodiversity", "Ernährungsmanagement und Diätetik",
+    "Ernährungsmedizin", "Ernährungswissenschaft", "Finance (berufsbegleitend)", "Food Microbiology and Biotechnology",
+    "Food Science and Engineering", "International Business and Economics", "Kommunikationsmanagement",
+    "Kommunikationswissenschaft", "Kommunikationswissenschaft und Medienforschung", "Landscape Ecology",
+    "Lebensmittelchemie", "Lebensmittelwissenschaft und Biotechnologie", "Management",
+    "Master in Finance (berufsbegleitend)", "Molekulare Ernährungswissenschaft", "Nachwachsende Rohstoffe und Bioenergie",
+    "Organic Agriculture and Food Systems", "Wirtschaftsinformatik", "Wirtschaftspädagogik",
+    "Wirtschaftswissenschaften", "Wirtschaftswissenschaften (Lehramt)";
+  <https://schema.org/location> "http://dbpedia.org/resource/Stuttgart";
+  <https://schema.org/numberOfEmployees> "8767";
+  <https://schema.org/url> <https://www.uni-hohenheim.de/english> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.7114"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.2095"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b34 <http://schema.org/name> "Christian-Albrechts-Universität zu Kiel";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b35;
+  <https://schema.org/hasOfferCatalog> "Agrarwissenschaften", "AgriGenomics", "Anglistik (Lehramt)",
+    "Anglistik / Nordamerikanistik", "Anglistik / Nordamerikanistik (Lehramt)", "Applied Ecology",
+    "Arzneimittelforschung", "Berufsbegleitende Lehrerbildung (Mathematik)", "Betriebswirtschaftslehre",
+    "Biochemie und Molekularbiologie", "Biological Oceanography", "Biologie", "Biologie (Lehramt)",
+    "Chemie", "Chemie (Lehramt)", "Climate Physics: Meteorology and Physical Oceanography",
+    "Dairy Science", "Deutsch", "Deutsch (Lehramt)", "Digital Communications", "Dänisch (Lehramt)",
+    "Ecohydrology", "Economics", "Elektro- und Informationstechnik", "Empirische Sprachwissenschaft",
+    "Englisch (Lehramt)", "English and American Literatures, Cultures and Media", "Environmental and Resource Economics",
+    "Environmental Management", "Ernährungs- und Lebensmittelwissenschaften", "Ernährungs- und Verbraucherökonomie",
+    "Europäische Ethnologie / Volkskunde", "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie",
+    "Finanzmathematik", "Französisch (Lehramt)", "Französische Philologie", "Französische Philologie (Lehramt)",
+    "Frisistik", "Geographie", "Geographie (Lehramt)", "Geophysik", "Geowissenschaften",
+    "Geschichte", "Geschichte (Lehramt)", "Griechisch (Lehramt)", "Griechische Philologie",
+    "Griechische Philologie (Lehramt)", "Hospital Management", "Informatik", "Informatik (Lehramt)",
+    "Interkulturelle Studien: Polen und Deutsche in Europa", "International Master of Applied Scientific Dental Education and Research",
+    "International vergleichende Soziologie", "Internationale Politik und Internationales Recht",
+    "Islamwissenschaft", "Italienisch (Lehramt)", "Italienische Philologie", "Italienische Philologie (Lehramt)",
+    "Klassische Archäologie", "Kunst (Lehramt)", "Kunstgeschichte", "Latein (Lehramt)",
+    "Lateinische Literaturen", "Lateinische Philologie", "Lateinische Philologie (Lehramt)",
+    "Marine Geosciences", "Materials Science and Engineering", "Materialwissenschaft",
+    "Mathematik", "Mathematik (Lehramt)", "Medical Life Sciences", "Medienwissenschaft: Film und Fernsehen",
+    "Medizin", "Medizin im Krankenhausmanagement", "Migration und Diversität", "Molecular Biology and Evolution",
+    "Musikwissenschaft", "Niederdeutsch (Lehramt)", "Pharmazie", "Philosophie", "Philosophie (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Physik des Erdsystems: Meteorologie - Ozeanographie - Geophysik",
+    "Politikwissenschaft", "Portugiesische Philologie", "Praktische Philosophie der Wirtschaft und Umwelt",
+    "Prähistorische und Historische Archäologie", "Psychologie", "Pädagogik", "Quantitative Economics (De/Fr)",
+    "Quantitative Finance", "Rechtswissenschaft", "Religion und Ethik", "Romanische Philologie",
+    "Russisch", "Russisch (Lehramt)", "Schulmanagement und Qualitätsentwicklung", "Skandinavistik",
+    "Slavische Philologie (Spezialisierungsvariante Russische Philologie)", "Slavische Philologie (Spezialisierungsvarianten Russische Philologie, Polnische Philologie und Tschechische Philologie)",
+    "Sozio-Ökonomik", "Soziologie", "Spanisch (Lehramt)", "Spanische Philologie", "Spanische Philologie (Lehramt)",
+    "Sportwissenschaft", "Sportwissenschaft (Lehramt)", "Sprache und Variation", "Stadt- und Regionalentwicklung",
+    "Sustainability, Society and the Environment", "Umweltgeographie und - management",
+    "Vergleichende Slavistik", "Volkswirtschaftslehre", "Wirtschaft / Politik (Lehramt)",
+    "Wirtschaftschemie", "Wirtschaftsinformatik", "Wirtschaftsingenieurwesen - Elektro- und Informationstechnik",
+    "Wirtschaftsingenieurwesen Materialwissenschaft", "Wirtschaftswissenschaften", "Zahnmedizin",
+    "Ökotrophologie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Kiel";
+  <https://schema.org/numberOfEmployees> "24108";
+  <https://schema.org/url> <https://www.uni-kiel.de/index-e.shtml> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "54.33888888888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "10.1225"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b36 <http://schema.org/name> "Universität Passau";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b37;
+  <https://schema.org/hasOfferCatalog> "Bildungs- und Erziehungsprozesse", "Business Administration",
+    "Business Administration and Economics", "Caritaswissenschaft und werteorientiertes Management",
+    "Deutsch (Lehramt)", "Deutsches Recht für ausländische Studierende", "Development Studies",
+    "Englisch (Lehramt)", "European Studies Major", "Europäische Studien / European Studies",
+    "Französisch (Lehramt)", "Geographie (Lehramt)", "Geographie: Kultur, Umwelt und Tourismus",
+    "Geschichte", "Geschichte (Lehramt)", "Governance & Public Policy - Staatswissenschaften",
+    "Historische Kulturwissenschaften", "Informatik", "Informatik (Lehramt)", "International Cultural and Business Studies (ICBS)",
+    "International Economics and Business", "Internet Computing", "Journalistik und Strategische Kommunikation",
+    "Katholische Religionslehre (Lehramt)", "Kulturwirtschaft / International Cultural and Business Studies",
+    "Kunst (Lehramt)", "Kunsterziehung (Lehramt)", "Lehramt an Gymnasien", "Lehramt an Mittelschulen",
+    "Lehramt an Realschulen", "Lehramtsbezogener Bachelorstudiengang Realschule", "Mathematik",
+    "Mathematik (Lehramt)", "Medien und Kommunikation", "Mobile und Eingebettete Systeme",
+    "Multimedia, Distributed and Pervasive Secure Systems", "North and Latin American Studies (MANoLAS)",
+    "Rechtswissenschaft", "Russian and East Central European Studies", "Schulische Bildungs- und Erziehungsprozesse",
+    "Sozialkunde (Lehramt)", "Sport (Lehramt)", "Sprach- und Textwissenschaften", "Text- und Kultursemiotik",
+    "Wirtschaftsinformatik (Information Systems)", "Wirtschaftswissenschaft (Lehramt)";
+  <https://schema.org/location> "http://dbpedia.org/resource/Passau";
+  <https://schema.org/numberOfEmployees> "11588";
+  <https://schema.org/url> <http://www.uni-passau.de/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.568333333333335"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.453333333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b38 <http://schema.org/name> "Johann Wolfgang Goethe-Universität Frankfurt am Main";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b39;
+  <https://schema.org/hasOfferCatalog> "Afrikanistik", "Allgemeine und Vergleichende Literaturwissenschaft",
+    "American Studies", "Anglophone Literatures, Cultures and Media", "Archäologie und Geschichte der römischen Provinzen",
+    "Archäologie und Kulturgeschichte des Vorderen Orients", "Archäologie von Münze, Geld und von Wirtschaft in der Antike",
+    "Archäometrie", "Arzneimittelforschung", "Audiovisual and Cinema Studies", "Betriebswirtschaftslehre",
+    "Biochemie", "Bioinformatik", "Biologie (Lehramt)", "Biophysik", "Biowissenschaften",
+    "Buchwissenschaft", "Chemie", "Chemie (Lehramt)", "Comparative Dramaturgy and Performance Research",
+    "Comparative Literature", "Curatorial Studies", "Deutsch (Lehramt)", "Deutsch-Portugiesische Studien / Estudos Luso-Alemães",
+    "Deutsche Literatur", "Dramaturgie", "Empirische Sprachwissenschaft", "Englisch (Lehramt)",
+    "English Studies", "Erdkunde (Lehramt)", "Erziehungswissenschaften", "Ethnologie",
+    "Ethnologie und ihre Deutsch-Französische Perspektiven", "Evangelische Religionslehre (Lehramt)",
+    "Evangelische Theologie", "Filmkultur: Archivierung, Programmierung, Präsentation",
+    "Französisch (Lehramt)", "Geographie", "Geographien der Globalisierung - Märkte und Metropolen",
+    "Geowissenschaften", "Germanistik", "Geschichte", "Geschichte (Lehramt)", "Geschichte und Philosophie der Wissenschaften",
+    "Griechisch (Lehramt)", "Griechische Philologie", "Informatik", "Informatik (Lehramt)",
+    "Interdisciplinary Neuroscience", "International Economics and Economic Policy", "International Management",
+    "Internationale Studien / Friedens- und Konfliktforschung", "Islamische Religion (Lehramt)",
+    "Islamische Studien", "Italienisch (Lehramt)", "Italienstudien", "Japan in der Welt: Globale Herausforderungen, kulturelle Perspektiven",
+    "Japanologie", "Japanologie - Literatur und Ideenwelten", "Judaistik", "Katholische Religionslehre (Lehramt)",
+    "Katholische Theologie", "Klassische Archäologie", "Kulturanthropologie und europäische Ethnologie",
+    "Kunst-Medien-Kulturelle Bildung", "Kunsterziehung (Lehramt)", "Kunstgeschichte",
+    "Kunstpädagogik", "Latein (Lehramt)", "Lateinische Philologie", "Linguistik", "Mathematik",
+    "Mathematik (Lehramt)", "Medizin", "Meteorologie", "Modern East Asian Studies", "Molekulare Biotechnologie",
+    "Molekulare Biowissenschaften", "Molekulare Medizin", "Money and Finance", "Moving Cultures - Transcultural Encounters",
+    "Musikwissenschaft", "Oekologie und Evolution", "Pharmazie", "Philosophie", "Philosophie (Lehramt)",
+    "Physical Biology of Cells and Cell Interactions", "Physik", "Physik (Lehramt)", "Physische Geographie",
+    "Politik und Wirtschaft (Lehramt)", "Politikwissenschaft", "Politische Theorie", "Psychologie",
+    "Quantitative Economics, Quantitative Finance, Quantitative Management, Quantitative Marketing",
+    "Rechtswissenschaft", "Religionsphilosophie", "Religionswissenschaft", "Romanistik",
+    "Romanistische Linguistik", "Romanistische Literatur- und Kulturwissenschaft", "Sachunterricht (Lehramt)",
+    "Science and Technology Studies: Economies, Governance, Life", "Sinologie", "Skandinavistik",
+    "Southeast Asian Studies", "Sozialwissenschaften des Sports", "Soziologie", "Spanisch (Lehramt)",
+    "Sport (Lehramt)", "Sportmedizinisches Training/Leistungsphysiologie", "Sportwissenschaft",
+    "Sprachen und Kultur Südostasiens", "Theater-, Film- und Medienwissenschaft", "Umweltwissenschaften",
+    "Vor- und Frühgeschichte", "Vor- und frühgeschichtliche Archäologie", "Wirtschafts- und Finanzsoziologie",
+    "Wirtschaftsinformatik", "Wirtschaftspädagogik", "Wirtschaftswissenschaften", "Zahnmedizin",
+    "Ästhetik";
+  <https://schema.org/location> "http://dbpedia.org/resource/Frankfurt_am_Main";
+  <https://schema.org/numberOfEmployees> "44428";
+  <https://schema.org/url> <http://www.goethe-university-frankfurt.de/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.12777777777778"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.666666666666666"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b40 <http://schema.org/name> "Jacobs University Bremen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b41;
+  <https://schema.org/hasOfferCatalog> "Biochemistry and Cell Biology", "Chemistry",
+    "Computer Science", "Data Engineering", "Earth and Environmental Sciences", "Electrical and Computer Engineering",
+    "Global Economics and Management", "Industrial Engineering & Management", "Integrated Social Sciences",
+    "Intelligent Mobile Systems", "International Business Administration", "International Relations",
+    "International Relations: Politics and History", "Mathematics", "Medicinal Chemistry and Chemical Biology",
+    "Physics", "Psychologie", "Psychology", "Supply Chain Engineering & Management";
+  <https://schema.org/location> "http://dbpedia.org/resource/Bremen_(city)";
+  <https://schema.org/numberOfEmployees> "1253";
+  <https://schema.org/url> <http://www.jacobs-university.de> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.166666666666664"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.65"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b42 <http://schema.org/name> "Ruhr-Universität Bochum";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b43;
+  <https://schema.org/hasOfferCatalog> "Bauingenieurwesen", "Wirtschafts- und Steuerrecht",
+    "Allgemeine und Vergleichende Literaturwissenschaft", "Angewandte Informatik", "Anglistik / Amerikanistik",
+    "Archäologische Wissenschaften", "Biochemie", "Biodiversität", "Biologie", "Biologie (Lehramt)",
+    "Chemie", "Chemie (Lehramt)", "Chinesisch (Lehramt)", "Cognitive Science: Mind, Brain & Behaviour",
+    "Computational Engineering", "Criminal Justice, Governance and Police Science", "Deutsch (Lehramt)",
+    "Deutsches, Türkisches und Internationales Wirtschaftsrecht", "Development Management",
+    "Diskurse und Praktiken kultureller Vermittlung", "Econometrics", "Economics", "Elektrotechnik und Informationstechnik",
+    "Empirische Mehrsprachigkeitsforschung", "Englisch (Lehramt)", "Erziehungswissenschaft / Pädagogik",
+    "Ethics - Economics, Law and Politics", "European Culture and Economy", "Evangelische Theologie (Lehramt)",
+    "Film und Audiovisuelle Medien", "Französisch (Lehramt)", "Gender Studies - Kultur, Kommunikation, Gesellschaft",
+    "Geographie", "Geographie (Lehramt)", "Geowissenschaften", "Germanistik", "Geschichte",
+    "Griechisch (Lehramt)", "Humanitäre Hilfe", "IT-Sicherheit / Informationstechnik",
+    "IT-Sicherheit / Netze und Systeme", "Italienisch (Lehramt)", "Japanisch (Lehramt)",
+    "Japanologie", "Katholische Theologie", "Katholische Theologie (Lehramt)", "Klassische Archäologie",
+    "Klassische Philologie (Latein / Griechisch)", "Klinische Psychologie", "Koreanistik",
+    "Kriminologie und Polizeiwissenschaften", "Kunstgeschichte", "Lasers and Photonics",
+    "Latein (Lehramt)", "Linguistik", "Management & Consulting im Sport", "Management (Wirtschaftswissenschaft - BWL)",
+    "Management and Economics (Wirtschaftswissenschaft)", "Maschinenbau", "Materials Science and Simulation",
+    "Mathematik", "Mathematik (Lehramt)", "Medienwissenschaft", "Medieval and Renaissance Studies",
+    "Medizin", "Moderne und zeitgenössische Kunst", "Molecular and Developmental Stem Cell Biology",
+    "Molecular Sciences and Simulation", "Nationales und Europäisches Wirtschaftsrecht",
+    "Organizational Management (berufsbegleitend)", "Orientalistik - Islamwissenschaft",
+    "Ostasienwissenschaften", "Philosophie", "Philosophie (Lehramt)", "Physik", "Physik (Lehramt)",
+    "Politik Ostasiens", "Politik, Wirtschaft und Gesellschaft", "Psychologie", "Psychologie und Kognitive Neurowissenschaft",
+    "Pädagogik (Lehramt)", "Rechtswissenschaft", "Religionswissenschaft", "Romanische Philologie (Allg.)",
+    "Romanische Philologie, Französisch", "Romanische Philologie, Italienisch", "Romanische Philologie, Spanisch",
+    "Russisch (Lehramt)", "Russische Kultur", "Sales Engineering and Product Management",
+    "Sales Management", "Sinologie", "Slavische Philologie", "Sozialwissenschaften", "Sozialwissenschaften (Lehramt)",
+    "Spanisch (Lehramt)", "Sportwissenschaft", "Sportwissenschaft (Lehramt)", "Szenische Forschung",
+    "Theaterwissenschaft", "Transformation of Urban Landscape", "Umwelttechnik und Ressourcen - Management",
+    "Ur- und Frühgeschichte", "Wirtschaft und Politik Ostasiens", "Wirtschafts- und Rohstoffarchäologie",
+    "Wirtschaftspsychologie", "Wirtschaftswissenschaft";
+  <https://schema.org/location> "http://dbpedia.org/resource/Bochum";
+  <https://schema.org/numberOfEmployees> "42718";
+  <https://schema.org/url> <https://www.ruhr-uni-bochum.de/index_en.htm> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.443888888888885"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.261666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b44 <http://schema.org/name> "Universität Stuttgart";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b45;
+  <https://schema.org/hasOfferCatalog> "Maschinelle Sprachverarbeitung", "Technische Kybernetik",
+    "Digital Humanities", "Air Quality Control, Solid Waste and Waste Water Process Engineering (WASTE)",
+    "Anglistik", "Architektur und Stadtplanung", "Autonome Systeme", "Bauingenieurwesen",
+    "Bauphysik (berufsbegleitend)", "Berufspädagogik/Technikpädagogik", "Betriebswirtschaftslehre",
+    "Betriebswirtschaftslehre, technisch orientiert", "Biologie (Lehramt)", "Bürgerbeteiligung (berufsbegleitend)",
+    "Chemie", "Chemie (international)", "Chemie- und Bioingenieurwesen", "COMMAS - Computational Mechanics of Materials and Structures",
+    "Computational Linguistics", "Computer Science", "Deutsch (Lehramt)", "Electrical Engineering",
+    "Elektromobilität", "Elektrotechnik und Informationstechnik", "Empirische Politik- und Sozialforschung",
+    "Empirische Politik- und Sozialforschung (dt.-franz.)", "Energietechnik", "Englisch (Lehramt)",
+    "Erneuerbare Energien", "Fahrzeug- und Motorentechnik", "Französisch (Lehramt)", "Geodäsie und Geoinformatik",
+    "GEOENGINE - Geomatics Engineering", "Germanistik", "Geschichte (Lehramt)", "Geschichte - Quellen und Deutungen",
+    "Geschichte - Zeit-Raum-Mensch", "Geschichte der Naturwissenschaften und Technik",
+    "Immobilientechnik und Immobilienwirtschaft", "Informatik", "Informatik (Lehramt)",
+    "INFOTECH - Information Technology", "Infrastructure Planning", "Integrated Urbanism and Sustainable Design",
+    "Integrative Technologies and Architectural Research", "Integrierte Gerontologie (berufsbegleitend)",
+    "International Construction: Practice and Law MBE (berufsbegleitend)", "Intra- und Entrepreneurship (berufsbegleitend)",
+    "Italienisch (Lehramt)", "Kunstgeschichte", "Lebensmittelchemie", "Linguistik", "Literaturwissenschaft: Germanistik",
+    "Logistikmanagement (berufsbegleitend)", "Luft- und Raumfahrttechnik", "Maschinenbau",
+    "Maschinenbau / Mikrotechnik, Gerätetechnik und Technische Optik", "Maschinenbau / Produktentwicklung und Konstruktionstechnik",
+    "Maschinenbau / Werkstoff- und Produktionstechnik", "Materialwissenschaft", "Mathematik",
+    "Mathematik (Lehramt)", "Mechatronik", "Medieninformatik", "Medizintechnik", "Nachhaltige Elektrische Energieversorgung",
+    "Naturwissenschaft und Technik (Lehramt)", "Philosophie", "Philosophie / Ethik (Lehramt)",
+    "Photonic Engineering", "Physics", "Physik", "Physik (Lehramt)", "Planung und Partizipation",
+    "Politikwissenschaft (Lehramt)", "Praxisorientierte Kulturphilosophie (dt.-franz.)",
+    "Romanistik", "Simulation Technology", "Softwaretechnik", "Sozialwissenschaften",
+    "Sozialwissenschaften (dt.-franz.)", "Sport (Lehramt)", "Sportwissenschaft", "Sportwissenschaft: Gesundheitsförderung",
+    "Sprachtheorie und Sprachvergleich", "Technikpädagogik", "Technische Biologie", "Technologiemanagement",
+    "Umweltschutztechnik", "Verfahrenstechnik", "Verkehrsingenieurwesen", "Water Resources Engineering and Management (WAREM)",
+    "Wirtschaftsinformatik", "Wirtschaftswissenschaft (Lehramt)", "Wissenskulturen";
+  <https://schema.org/location> "http://dbpedia.org/resource/Stuttgart";
+  <https://schema.org/numberOfEmployees> "24642";
+  <https://schema.org/url> <https://www.uni-stuttgart.de/home/index.en.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.781666666666666"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.175277777777778"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b46 <http://schema.org/name> "Technische Universität Darmstadt";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b47;
+  <https://schema.org/hasOfferCatalog> "Materialwissenschaft", "Energy Science and Engineering",
+    "Technische Biologie", "Technische Physik", "Materialwissenschaft, Materials Science",
+    "Informatik", "Bauingenieurwesen und Geodäsie", "Geodäsie und Geoinformation", "Verkehrswesen (Traffic and Transport)",
+    "Geschichte", "Bauingenieurwesen", "Umweltingenieurwissenschaften", "Computational Engineering",
+    "Medizintechnik", "Angewandte Geowissenschaften", "Angewandte Mechanik", "Architektur",
+    "Autonome Systeme (berufsbegleitend)", "Bahnverkehr, Mobilität und Logistik", "Baurecht und Bauwirtschaft",
+    "Bautechnik (Lehramt)", "Bildungswissenschaften: Bildung in globalen Technisierungsprozessen",
+    "Biologie", "Biomolecular Engineering", "Chemie", "Chemietechnik (Lehramt)", "Cognitive Science",
+    "Data and Discourse Studies", "Deutsch (Lehramt)", "Distributed Software Systems (berufsbegleitend)",
+    "Elektro- und Informationstechnik", "Elektro- und Informationstechnik (Lehramt)",
+    "Ethik (Lehramt)", "Evangelische Religionslehre (Lehramt)", "Germanistik", "Germanistische Sprachwissenschaft",
+    "Geschichte (Lehramt)", "Geschichte - Moderne", "Governance und Public Policy", "Informatik (Lehramt)",
+    "Information and Communication Engineering", "Informationssystemtechnik", "International Cooperation and Urban Development",
+    "Internationale Studien / Friedens- und Konfliktforschung", "Internet- and Web-based Systems (berufsbegleitend)",
+    "IT-Security (berufsbegleitend)", "Katholische Religionslehre (Lehramt)", "Körperpflege (Lehramt)",
+    "Linguistic and Literary Computing", "Maschinenbau", "Maschinenbau - Mechanical and Process-Engineering",
+    "Material- und Geowissenschaften", "Mathematik", "Mathematik (Lehramt)", "Mechanik",
+    "Mechatronik", "Metalltechnik (Lehramt)", "Paper Science and Technology", "Philosophie",
+    "Physik", "Physik (Lehramt)", "Politik und Wirtschaft (Lehramt)", "Politikwissenschaft",
+    "Politische Theorie", "Psychologie", "Psychologie in IT", "Pädagogik", "Rechts- und Wirtschaftswissenschaften",
+    "Soziologie", "Sportmanagement", "Sportwissenschaft", "Sportwissenschaft (Lehramt)",
+    "Sportwissenschaft und Informatik", "Technik und Philosophie", "Tropical Hydrogeology (TropHEE)",
+    "Visual Computing (berufsbegleitend)", "Wirtschaftsinformatik", "Wirtschaftsingenieurwesen - Bauingenieurwesen",
+    "Wirtschaftsingenieurwesen - Elektro- und Informationstechnik", "Wirtschaftsingenieurwesen - Maschinenbau",
+    "Wirtschaftswissenschaften";
+  <https://schema.org/location> "http://dbpedia.org/resource/Darmstadt";
+  <https://schema.org/numberOfEmployees> "25100";
+  <https://schema.org/url> <https://www.tu-darmstadt.de/index.en.jsp> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.874995"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.656517"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b48 <http://schema.org/name> "Justus-Liebig-Universität Gießen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b49;
+  <https://schema.org/hasOfferCatalog> "Materialwissenschaften", "Biomechanik-Motorik-Bewegungsanalyse",
+    "Physik und Technologie für Raumfahrtanwendungen", "Physik", "Angewandte Theaterwissenschaft",
+    "Psychologie", "Agrar- und Ressourcenökonomie", "Agrarwissenschaften", "Agrobiotechnology",
+    "Angewandte Musikwissenschaft", "Anglistik", "Anglophone Studies", "Antike Literatur: Griechische/Lateinische Philologie",
+    "Archäologie", "Außerschulische Bildung", "Berufliche und Betriebliche Bildung (Lehramt)",
+    "Betriebswirtschaftslehre", "Bewegung und Gesundheit", "Bildung und Förderung in der Kindheit   ",
+    "Bioinformatik und Systembiologie", "Biologie", "Bohemistik / Tschechisch", "Chemie",
+    "Choreographie und Performance", "Computerlinguistik und Texttechnologie", "Demokratie und Governance",
+    "Deutsch", "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Englisch", "Englisch (Lehramt)",
+    "Ernährungswissenschaften", "Ernährungsökonomie", "Erziehungswissenschaft: Außerschulische Bildung",
+    "European Master of Comparative Vertebrate Morphology", "Evangelische Theologie",
+    "Fachjournalistik Geschichte", "Französisch", "Französisch (Lehramt)", "Galloromanistik",
+    "Geographie", "Germanistik - Sprachwissenschaft", "Geschichte", "Geschichte (Lehramt)",
+    "Geschichts- und Kulturwissenschaften", "Gesellschaft und Kulturen der Moderne", "Getränketechnologie",
+    "Global Change: Ecosystem Science and Policy", "Griechisch", "Griechisch (Lehramt)",
+    "Hispanistik / Spanisch", "Historische und gegenwärtige Bildkulturen: Klassische Archäologie/Kunstgeschichte",
+    "Inklusive Pädagogik und Elementarbildung", "Insect Biotechnology and Bioresources",
+    "Interdisziplinäre Studien zum östlichen Europa", "Katholische Theologie", "Kinderzahnheilkunde",
+    "Klassische Archäologie", "Klassische Philologie", "Klinische Sportphysiologie und Sporttherapie",
+    "Komparatistik", "Komparatistik  Vergleichende Literatur- und Kulturwissenschaft",
+    "Kroatisch / Serbisch", "Kultur der Antike", "Kunsterziehung (Lehramt)", "Kunstgeschichte",
+    "Kunstpädagogik", "Latein", "Latein (Lehramt)", "Lebensmittelchemie", "Lehramt an beruflichen Schulen",
+    "Lehramt an Förderschulen", "Lehramt an Grundschulen", "Lehramt an Grundschulen mit Unterrichtsfach Islamische Religion",
+    "Lehramt an Gymnasien", "Lehramt an Haupt-, und Realschulen", "Lusitanistik / Portugiesisch",
+    "Magister Juris Internationalis", "Magister Legum", "Mathematik", "Mathematik (Lehramt)",
+    "Medizin", "Mensch-Klima-PaläoUmwelt", "Moderne Fremdsprachen, Kultur und Wirtschaft",
+    "Moderne Sprachen und Sprachwissenschaften - Modern Languages and Linguistics", "Musikpädagogik",
+    "Musikpädagogik (Lehramt)", "Musikwissenschaft", "Neuere Fremdsprachen und Fremdsprachendidaktik",
+    "Nutzpflanzenwissenschaften", "Nutztierwissenschaften", "Oenologie", "Osteuropäische Geschichte",
+    "Pflanzenproduktion", "Philosophie", "Philosophie (Lehramt)", "Physik (Lehramt)",
+    "Politik und Wirtschaft (Lehramt)", "Politikwissenschaft", "Polonistik / Polnisch",
+    "Portugiesisch", "Pädagogik", "Rechtswissenschaft", "Religion-Medialität-Kultur",
+    "Romanistik", "Russisch (Lehramt)", "Russistik / Russisch", "Sachunterricht (Lehramt)",
+    "Serbisch", "Slawistik", "Social Sciences", "Soziologie", "Spanisch", "Spanisch (Lehramt)",
+    "Sport (Lehramt)", "Sportrecht", "Sprache, Literatur, Kultur", "Sprachtechnologie und Fremdsprachendidaktik   ",
+    "Tiermedizin", "Transition Management", "Tschechisch", "Turkologie", "Türkisch", "Umwelt- und Ressourcenmanagement",
+    "Umweltmanagement", "Umweltwissenschaften", "Volkswirtschaftslehre", "Weinwirtschaft",
+    "Wirtschaftsgeographie und Raumentwicklungspolitik", "Wirtschaftswissenschaften",
+    "Zahnmedizin", "Ökotrophologie";
+  <https://schema.org/location> "http://dbpedia.org/resource/Gießen";
+  <https://schema.org/numberOfEmployees> "28454";
+  <https://schema.org/url> <https://www.uni-giessen.de/cms/welcome?set_language=en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.58083333333333"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.676388888888889"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b50 <http://schema.org/name> "Ernst-Moritz-Arndt-Universität Greifswald";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b51;
+  <https://schema.org/hasOfferCatalog> "Anglistik / Amerikanistik", "Baltistik", "Betriebswirtschaftslehre",
+    "Bildende Kunst", "Biochemie", "Biodiversität und Ökologie", "Biologie", "Biomathematik",
+    "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Deutsch als Fremdsprache (Beifach Lehramt)",
+    "Dänisch (Lehramt)", "Earth Sciences", "Englisch (Lehramt)", "Evangelische Religion (Lehramt)",
+    "Evangelische Theologie", "Fennistik", "Geographie", "Geographie (Lehramt)", "Geologie",
+    "Germanische Literaturwissenschaft", "Germanistik", "Geschichte", "Geschichte (Lehramt)",
+    "Geschichtswissenschaft", "Health Care Management", "Humanbiologie", "Humanmedizin",
+    "Kinderzahnheilkunde", "Kirchenmusik", "Kommunikationswissenschaft", "Kultur  Interkulturalität  Literatur: Anglistik/Amerikanistik; Germanistik; Skandinavistik; Slawistik",
+    "Kunst und Gestaltung (Lehramt)", "Kunstgeschichte", "Landscape Ecology and Nature Conservation",
+    "Landschaftsökologie und Naturschutz", "Management und Recht", "Mathematik", "Mathematik (Lehramt)",
+    "Mathematik mit Informatik", "Medizin", "Molekularbiologie und Physiologie", "Musik",
+    "Musikwissenschaft", "Nachhaltigkeitsgeographie", "Niederdeutsch (Lehramt)", "Norwegisch (Lehramt)",
+    "Organisationskommunikation", "Pharmazie", "Philosophie", "Philosophie (Lehramt)",
+    "Physik", "Politikwissenschaft", "Polnisch (Lehramt)", "Psychologie", "Rechtswissenschaft",
+    "Russisch (Lehramt)", "Schwedisch (Lehramt)", "Skandinavistik", "Slawistik", "Sprache und Kommunikation",
+    "Sprache und Kommunikation: International", "Sprachliche Vielfalt, Linguistik anglophoner, baltischer, finnischer, skandinavischer und slawischer Kulturen",
+    "Tourismus und Regionalentwicklung", "Umweltnaturwissenschaften", "Umweltwissenschaften",
+    "Vergleichende Literaturwissenschaft", "Volkswirtschaftslehre", "Zahnmedizin", "Öffentliches Recht";
+  <https://schema.org/location> "http://dbpedia.org/resource/Greifswald";
+  <https://schema.org/numberOfEmployees> "10857";
+  <https://schema.org/url> <http://www.uni-greifswald.de/?L=1> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "54.094638"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.374626"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b52 <http://schema.org/name> "Technische Universität Hamburg-Harburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b53;
+  <https://schema.org/hasOfferCatalog> "Allgemeine Ingenieurwissenschaften", "Arbeitslehre / Technik (Lehramt)",
+    "Bau- und Holztechnik (Lehramt)", "Bau- und Umweltingenieurwesen", "Bauingenieurwesen",
+    "Bioverfahrenstechnik", "Chemical and Bioprocess Engineering", "Computer Science",
+    "Elektrotechnik", "Elektrotechnik / Informationstechnik (Lehramt)", "Energie- und Umwelttechnik",
+    "Energietechnik", "Environmental Engineering", "Flugzeug-Systemtechnik", "General Engineering Science",
+    "Informatik-Ingenieurwesen", "Information and Communication Systems", "Internationales Wirtschaftsingenieurwesen",
+    "Joint European Master in Environmental Studies - Cities and Sustainability", "Joint Masters in Environmental Studies",
+    "Joint Masters in Global Innovation Management", "Joint Masters in Ship and Offshore Technology",
+    "Logistik und Mobilität", "Logistik, Infrastruktur und Mobilität", "Maschinenbau",
+    "Materialwissenschaft", "Mechanical Engineering and Management", "Mechatronics", "Mechatronik",
+    "Medientechnik (Lehramt)", "Mediziningenieurwesen", "Metalltechnik (Lehramt)", "Microelectronics and Microsystems",
+    "Produktentwicklung, Werkstoffe und Produktion", "Regenerative Energien", "Schiffbau",
+    "Schiffbau und Meerestechnik", "Technomathematik", "Theoretischer Maschinenbau", "Verfahrenstechnik",
+    "Wasser- und Umweltingenieurwesen";
+  <https://schema.org/location> "http://dbpedia.org/resource/Hamburg";
+  <https://schema.org/numberOfEmployees> "6678";
+  <https://schema.org/url> <http://www.tuhh.de/index_e.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.46083333333333"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.969444444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b54 <http://schema.org/name> "Technische Universität Kaiserslautern";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b55;
+  <https://schema.org/hasOfferCatalog> "Betriebswirtschaftslehre mit technischer Qualifikation",
+    "Informatik / Technische Informatik (Lehramt)", "Bauingenieurwesen", "Advanced Quantum Physics",
+    "Angewandte Informatik", "Architektur", "Bauingenieurwesen - Infrastruktur Wasser und Mobilität",
+    "Bauingenieurwesen - Konstruktiver Ingenieurbau", "Bautechnik (Lehramt)", "Betriebswirtschaft und Management",
+    "Betriebswirtschaftslehre", "Bildungswissenschaften (Lehramt)", "Bio- und Chemieingenieurwissenschaften",
+    "Biologie", "Biologie (Lehramt)", "Biophysik", "Bioverfahrenstechnik", "Biowissenschaften",
+    "Border Studies", "Brandschutzplanung", "Chemie", "Chemie (Lehramt)", "Chemie mit Schwerpunkt Wirtschaftswissenschaften",
+    "Cognitive Science", "Commercial Vehicle Technology / Nutzfahrzeugtechnologie", "Computational Engineering",
+    "Ecology and Microbial Biodiversity", "Elektrotechnik (Lehramt)", "Elektrotechnik und Informationstechnik",
+    "Energie und Verfahrenstechnik", "Energietechnik und Kraftmaschinen", "Erwachsenenbildung",
+    "Facility Management", "Fahrzeugtechnik", "Financial Engineering", "Finanz- und Versicherungsmathematik",
+    "Geographie (Lehramt)", "Gesundheit (Lehramt)", "Holztechnik (Lehramt)", "Informatik",
+    "Integrative Sozialwissen­schaft", "Lebensmittelchemie", "Management von Gesundheits- und Sozialeinrichtungen",
+    "Management von Kultur- und Non-Profit-Organisationen", "Maschinenbau", "Maschinenbau - Verfahrenstechnik",
+    "Maschinenbau -Produktions- und Werkstofftechnik", "Maschinenbau mit angewandter Informatik",
+    "Maschinenbau mit BWL", "Master of Evaluation (MABLE)", "Materialwissenschaften und Werkstofftechnik",
+    "Mathematics International", "Mathematik", "Mathematik (Lehramt)", "Medien- und Kommunikationstechnik",
+    "Medizinische Physik", "Metalltechnik (Lehramt)", "Microbial and Plant Biotechnology",
+    "Molecular Cell Biology and Neurobiology", "Nachhaltige Entwicklungszusammenarbeit",
+    "Nanotechnology", "Organisationsentwicklung", "Personalentwicklung", "Physik", "Physik (Lehramt)",
+    "Produktentwicklung im Maschinenbau", "Produktionstechnik", "Psychologie kindlicher Lern- und Entwicklungsauffälligkeiten",
+    "Raumplanung", "Schulmanagement", "Software Engineering für Eingebettete Systeme",
+    "Sozialkunde (Lehramt)", "Sozialwissenschaften - Organisation ud Kommunikation", "Sozioinformatik",
+    "Sport (Lehramt)", "Sportwissenschaft und Gesundheit", "Stadt- und Regionalentwicklung",
+    "Steuerrecht für die Unternehmenspraxis", "Systemische Beratung", "Technomathematik",
+    "Technophysik", "Toxikologie", "Umweltplanung und Recht", "Wirtschaftschemie", "Wirtschaftsingenieurwesen",
+    "Wirtschaftsingenieurwesen - Chemie", "Wirtschaftsingenieurwesen - Elektrotechnik",
+    "Wirtschaftsingenieurwesen - Informatik", "Wirtschaftsingenieurwesen - Maschinenbau",
+    "Wirtschaftsingenieurwesen - Umwelt- und Verfahrenstechnik", "Wirtschaftsmathematik",
+    "Wirtschaftsrecht für die Unternehmenspraxis", "Ökonomie und Management";
+  <https://schema.org/location> "http://dbpedia.org/resource/Kaiserslautern";
+  <https://schema.org/numberOfEmployees> "14869";
+  <https://schema.org/url> <https://www.uni-kl.de/en/home/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.42388888888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.753055555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b56 <http://schema.org/name> "Universität Siegen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b57;
+  <https://schema.org/hasOfferCatalog> "Accounting, Auditing and Taxation", "Angewandte Sprachwissenschaft: Kommunikation und Fremdsprachen im Beruf",
+    "Architektur", "Architektur - Planen und Bauen im Bestand", "Bauingenieurwesen", "Bauingenieurwesen (dual)",
+    "Betriebswirtschaftslehre", "Bildung und Soziale Arbeit", "Bildungswissenschaften (Lehramt)",
+    "Bildungswissenschaften mit integrierter Förderpädagogik (Lehramt)", "Biologie (Lehramt)",
+    "Chemie", "Chemie (Lehramt)", "Christliche Theologien in ökomenischer Perspektive",
+    "Controlling and Risk Management", "Deutsch (Lehramt)", "Deutsches und Europäisches Wirtschaftsrecht",
+    "Economic Policy", "Elektrotechnik", "Elektrotechnik (dual)", "Elektrotechnik (Lehramt)",
+    "Englisch (Lehramt)", "Entrepreneurship and SME Management", "Europa im globalen Wandel",
+    "Europäische Wirtschaftskommunikation", "Executive Master of Business Administration",
+    "Fahrzeugbau - Automotive Engineering", "Fertigungstechnik (Lehramt)", "Finanz- und Rechnungswesen (Lehramt)",
+    "Französisch (Lehramt)", "Geschichte", "Geschichte (Lehramt)", "Human Computer Interaction",
+    "Informatik", "Informatik (dual)", "Informatik (Lehramt)", "International Project Engineering and Management",
+    "Internationale Kulturhistorische Studien", "Kommunikation und Medien", "Kunst (Lehramt)",
+    "Kunstgeschichte", "Lehramt an Berufskollegs", "Lehramt an Grundschulen", "Lehramt an Grundschulen mit integrierter Förderpädagogik",
+    "Lehramt an Gymnasien und Gesamtschulen", "Lehramt an Haupt-, Real- und Gesamtschulen",
+    "Lehramt an Haupt-, Real- und Gesamtschulen mit integrierter Förderpädagogik", "Literatur, Kultur,Medien",
+    "Literaturwissenschaft: Literatur, Kultur, Medien", "Management und Märkte", "Maschinenbau",
+    "Maschinenbau (dual)", "Maschinenbautechnik (Lehramt)", "Materialwissenschaft und Werkstofftechnik",
+    "Mathematik", "Mathematik (Lehramt)", "Mechatronics", "Medien und Gesellschaft", "Medienkultur",
+    "Medienmanagement", "Medienwissenschaft", "Musik (Lehramt)", "Philosophie", "Philosophie / Ethik (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Praktische Philosophie (Lehramt)", "Produktion, Logistik, Absatz (Lehramt)",
+    "Psychologie", "Pädagogik: Entwicklung und Inklusion", "Religionslehre (Evangelische und Katholische) (Lehramt)",
+    "Roads to Democracy(ies)", "Sachunterricht (Lehramt)", "Sicherheitsmanagement", "Soziale Arbeit",
+    "Sozialpolitik", "Sozialwissenschaften", "Sozialwissenschaften (Lehramt)", "Sozialwissenschaften in Europa",
+    "Spanisch (Lehramt)", "Sprache und Kommunikation", "Sprachwissenschaft: Deutsch, Englisch, Romanische Sprachen",
+    "Städtebau NRW", "Technische Informatik (Lehramt)", "Theaterpädagogik", "Volkswirtschaftslehre",
+    "Wirtschaftsinformatik", "Wirtschaftsinformatik (dual)", "Wirtschaftsinformatik (Lehramt)",
+    "Wirtschaftsingenieurwesen", "Wirtschaftslehre / Politik (Lehramt)", "Wirtschaftswissenschaften",
+    "Wirtschaftswissenschaften (Lehramt)";
+  <https://schema.org/location> "http://dbpedia.org/resource/Siegen";
+  <https://schema.org/numberOfEmployees> "19414";
+  <https://schema.org/url> <https://www.uni-siegen.de/start/index.html.en?lang=en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.90638888888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.028333333333334"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b58 <http://schema.org/name> "Technische Universität Chemnitz";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b59;
+  <https://schema.org/hasOfferCatalog> "Advanced Functional Materials", "Advanced Manufacturing",
+    "Angewandte Informatik", "Anglistik / Amerikanistik", "Automobilinformatik", "Automobilproduktion und -technik",
+    "Automotive Software Engineering", "Berufs- und Wirtschaftspädagogik", "Biomedizinische Technik",
+    "Business Intelligence & Analytics", "Chemie", "Computational Science / Rechnergestützte Naturwissenschaften",
+    "Customer Relationship Management / Beziehungsmarketing (MBA) (berufsbegleitend)",
+    "Data Science", "Digitale Arbeit", "Digitale Medien- und Kommunikationskulturen",
+    "Economics", "Elektromobilität", "Elektrotechnik", "Embedded Systems", "Energie- und Automatisierungssysteme",
+    "Energy Efficiency and Englishes", "Europa-Studien mit kulturwissenschaftlicher Ausrichtung",
+    "Europa-Studien mit sozialwissenschaftlicher Ausrichtung", "Europa-Studien mit wirtschaftswissenschaftlicher Ausrichtung",
+    "Europäische Geschichte", "Europäische Integration - Schwerpunkt Ostmitteleuropa",
+    "Eventmanagement und Messemanagement (B.Sc.)(berufsbegleitend)", "Eventmarketing / Messen / Live-Kommunikation (MBA) (berufsbegleitend)",
+    "Finance", "Förder- und Inklusionspädagogik (berufsbegleitend)", "General Management (berufsbegleitend)",
+    "Germanistik", "Gesundheits- und Fitnesssport", "Grundschullehramt", "Human Factors",
+    "Human Movement Science", "Informatik", "Informatik für Geistes- und Sozialwissenschaftler",
+    "Informatik und Kommunikationswissenschaften", "Information and Communication Systems",
+    "Informations- und Kommunikationstechnik", "Integrative Lerntherapie (berufsbegleitend)",
+    "Interkulturelle Germanistik", "Interkulturelle Kommunikation", "Interkulturelle Kommunikation - Interkulturelle Kompetenz",
+    "Klinische Gerontopsychologie (berufsbegleitend)", "Kundenbeziehungsmanagement", "Leichtbau",
+    "Management (berufsbegleitend)", "Management and Organization Studies", "Maschinenbau",
+    "Mathematik", "Medical Engineering", "Medien- und Instruktionspsychologie", "Medienkommunikation",
+    "Micro and Nano Systems", "Mikrosysteme und Mikroelektronik", "Mikrotechnik - Mechatronik",
+    "MINT: Mathematik, Informatik und Naturwissenschaften, mit Anwendungen in der Technik",
+    "Nachhaltige Energieversorgungstechnologien", "Neurorobotik", "Physik", "Politikwissenschaft",
+    "Print and Media Technology", "Production Management (berufsbegleitend)", "Produktionssysteme (deutsch-tschechisch)",
+    "Präventions-, Rehabilitations- und Fitnesssport", "Präventionsmanagement  Kompetenzen für soziale Interventionen (berufsbegleitend)",
+    "Psychologie", "Public Health", "Pädagogik", "Pädagogik mit Schwerpunkt Lernkulturen",
+    "Rechnungslegung und Unternehmenssteuerung", "Regenerative Energietechnik", "Rezeptionskulturen der Vormoderne",
+    "Semiotik und Multimodale Kommunikation", "Sensorik und kognitive Psychologie", "Soziologie",
+    "Sports Engineering", "Systems Engineering", "Technomathematik", "Textile Strukturen und Technologien",
+    "Value Chain Management", "Web Engineering", "Wirtschaftsinformatik", "Wirtschaftsingenieurwesen",
+    "Wirtschaftsmathematik", "Wirtschaftsphysik", "Wirtschaftswissenschaften", "Wirtschaftswissenschaften für Juristen";
+  <https://schema.org/location> "http://dbpedia.org/resource/Chemnitz";
+  <https://schema.org/numberOfEmployees> "10850";
+  <https://schema.org/url> <http://www.tu-chemnitz.de/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.81361111111111"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "12.929166666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b60 <http://schema.org/name> "Technische Universität Ilmenau";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b61;
+  <https://schema.org/hasOfferCatalog> "Biotechnische Chemie", "Technische Kybernetik und Systemtheorie",
+    "Technische Physik", "Mechatronik", "Maschinenbau", "Optronik", "Ingenieurinformatik",
+    "Biomedizinische Technik", "Werkstoffwissenschaft", "Lehramt an berufsbildenden Schulen",
+    "Wirtschaftsinformatik", "Elektrotechnik und Informationstechnik", "Wirtschaftsingenieurwesen",
+    "Mathematik", "Fahrzeugtechnik", "Medienwirtschaft", "Angewandte Medien- und Kommunikationswissenschaft",
+    "Medientechnologie", "Informatik", "Communications and Signal Processing", "Electrical Power and Control Engineering",
+    "Elektrochemie und Galvanotechnik", "Innovative Produktentwicklung im Maschinen- und Gerätebau (berufsbegleitend)",
+    "Mathematik und Wirtschaftsmathematik", "Medien- und Kommunikationswissenschaft",
+    "Mikro- und Nanotechnologien", "Miniaturisierte Biotechnologie", "Regenerative Energietechnik",
+    "Research in Computer and Systems Engineering";
+  <https://schema.org/location> "http://dbpedia.org/resource/Ilmenau";
+  <https://schema.org/numberOfEmployees> "7200";
+  <https://schema.org/url> <https://www.tu-ilmenau.de/en/international/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.681666666666665"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "10.938888888888888"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b62 <http://schema.org/name> "Albert-Ludwigs-Universität Freiburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b63;
+  <https://schema.org/hasOfferCatalog> "Liberal Arts and Sciences", "Eingebettete Systeme / Embedded Systems Engineering",
+    "Regio Chimica (Chemie deutsch-französisch)", "Mikrosystemtechnik / Microsystems Engineering",
+    "Informatik", "Nachhaltige Technische Systeme / Sustainable Systems Engineering",
+    "Altertumswissenschaften", "Angewandte Politikwissenschaft", "Angewandte Politikwissenschaft (De/Fr)",
+    "Applied Physics", "Archäologische Wissenschaften", "Betriebswirtschaftslehre", "Betriebswirtschaftslehre (Public and Non-Profit-Management)",
+    "Bildungsplanung und Instructional Design", "Bildungswissenschaft - Lehren und Lernen",
+    "Bildungswissenschaft und Bildungsmanagement", "Biochemistry and Biophysics", "Biochemistry and Biophysics  binationale Variante",
+    "Bioinformatik und Systembiologie", "Biologie", "Biologie (Lehramt)", "British and North American Cultural Studies",
+    "Caritaswissenschaft und Christliche Gesellschaftslehre", "Chemie", "Chemie (Lehramt)",
+    "Chemie (Regio Chimica)", "Chinesisch (Lehramt)", "Classical Cultures", "Crystalline Materials",
+    "Deutsch", "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Deutsch-französische Journalistik",
+    "Deutsch-Französisches Recht", "Deutsche Literatur", "Deutsche Sprach- und Literaturwissenschaft",
+    "Dänisch (Lehramt)", "Economics", "Englisch", "Englisch (Lehramt)", "English and American Studies / Anglistik und Amerikanistik",
+    "English Language and Linguistics", "English Literatures and Literary Theory", "Environmental Governance",
+    "Erziehungswissenschaft", "Erziehungswissenschaft (Lehramt)", "Ethnologie", "European Linguistics / Europäische Sprachwissenschaft",
+    "Europäische Ethnologie", "Europäische Literaturen und Kulturen / European Literatures and Cultures",
+    "Forest Ecology and Management", "Forstwissenschaften/Forest Scieneces", "FrankoMedia  Französische Sprache, Literatur und Medienkultur",
+    "Französisch", "Französisch (Lehramt)", "Fremdsprache Deutsch/Interkulturelle Germanistik",
+    "Fremdsprache Deutsch/Interkulturelle Sprach- und Literaturwissenschaft", "Gender Studies",
+    "Geographie", "Geographie (Lehramt)", "Geographie des Globalen Wandels", "Geologie (Lehramt)",
+    "Geology", "Geowissenschaften", "Germanistik aus deutsch-französischer Perspektive",
+    "Germanistik: Deutsche Literatur", "Germanistische Linguistik", "Geschichte", "Geschichte (Lehramt)",
+    "Global Urban Health", "Griechich-römische Archäologie (Lehramt)", "Griechisch", "Griechisch (Lehramt)",
+    "Holz und Bioenergie", "Humanmedizin", "Hydrologie", "IberoCultura: Spanische Sprache, Literatur und Kultur",
+    "Indogermanistik", "Informatik (Lehramt)", "Informatik / Computer Science", "Intelligente Eingebettete Mikrosysteme",
+    "Interdisziplinäre Anthropologie", "Interdisziplinäre Gesundheitsförderung", "Interdisziplinäre Grundlagen der Politikwissenschaft",
+    "Interkulturelle Studien - Deutschland und Frankreich", "International Taxation",
+    "Internationale Waldwirtschaft", "Internationale Wirtschaftsbeziehungen", "Islamwissenschaft",
+    "Italienisch", "Italienisch (Lehramt)", "Judaistik", "Katalanisch", "Katholische Theologie",
+    "Katholische Theologie (Lehramt)", "Katholische Theologie - Praktische Theologie",
+    "Katholische-Theologische Studien", "Katholosche Theologie - Systematische Theologie und Theologiegeschichte",
+    "Klassische Philologie", "Klassische und Christliche Archäologie", "Klinische Psychologie, Neuro- und Rehabilitationswissenschaften",
+    "Kognitionspsychologie, Lernen und Arbeiten", "Kognitionswissenschaft", "Kulturanthropologie europäischer Gesellschaften",
+    "Kulturanthropologie und europäische Ethnologie", "Kunstgeschichte", "Latein", "Latein (Lehramt)",
+    "Lateinische Philologie des Mittelalters", "Latinistik", "Linguistik/Linguistics",
+    "Literaturwissenschaft International: Deutsch-russische Transfers", "Magister Theologiae",
+    "Magisterstudiengang Katholische Theologie", "Magisterstudiengang Katholische Theologie  Kirchliches Examen",
+    "Mathematik", "Mathematik (Lehramt)", "Medienkulturforschung", "Medienkulturwissenschaft",
+    "Meteorologie und Klimatologie", "Microsystems Engineering", "Mittelalter- und Renaissance-Studien",
+    "Mittellateinische Philologie, Editionswissenschaft und Handschriftenkunde", "Modern China Studies",
+    "Moderne islamische Welt", "Molekulare Medizin", "Musikwissenschaft", "Naturschutz und Landschaftspflege",
+    "Neuere deutsche Literatur", "Neuere deutsche Literatur, Kultur, Medien", "Neuere und Neueste Geschichte",
+    "Neuroscience", "Norwegisch (Lehramt)", "Palliative Care", "Parodontologie und Implantattherapie",
+    "Parodontologie und Periimplantäre Therapie", "Pflegewissenschaft", "Pharmazeutische Wissenschaften",
+    "Pharmazie", "Philiosophie/Ethik (Lehramt Gymnasium)", "Philosophie", "Photovoltaics",
+    "Physik", "Physik (Lehramt)", "Physikalisch-Technische Medizin", "Politikwissenschaft",
+    "Politikwissenschaft/Wirtschaftswissenschaft (Lehramt)", "Portugiesisch", "Psychologie",
+    "Rechtswissenschaft", "Rechtswissenschaft (EUCOR-Masterstudiengang)", "Rechtswissenschaft Legum Magister",
+    "Renewable Energy Engineering and Management", "Renewable Energy Management", "Romanistik",
+    "Rumänisch", "Russisch (Lehramt)", "Russlandstudien", "Russlandstudien: Literatur, Geschichte und deutsch-russischer Kulturkontakt",
+    "Schwedisch (Lehramt)", "Sinologie", "Skandinavische Literatur- und Kulturgeschichte",
+    "Skandinavistik", "Slavische Philologie", "Slavistik", "Social Sciences (Global Studies Programme)",
+    "Solar Energy Engineering", "Soziologie", "Spanisch", "Spanisch (Lehramt)", "Sport",
+    "Sport (Lehramt)", "Sporttherapie", "Sportwissenschaft", "Sportwissenschaft - Bewegung und Gesundheit",
+    "Sportwissenschaft  Bewegungsbezogene Gesundheitsförderung", "Sprachwissenschaft des Deutschen",
+    "Sustainable Materials", "Südslavistik", "Taxation (berufsbegleitend)", "Technische Medizin",
+    "Umwelthydrologie", "Umweltnaturwissenschaften", "Umweltwissenschaften/Environmental Sciences",
+    "Vergleichende Geschichte der Neuzeit", "Vielfalt der islamischen Welt", "Volkswirtschaftslehre",
+    "Vorderasiatische Altertumskunde", "Vorderasiatische Altertumskunde  Lebenswelten in Vergangenheit und Gegenwart",
+    "Waldwirtschaft und Umwelt", "Westslavistik", "Wirtschaftswissenschaft (Lehramt)",
+    "Zahnmedizin", "Ältere deutsche Lieder und Sprache";
+  <https://schema.org/location> "http://dbpedia.org/page/Freiburg_im_Breisgau";
+  <https://schema.org/numberOfEmployees> "24721";
+  <https://schema.org/url> <https://www.uni-freiburg.de/start-en.html?set_language=en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.994166666666665"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.8469444444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b64 <http://schema.org/name> "RWTH Aachen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b65;
+  <https://schema.org/hasOfferCatalog> "Allgemeiner Maschinenbau", "Angewandte Geographie",
+    "Angewandte Geowissenschaften", "Applied Geophysics", "Architektur", "Automatisierungstechnik",
+    "Automotive Engineering (International Academy)", "Bauingenieurwesen", "Bautechnik (Lehramt)",
+    "Betriebswirtschaftslehre", "Betriebswirtschaftslehre / Business Administration",
+    "Biologie", "Biologie (Lehramt)", "Biomedical Engineering", "Chemie", "Chemie (Lehramt)",
+    "Computational Engineering Science", "Computer aided conception and production in mechanical engineering (International Academy)",
+    "Deutsch (Lehramt)", "Digitale Medienkommunikation", "Elektrotechnik (Lehramt)", "Elektrotechnik und Informationstechnik",
+    "Elektrotechnik, Informationstechnik und Technische Informatik", "Empirische Bildungsforschung",
+    "Energietechnik", "Energietechnik (Lehramt)", "Energiewirtschaft (berufsbegleitend)",
+    "Englisch (Lehramt)", "Entwicklung und Konstruktion", "European Studies", "Executive Master of Business Administration",
+    "Fahrzeugtechnik (Lehramt)", "Fahrzeugtechnik und Transport", "Fertigungstechnik (Lehramt)",
+    "Französisch (Lehramt)", "Georessourcenmanagement", "Geschichte", "Geschichte (Lehramt)",
+    "Geschichtswissenschaft - Geschichte als Wissenskultur", "Gesellschaftswissenschaften",
+    "Governance von Technology und Innovation", "Hochbautechnik (Lehramt)", "Holztechnik (Lehramt)",
+    "Informatik", "Informatik (Lehramt)", "Katholische Religionslehre (Lehramt)", "Kunststoff- und Textiltechnik",
+    "Laboratory Animal Science", "Lasers in Dentistry", "Lehr- und Forschungslogopädie",
+    "Literatur- und Sprachwissenschaft", "Logistik und Supply Chain Management (berufsbegleitend)",
+    "Logopädie (dual)", "Luft- und Raumfahrttechnik", "Management and Engineering in Computer Aided Mechanical Engineering",
+    "Management and Engineering in Design Concepts and Structural Engineering of Industrial Facilities",
+    "Management and Engineering in Electrical Power Systems", "Management and Engineering in Production Systems",
+    "Management and Engineering in Technology, Innovation, Marketing and Entrepreneurship",
+    "Management and Engineering in Water", "Maschinenbau", "Maschinenbautechnik (Lehramt)",
+    "Materialwissenschaften", "Mathematik", "Mathematik (Lehramt)", "Media Informatics",
+    "Medizin", "Metallurgical Engineering", "Mobilität und Verkehr", "Molekulare und Angewandte Biotechnologie",
+    "Nachhaltige Energieversorgung", "Nachhaltige Rohstoff- und Energieversorgung", "Nachrichtentechnik (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Politik (Lehramt)", "Politikwissenschaft", "Politische Wissenschaft",
+    "Production Systems Engineering (International Academy)", "Produktionstechnik", "Psychologie",
+    "Redevelopment", "Robotic Systems Engineering", "Rohstoffingenieurwesen / Mineral Ressources Engineering",
+    "Simulation Sciences", "Software Sytems Engineering", "Soziologie", "Spanisch (Lehramt)",
+    "Sprach- und Kommunikationswissenschaft", "Stadtplanung", "Sustainable Management  Water and Energy",
+    "Technik (Lehramt)", "Technik-Kommunikation", "Technische Informatik (Lehramt)", "Textile Engineering",
+    "Textiltechnik (Lehramt)", "Tiefbautechnik (Lehramt)", "Umweltingenieurwissenschaften",
+    "Verfahrenstechnik", "Verkehrsingenieurwesen und Mobilität", "Versorgungstechnik (Lehramt)",
+    "Werkstoffingenieurwesen", "Werkzeugbau", "Wirtschaftsgeographie", "Wirtschaftsingenieurwesen - Bauingenieurwesen",
+    "Wirtschaftsingenieurwesen - Elektrische Energietechnik", "Wirtschaftsingenieurwesen - Maschinenbau",
+    "Wirtschaftsingenieurwesen - Werkstoff- und Prozesstechnik", "Wirtschaftslehre / Politik (Lehramt)",
+    "Wirtschaftswissenschaft (Lehramt)", "Wirtschaftswissenschaften", "Zahnmedizin", "Ökotoxikologie";
+  <https://schema.org/location> "http://dbpedia.org/page/Aachen";
+  <https://schema.org/numberOfEmployees> "42000";
+  <https://schema.org/url> <http://www.rwth-aachen.de/cms/~a/root/?lidx=1> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.77777777777778"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.078055555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b66 <http://schema.org/name> "Eberhard Karls Universität Tübingen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b67;
+  <https://schema.org/hasOfferCatalog> "Neuroscience", "Integrierter Deutsch-Französischer Studiengang Geschichte Tübingen/TübAix",
+    "European Economics", "International Business", "Internationale Literaturen / Komparatistik",
+    "Deutsche Literatur", "General Management", "European Management", "Empirische Kulturwissenschaft",
+    "Economics", "International Economics", "Data Science in Business and Economics",
+    "Accounting and Finance", "Management and Economics", "Economics and Finance", "Allgemeine Rhetorik",
+    "Allgemeine Sprachwissenschaft", "Altorientalische Philologie", "American Studies",
+    "Anglistik / Amerikanistik", "Applied Environmental Geoscience AEG", "Betriebswirtschaftslehre",
+    "Biochemie", "Biochemistry", "Bioinformatik", "Biologie", "Biologie (Lehramt)", "Biomedical Technologies",
+    "Chemie", "Chemie (Lehramt)", "Comparative & Middle East Politics and Society", "Computerlinguistik",
+    "Demokratie und Regieren in Europa", "Deutsch (Lehramt)", "Deutsch als Zweitsprache: Sprachdiagnostik und Sprachförderung",
+    "Economics and Business Administration", "Empirische Bildungsforschung und Pädagogische Psychologie",
+    "Englisch (Lehramt)", "English Linguistics", "English Literatures and Cultures", "Erwachsenenbildung/Weiterbildung",
+    "Erziehungswissenschaft und Soziale Arbeit/Erwachsenenbildung", "Ethnologie", "Ethnologie/ Social and Cultural Anthropology",
+    "Evangelische Theologie (Lehramt)", "Forschung und Entwicklung in der Sozialpädagogik/Sozialen Arbeit",
+    "Französisch (Lehramt)", "Friedensforschung und Internationale Politik", "Geographie",
+    "Geographie (Lehramt)", "Geowissenschaften", "Geoökologie", "Germanische Linguistik - Theorie und Empirie",
+    "Germanistik", "Geschichte (international)", "Geschichte (Lehramt)", "Geschichtswissenschaft",
+    "Griechisch", "Griechisch (Lehramt)", "Humangeographie - Global Studies", "Humanmedizin",
+    "Indologie / South Asian Studies", "Informatik", "Informatik (Lehramt)", "Interdisciplinary American Studies",
+    "Interkulturelle Deutsch - Französische Studien", "International Business Administration",
+    "Islamische Religionslehre (Lehramt)", "Islamische Theologie", "Islamische Theologie im europäischen Kontext",
+    "Italienisch", "Italienisch (Lehramt)", "Japanologie", "Japanologie/Japanese Studies",
+    "Judaistik", "Katholische Religionslehre (Lehramt)", "Katholische Theologie", "Klassische Archäologie",
+    "Kognitionswissenschaft", "Komparatistik", "Koreanistik", "Kunstgeschichte", "Latein",
+    "Latein (Lehramt)", "Literatur- und Kulturtheorie", "Maschinelles Lernen", "Mathematik",
+    "Mathematik (Lehramt)", "Medieninformatik", "Medienwissenschaft / en", "Medizininformatik",
+    "Medizinische Strahlenwissenschaften / Medical Radiation Scineces", "Medizintechnik",
+    "Modernes Indien", "Molecular Cell Biology and Immunology", "Molekulare Medizin / Molecular Medicine",
+    "Musikwissenschaft", "Nanosciences", "Naturwissenschaft und Technik (Lehramt)", "Naturwissenschaftliche Archäologie",
+    "Neuro- und Verhaltenswissenschaft", "Neuronale Informationsverarbeitung", "Paläoanthropologie",
+    "Pflege", "Pharmaceutical Sciences and Technologies", "Pharmazie", "Philosophie",
+    "Philosophie / Ethik (Lehramt)", "Physik", "Physik (Lehramt)", "Physische Geographie/ Landscape System Science",
+    "Politik und Gesellschaft Ostasiens", "Politikwissenschaft", "Politikwissenschaft/Wirtschaftswissenschaft (Lehramt)",
+    "Portugiesisch", "Psychologie", "Rechtswissenschaften", "Romanische Literaturwissenschaft",
+    "Romanische Sprachwissenschaft", "Russisch (Lehramt)", "Schulforschung und Schulentwicklung",
+    "Schulpsychologie", "Sinologie / Chinese Studies", "Sinologie / Chinese Studies mit beruflichen Schwerpunkt",
+    "Sinologie/Chinesisch (Lehramt)", "Skandinavistik", "Slavistik", "Sozialpädagogik/Pädagogik (Lehramt)",
+    "Soziologie", "Soziologie - Empirische Sozialforschung", "Spanisch (Lehramt)", "Sport (Lehramt)",
+    "Sportwissenschaft", "Sprachen, Geschichte und Kulturen des Nahen Ostens", "Umweltnaturwissenschaften",
+    "Ur- und Frühgeschichtliche Archäologie und Archäologie des Mittelalters", "Volkswirtschaftslehre",
+    "Vorderasiatische Archäologie", "Vorderasiatische Archäologie und Palästina-Archäologie",
+    "Vormoderne", "Zahnmedizin", "Zelluläre und Molekulare Neurowissenschaften", "Ägyptologie";
+  <https://schema.org/location> "http://dbpedia.org/page/Tübingen";
+  <https://schema.org/numberOfEmployees> "28700";
+  <https://schema.org/url> <https://uni-tuebingen.de/en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.525"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.059"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b68 <http://schema.org/name> "Georg-August-Universität Göttingen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b69;
+  <https://schema.org/hasOfferCatalog> "Interkulturelle Germanistik Deutschland - China",
+    "Erasmus Mundus MA Euroculture: Society, politics and culture in a global context",
+    "Evangelische Religion (Lehramt)", "Magister Theologiae", "Global Business", "Chemie",
+    "Steuerlehre", "Volkswirtschaftslehre", "Molecular Ecosystem Sciences / Molekulare Ökosystemwissenschaften",
+    "Agrarwissenschaften", "Allgemeine Sprachwissenschaft", "Altorientalistik", "American Studies",
+    "Angewandte Informatik", "Angewandte Statistik", "Antike Kulturen", "Antike Kulturen - Geschichte des Altertums",
+    "Arabistik / Islamwissenschaft", "Archäologie der Griechischen, Römischen und Byzantinischen Welt",
+    "Betriebswirtschaftslehre", "Biochemie", "Biodiversität und Ökologie", "Biodiversität, Ökologie und Evolution",
+    "Biologie", "Biologie (Lehramt)", "Biologische Diversität und Ökologie", "Chemie (Lehramt)",
+    "Chinesisches Recht und Rechtsvergleichung", "Christliche Archäologie und Byzantinische Kunstgeschichte",
+    "Crop Protection", "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Deutsche Philologie",
+    "Development Economics", "Developmental, Neural, and Behavioral Biology", "Education",
+    "Englisch (Lehramt)", "Englische Philologie", "Erdkunde (Lehramt)", "Erziehungswissenschaften mit dem Schwerpunkt Forschung und Entwicklung im Bildungswesen",
+    "Ethnologie", "European and Transnational Intellectual Property and Information Technology Law",
+    "Europäische Ethnologie", "Evangelikale Theologie", "Finanzen, Rechnungswesen und Steuern",
+    "Finnisch - Ugrische Philologie", "Forstwissenschaften und Waldökologie", "Französisch (Lehramt)",
+    "Französisch / Galloromanistik", "Geographie", "Geographie: Ressourcenanalyse und -management",
+    "Geowissenschaften", "Geschichte", "Geschichte (Lehramt)", "Geschlechterforschung",
+    "Globale Politik: Strukturen und Grenzen", "Griechisch (Lehramt)", "Griechische Philologie",
+    "History of Global Markets", "Hydrogeology and Environmental Geosciences", "Indogermanische Sprachwissenschaft",
+    "Indologie", "Informatik (Lehramt)", "Information Systems", "Intercultural Theology",
+    "Interkulturelle Germanistik / Deutsch als Fremdsprache", "International Economics",
+    "International Nature Conservation", "Internet Technologies and Information Systems",
+    "Iranistik", "Italienisch / Italianistik", "Klassische Archäologie", "Komparatistik",
+    "Kulturanthropologie / Europäische Ethnologie", "Kulturelle Musikwissenschaft", "Kulturen und Sprachen des mediterranen Raums",
+    "Kunstgeschichte", "Latein (Lehramt)", "Lateinische Philologie", "Lateinische Philologie des Mittelalters und der Neuzeit",
+    "Linguistik", "Linguistische Anthropologie und Altamerikanistik", "Marketing und E-Business",
+    "Materialwissenschaften", "Mathematik", "Mathematik (Lehramt)", "Medizin", "Mittelalter- und Renaissance-Studien",
+    "Modern Indian Studies", "Moderne Indienstudien", "Molecular Life Sciences: Microbiology, Biotechnology and Biochemistry",
+    "Molekulare Biologie (Molecular Biology)", "Molekulare Medizin", "Musikwissenschaft",
+    "Neurowissenschaften (Neurosciences)", "Ostasienwissenschaften/Chinesisch als Fremdsprache (Lehramt)",
+    "Ostasienwissenschaften/Moderne Sinologie", "Ostasienwissenschaften/Modernes China",
+    "Osteuropäische Geschichte", "Pferdewissenschaften", "Philosophie", "Philosophie (Lehramt)",
+    "Physik", "Physik (Lehramt)", "Politik und Wirtschaft (Lehramt)", "Politikwissenschaft",
+    "Politikwissenschaft (Lehramt)", "Portugiesisch / Lusitanistik", "Psychologie", "Pädagogik",
+    "Rechtsintegration in Europa", "Rechtswissenschaft", "Religionswissenschaft", "Russisch (Lehramt)",
+    "Skandinavistik", "Slavische Philologie", "Sozialwissenschaften", "Soziologie", "Spanisch (Lehramt)",
+    "Spanisch / Hispanistik", "Sport (Lehramt)", "Sportwissenschaft mit den Schwerpunkten Prävention und Rehabilitation",
+    "Sprachwissenschaft", "Sustainable Forest and Nature Management (SUFONAMA)", "Sustainable International Agriculture",
+    "TransRomania-Studien: Romanische Sprachen, Literaturen und Kulturen", "Tropical and International Forestry",
+    "Turkologie", "Unternehmensführung", "Ur- und Frühgeschichte", "Volkswirtschaftslehre: Development Economies",
+    "Weltliteratur", "Werte und Normen (Lehramt)", "Wirtschafts- und Sozialgeschichte",
+    "Wirtschaftsinformatik", "Wirtschaftsmathematik", "Wirtschaftspädagogik", "Wirtschaftspädagogik und Personalentwicklung",
+    "Zahnmedizin", "Ägytologie und Koptologie", "Ökologie", "Ökosystemmanagement";
+  <https://schema.org/location> "http://dbpedia.org/page/Göttingen";
+  <https://schema.org/numberOfEmployees> "26381";
+  <https://schema.org/url> <https://www.uni-goettingen.de/en/1.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.54194444444445"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.934444444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b70 <http://schema.org/name> "Universität Ulm";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b71;
+  <https://schema.org/hasOfferCatalog> "Advanced Materials", "Advanced Oncology", "Aktuarwissenschaften (berufsbegleitend)",
+    "Biochemie", "Biologie", "Biologie (Lehramt)", "Business Analytics (berufsbegleitend)",
+    "Chemie", "Chemie (Lehramt)", "Chemieingenieurwesen", "Cognitive Systems", "Communications Technology",
+    "Computational Science and Engineering (CSE)", "Elektrotechnik", "Energy Science and Technology",
+    "Finance", "Informatik", "Informatik (Lehramt)", "Informationssystemtechnik", "Innovations- und Wissenschaftsmanagement (berufsbegleitend)",
+    "Mathematik", "Mathematik (Lehramt)", "Mathematische Biometrie", "Medieninformatik",
+    "Medizin", "Molekulare Medizin", "Nachhaltige Unternehmensführung", "Naturwissenschaft und Technik (Lehramt)",
+    "Pharmazeutische Biotechnologie", "Philosophie", "Physik", "Physik (Lehramt)", "Psychologie",
+    "Sensorsystemtechnik (berufsbegleitend)", "Software Engineering", "Wirtschaftschemie",
+    "Wirtschaftsmathematik", "Wirtschaftsphysik", "Wirtschaftswissenschaften", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/page/Ulm";
+  <https://schema.org/numberOfEmployees> "345189188";
+  <https://schema.org/url> <https://www.uni-ulm.de/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "48.42328"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.95322"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b72 <http://schema.org/name> "Technische Universität Dresden";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b73;
+  <https://schema.org/hasOfferCatalog> "Nanoelectronic Systems", "Werkstoffwissenschaft",
+    "Maschinenbau", "Mechatronik", "Holztechnologie und Holzwirtschaft", "Elektrotechnik",
+    "Informationssystemtechnik", "Informatik", "Regenerative Energiesysteme", "Medieninformatik",
+    "Verfahrenstechnik und Naturstofftechnik", "Wirtschaftsingenieurwesen", "Bautechnik (Lehramt)",
+    "Bauingenieurwesen", "Verkehrsingenieurwesen", "Abfallwirtschaft und Altlasten", "ACCESS Advanced Computational and Civil Engineering Structural Studies",
+    "Angewandte Medienforschung", "Anglistik und Amerikanistik", "Antike Kulturen", "Architektur",
+    "Bahnsystemingenieurwesen", "Bauingenieurwesen Aufbaustudium", "Betriebswirtschaftslehre",
+    "Biochemistry", "Biodiversity and Collection Management", "Biologie", "Biotechnologie und Angewandte Ökologie",
+    "Business Ethics and Responsible Management", "Cartography", "Chemie", "Chemie (Lehramt)",
+    "Computational Logic", "Computational Modeling and Simulation", "Computational Science and Engineering",
+    "Deutsch (Lehramt)", "Distributed Systems Engineering", "Ecosystem Services", "Elektrische Verkehrssysteme",
+    "Elektro- und Informationstechnik (Lehramt)", "Elektrotechnik (Lehramt)", "Englisch (Lehramt)",
+    "Ethik / Philosophie (Lehramt)", "Europäische Sprachen", "Evangelische Religion (Lehramt)",
+    "Evangelische Theologie", "Farbtechnik/Raumgestaltung und Oberflächentechnik (Lehramt)",
+    "Forstwissenschaften", "Französisch (Lehramt)", "Gemeinschaftskunde / Rechtserziehung (Lehramt)",
+    "Geodäsie", "Geodäsie und Geoinformation", "Geographie", "Geographie (Lehramt)", "Geoinformationstechnologien",
+    "Germanistik", "Geschichte", "Geschichte (Lehramt)", "Gesundheit und Pflege (Lehramt)",
+    "Gesundheitswissenschaften / Public Health", "Holztechnik (Lehramt)", "Hydro Science and Engineering",
+    "Hydrobiologie", "Hydrologie", "Hydrowissenschaften", "Informatik (Lehramt)", "International Studies in Intellectual Property Law",
+    "Internationale Beziehungen", "Internationales Management", "Italienisch (Lehramt)",
+    "Katholische Religion (Lehramt)", "Katholische Theologie im interdiziplinären Kontext",
+    "Klassische Philologie", "Klinische Psychologie und Psychotherapie", "Kunst (Lehramt)",
+    "Kunstgeschichte", "Labor und Prozesstechnik (Lehramt)", "Landschaftsarchitektur",
+    "Latein (Lehramt)", "Lebensmittel-, Ernährungs- und Hauswirtschaftswissenschaft (Lehramt)",
+    "Lebensmittelchemie", "Lehramt an berufsbildenden Schulen", "Lehramt an Grundschulen",
+    "Lehramt an Gymnasien", "Lehramt an Oberschulen", "Luftverkehr und Logistik", "Maschinenbau Aufbaustudium",
+    "Mathematik", "Mathematik (Lehramt)", "Medical Radiation Sciences", "Medienforschung",
+    "Medizin", "Metall- und Maschinentechnik (Lehramt)", "Molecular Bioengineering", "Molekulare Biologie und Biotechnologie",
+    "Musik (Lehramt)", "Nanobiophysics", "Organic and Molecular Electronics", "Philosophie",
+    "Physik", "Physik (Lehramt)", "Politik und Verfassung", "Politikwissenschaft", "Polnisch (Lehramt)",
+    "Psychologie", "Psychologie: Cognitive-Affective Neuroscience", "Psychologie: Human Performance in Socio-Technical Systems",
+    "Raumentwicklung und Naturressourcenmanagement", "Regenerative Biology and Medicine",
+    "Romanistik", "Russisch (Lehramt)", "Slavistik", "Sozialpädagogik", "Sozialpädagogik (Lehramt)",
+    "Sozialpädagogik, Sozialarbeit und Wohlfahrtswissenschaften", "Soziologie", "Sprach-, Literatur- und Kulturwissenschaften",
+    "Technomathematik", "Textil- und Konfektionstechnik", "Tropical Forestry", "Verfahrenstechnik und Naturstofftechnik Aufbaustudium",
+    "Verkehrswirtschaft", "Vocational Education and Personnel Capacity Building", "Volkswirtschaftslehre",
+    "Wasserwirtschaft", "Weiterbildungsforschung und Organisationsentwicklung", "Wirtschaft-Technik-Haushalt/Soziales (WTH) (Lehramt)",
+    "Wirtschaftsinformatik", "Wirtschaftsmathematik", "Wirtschaftspädagogik", "Wirtschaftsrecht - Unternehmen zwischen Freiheit und staatlicher Steuerung",
+    "Wirtschaftswissenschaften", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/page/Dresden";
+  <https://schema.org/numberOfEmployees> "37134";
+  <https://schema.org/url> <https://tu-dresden.de/en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.028055555555554"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.726666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b74 <http://schema.org/name> "Julius-Maximilians-Universität Würzburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b75;
+  <https://schema.org/hasOfferCatalog> "Games Engineering", "Luft- und Raumfahrtinformatik",
+    "Informatik", "Political and Social Studies", "Rechtswissenschaft", "Wirtschaftswissenschaft",
+    "Biologie", "Akademische Sprachtherapie / Logopädie", "Allgemeine und Angewandte Sprachwissenschaft",
+    "Alte Welt", "Altorientalische Sprachen und Kulturen", "Altorientalistik", "Altorientalistik (Alte Welt)",
+    "Angewandte Humangeographie", "Angewandte Physische Geographie, Geosystemwandel und -schutz",
+    "Anglistik / Amerikanistik", "Applied Earth Observation and Geoanalysis (EAGLE)",
+    "Betriebswirtschaftslehre", "Bildung und Erziehung bei sonderpädagogischem Förderbedarf",
+    "Bildungswissenschaft", "Biochemie", "Biofabrikation", "Biologie (Lehramt)", "Biology EU",
+    "Biomedizin", "Biowissenschaften", "Business Integration", "Business Management (BWL)",
+    "Chemie", "Chemie (Lehramt)", "China Business and Economics", "China Language and Economy",
+    "Chinese Studies", "Computational Mathematics", "Cultural Landscapes", "Deutsch (Lehramt)",
+    "Deutsch als Zweitsprache (DaZ)", "Didaktiken einer Fächergruppe der Mittelschule",
+    "Digital Humanities", "Diversitätsmanagement, Religion und Bildung", "Englisch (Lehramt)",
+    "English-Speaking Cultures", "Ethik (Lehramt)", "Ethnomusikologie/Transcultural Music Studies",
+    "Europäische Ethnologie / Volkskunde", "Europäisches Recht", "Europäisches Recht / Wirtschaftsrecht",
+    "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie", "FOKUS Chemie",
+    "FOKUS Life Sciences", "Französisch", "Französisch (Lehramt)", "Funktionswerkstoffe",
+    "Galloromanische Philologie", "Geisteswissenschaftliche Grundlagen", "Geographie",
+    "Geographie (Lehramt)", "Germanistik", "Germanistik als Fremdsprachenphilologie",
+    "Geschichte", "Geschichte (Lehramt)", "Griechisch (Lehramt)", "Griechische Philologie",
+    "Grundbildung im Jugendalter", "Grundbildung Kulturelle Basiskompetenzen", "Grundschuldidaktik (Lehramt)",
+    "Historische Hilfswissenschaften", "Human Computer Interaction", "Iberoromanische Philologie",
+    "Indologie", "Indologie / Südasienkunde", "Informatik (Lehramt)", "International Economic Policy",
+    "Italienisch", "Italienisch (Lehramt)", "Italoromanische Philologie", "Katholische Religionslehre (Lehramt)",
+    "Katholische Theologie", "Klassische Archäologie", "Klassische Archäologie Alte Welt",
+    "Kunstgeschichte", "Kunstpädagogik", "Latein (Lehramt)", "Lateinische Philologie",
+    "Law, Economics and Society", "Lebensmittelchemie", "Lehramt an Grundschulen", "Lehramt an Gymnasien",
+    "Lehramt an Mittelschulen", "Lehramt an Realschulen", "Lehramt für Sonderpädagogik",
+    "Life Sciences", "Logopädie", "Mathematics International", "Mathematik", "Mathematik (Lehramt)",
+    "Mathematische Physik", "Medienkommunikation", "Medienphilologie", "Medizin", "Mensch-Computer-Systeme",
+    "MINT-Lehramt-PLUS", "Mittelalter und Frühe Neuzeit", "Modern China", "Modernes Südasien",
+    "Museologie und materielle Kultur", "Museum und alte Kulturen/Museum and Ancient Cultures",
+    "Museumswissenschaft", "Musik (Lehramt)", "Musikpädagogik", "Musikwissenschaft", "Nanostrukturtechnik",
+    "Naturwissenschaftliche Grundlagen", "Neuere Literaturen", "Pharmazie", "Philosophie",
+    "Philosophie und Religion", "Philosophie/Ethik (Lehramt)", "Physik", "Physik (Lehramt)",
+    "Political and Social Sciences", "Privatrecht", "Psychologie", "Psychologische Psychotherapie",
+    "Pädagogik", "Rechtswissenschaft für im Ausland graduierte Juristen", "Romanistik (Französisch/Italienisch)",
+    "Romanistik (Französisch/Spanisch)", "Romanistik (Italienisch/Spanisch)", "Russisch (Lehramt)",
+    "Russische Sprache und Kultur", "Sammlungen - Provenienz - Kulturelles Erbe", "Satellite Technology",
+    "Science and Technology", "Sonderpädagogik", "Sozialkunde (Lehramt)", "Spanisch",
+    "Spanisch (Lehramt)", "Sport (Lehramt)", "Sportwissenschaft - Gesundheits und Bewegungspädagogik",
+    "Theologische Studien / Theological Studies", "Translational Medicine", "Translational Neuroscience",
+    "Vergleichende Indogermanische Sprachwissenschaft", "Vergleichende Indogermanische Sprachwissenschaft (Alte Welt)",
+    "Vor- und frühgeschichtliche Archäologie", "Weiterführende Bildung im Jugendalter",
+    "Wirtschaftsinformatik", "Wirtschaftsmathematik", "Zahnmedizin", "Ägyptologie", "Öffentliches Recht";
+  <https://schema.org/location> "http://dbpedia.org/page/Würzburg";
+  <https://schema.org/numberOfEmployees> "28814";
+  <https://schema.org/url> <https://www.uni-wuerzburg.de/en/home/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.78805555555556"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.935277777777777"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b76 <http://schema.org/name> "Westfälische Wilhelms-Universität";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b77;
+  <https://schema.org/hasOfferCatalog> "Marketing", "Nonprofit Management and Governance (berufsbegleitend)",
+    "Hochschul- und Wissenschaftsmanagement (berufsbegleitend)", "Niederlande - Deutschland - Studien",
+    "Informationsmanagement (berufsbegleitend)", "Betriebswirtschaftliche Beratung", "Versicherungsrecht (berufsbegleitend)",
+    "Management in der Medizin", "Steuerwissenschaften (berufsbegleitend)", "Immobilienrecht (berufsbegleitend)",
+    "Arbeitsrecht (berufsbegleitend)", "Physik (Lehramt)", "Mergers & Acquisitions (berufsbegleitend)",
+    "Erbrecht & Unternehmensnachfolge (berufsbe­gleitend)", "Wirtschaftsrecht (berufsbegleitend)",
+    "Medizinrecht (berufsbegleitend)", "Physik", "Geophysik", "Angewandte Sprachwissenschaft",
+    "Anglistik / Amerikanistik", "Anglistik / Amerikanistik (Lehramt)", "Antike Kulturen des östlichen Mittelmeerraumes",
+    "Antike Kulturen Ägyptens und Vorderasiens", "Archäologie - Geschichte - Landschaft",
+    "Arzneimittelwissenschaften", "Betriebswirtschaftslehre", "Bildungswissenschaften (Lehramt)",
+    "Biologie", "Biologie (Lehramt)", "Biotechnologie", "Biowissenschaften", "British, American and Postcolonial Studies",
+    "Chemie", "Chemie (Lehramt)", "Chinastudien", "Christentum in Kultur und Gesellschaft",
+    "Classical Cultures", "Deutsch", "Deutsch (Lehramt)", "Deutsches Recht", "Englisch (Lehramt)",
+    "Erziehungswissenschaft", "Erziehungswissenschaft (Lehramt)", "European Studies (Deutsch-Niederländisch)",
+    "Evangelische Religionslehre", "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie",
+    "Französisch", "Französisch (Lehramt)", "Geographie", "Geographie (Lehramt)", "Geoinformatics",
+    "Geoinformatik", "Geospatial Technologies", "Geowissenschaften", "Germanistik", "Geschichte",
+    "Geschichte (Lehramt)", "Griechisch (Lehramt)", "Griechische Philologie", "Human Movement in Sports and Exercise",
+    "Humangeographie", "Informatik", "Informatik (Lehramt)", "Information Systems", "Interdisziplinäre Mittelalterstudien",
+    "Internationale und Europäische Governance", "Islamische Religionslehre", "Islamische Religionslehre (Lehramt)",
+    "Islamische Theologie", "Islamwissenschaft und Arabistik", "Italienisch", "Italienisch (Lehramt)",
+    "Katholische Religionslehre", "Katholische Religionslehre (Lehramt)", "Klassische und Christliche Archäologie",
+    "Kommunikationswissenschaft", "Kultur- und Sozialanthropologie", "Kulturanthropologie / Volkskunde",
+    "Kulturpoetik der Literatur und Medien", "Kunstgeschichte", "Landschaftsökologie",
+    "Latein (Lehramt)", "Lateinische Philologie", "Lebensmittelchemie", "Mathematik",
+    "Mathematik (Lehramt)", "Medizin", "Molekulare Biomedizin", "Musik (Lehramt)", "Musik und Kreativität",
+    "Musik und Vermittlung", "Musikpraxis und neue Medien", "Musikwissenschaft", "National and Transnational Literature and Culture",
+    "National and Transnational Studies: Literature, Culture, Language", "Niederlandistik",
+    "Niederländisch", "Oekonomik", "Pharmazie", "Philosophie", "Philosophie/Praktische Philosophie (Lehramt)",
+    "Politik und Recht", "Politik und Wirtschaft", "Politikwissenschaft", "Praktische Philosophie (Lehramt)",
+    "Psychologie", "Public Governance across Borders", "Public Policy", "Public Sector Innovation and eGovernance",
+    "Pädagogik (Lehramt)", "Rechtswissenschaft", "Religionswissenschaft", "Romanistik trilingual",
+    "Skandinavische Studien", "Skandinavistik", "Social Anthropology/Sozialanthropologie",
+    "Sozialwissenschaften (Lehramt)", "Soziologie", "Spanisch", "Spanisch (Lehramt)",
+    "Sport", "Sport (Lehramt)", "Sports, Excercise and Human Performance", "Sprachen und Kulturen Ägyptens und Altvorderasiens",
+    "Strategische Kommunikation", "Ur- und Frühgeschichte", "Visual Anthropology, Media and Documentary Practices",
+    "Volkswirtschaftslehre", "Wasserwissenschaften", "Wirtschaft und Recht", "Wirtschaftschemie",
+    "Wirtschaftsinformatik (Information Systems)", "Wirtschaftslehre / Politik (Lehramt)",
+    "Wissenschaftsphilosophie", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/page/Münster";
+  <https://schema.org/numberOfEmployees> "43790";
+  <https://schema.org/url> <https://www.uni-muenster.de/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b77 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.964"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.613"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b78 <http://schema.org/name> "Universität Potsdam";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b79;
+  <https://schema.org/hasOfferCatalog> "Ernährungswissenschaft", "Wirtschaftsinformatik und Digitale Transformation",
+    "Philosophie", "Angewandte Kultur- und Translationsstudien (deutsch-polnisch)", "Angewandte Kulturwissenschaft und Kultursemiotik",
+    "Anglistik / Amerikanistik", "Anglophone Modernities in Literature and Culture", "Astrophysics",
+    "Betriebswirtschaftslehre", "Bildungswissenschaft", "Biochemistry and Molecular Biology",
+    "Bioinformatics", "Biologie (Lehramt)", "Biowissenschaften", "Chemie", "Chemie (Lehramt)",
+    "Clinical Exercises Sciences", "Cognitive Science - Embodied Cognition", "Cognitive Systems: Language, Learning and Reasoning",
+    "Computational Science", "Computerlinguistik", "Cybersecurity", "Data Engineering",
+    "Data Science", "Deutsch (Lehramt)", "Digital Health", "Ecology, Evolution, and Conservation",
+    "Economics", "Englisch (Lehramt)", "Erziehungswissenschaft", "European Governance and Administration",
+    "European Masters in Clinical Linguistics", "Europäische Medienwissenschaft", "Französisch (Lehramt)",
+    "Französische Philologie", "Fremdsprachenlinguistik", "Geographie (Lehramt)", "Geowissenschaften",
+    "Geoökologie", "Germanistik", "Geschichte", "Geschichte (Lehramt)", "Geschichte, Politik und Gesellschaft",
+    "Gräzistik", "Informatik", "Informatik (Lehramt)", "Informatik/Computational Science",
+    "Inklusionspädagogik (Lehramt für die Primarstufe)", "Integrative Sport-, Bewegungs- und Gesundheitswissenschaft",
+    "Interdisziplinäre Russlandstudien", "Interkulturelle Wirtschaftskommunikation", "International Experimental and Clinical Linguistics",
+    "International War Studies", "Internationale angewandte Kulturwissenschaft und Kultursemiotik",
+    "Internationale Beziehungen", "IT-Systems Engineering", "Italienisch (Lehramt)", "Italienische Philologie",
+    "Jüdische Studien", "Jüdische Theologie", "Kulturelle Begegnungsräume der frühen Neuzeit",
+    "Kulturwissenschaft", "Latein (Lehramt)", "Latinistik", "Lebensgestaltung-Ethik-Religionskunde (Lehramt)",
+    "Linguistik", "Linguistik: Kommunikation-Variation-Mehrsprachigkeit", "Mathematics",
+    "Mathematik", "Mathematik (Lehramt)", "MBA Biotechnologie und Medizintechnik", "MBA Informationstechnologie",
+    "MBA Innovative Technologien", "Medienrecht und -management - Digital Media Law and Management",
+    "Musik (Lehramt)", "National and International Administration and Policy", "Osteuropäische Kulturstudien",
+    "Patholinguistik", "Philologische Studien", "Physik", "Physik (Lehramt)", "Politik und Wirtschaft",
+    "Politik, Verwaltung und Organisation", "Politikwissenschaft", "Politische Bildung (Lehramt)",
+    "Polnisch (Lehramt)", "Polonistik", "Polymer Science", "Psychologie", "Public Management",
+    "Rechtswissenschaft", "Religionswissenschaft", "Remote Sensing, geoInformation and Visualization",
+    "Romanische Philologie", "Russisch (Lehramt)", "Russistik", "Sachunterricht (Lehramt)",
+    "Schul- und Bildungsmanagement", "Soziologie", "Spanisch (Lehramt)", "Spanische Philologie",
+    "Sport (Lehramt)", "Sportmanagement", "Sporttherapie und Prävention", "Steuerrecht",
+    "Toxicology", "Unternehmens- und Steuerrecht", "Vergleichende Literatur- und Kunstwissenschaft",
+    "Verwaltungswissenschaft", "Volkswirtschaftslehre", "War and Conflict Studies", "Wirtschaft-Arbeit-Technik (Lehramt)",
+    "Wirtschaftsinformatik", "Zeitgeschichte", "Öffentliches Recht";
+  <https://schema.org/location> "http://dbpedia.org/page/Potsdam";
+  <https://schema.org/numberOfEmployees> "20630";
+  <https://schema.org/url> <https://www.uni-potsdam.de/en/university-of-potsdam.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.40111111111111"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "13.011944444444444"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b80 <http://schema.org/name> "Universität Duisburg-Essen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b81;
+  <https://schema.org/hasOfferCatalog> "Transnational ecosystem based Water Management",
+    "Wirtschaftsinformatik, VAWI", "Angewandte Informatik - Systems Engineering", "Angewandte Philosophie",
+    "Anglophone Studies", "Bauingenieurwesen", "Bauingenieurwesen - Master Construction Management",
+    "Betriebswirtschaftslehre", "Betriebswirtschaftslehre - Energy and Finance", "Betriebswirtschaftslehre - Health Care Management",
+    "Biologie", "Biologie (Lehramt)", "Biotechnik (Lehramt)", "Chemie", "Chemie (Lehramt)",
+    "Christliche Studien", "Computational Mechanics", "Digital Business Innovation and Transformation",
+    "Econometrics", "Educational Leadership / Bildungsmanagement & -innovation (berufsbegleitend)",
+    "Educational Media / Bildung & Medien", "Energietechnik (berufsbegleitend)", "Environmental Toxicology",
+    "Erwachsenenbildung / European Adult Education", "Erziehungswissenschaften", "Französische Sprache und Kultur",
+    "Germanistik: Sprache und Kultur", "Germanistik: Sprache, Literatur, Kultur und Kommunikation",
+    "Geschichte", "Kommunikationswissenschaft", "Kulturwirt", "Kunst- und Designwissenschaften",
+    "Kunstwissenschaft", "Lehramt an Berufskollegs", "Lehramt an Grundschulen", "Lehramt an Gymnasien und Gesamtschulen",
+    "Lehramt an Haupt-, Real- und Gesamtschulen", "Literatur und Medienpraxis", "Mathematik",
+    "Mathematik - mit einem Anwendungsfach", "Medizinische Biologie", "Medizinmanagement für Mediziner und Gesundheitswissenschaftler",
+    "Medizinmanagement für Wirtschaftswissenschaftler", "Medizintechnik", "Märkte und Unternehmen",
+    "Niederländische Sprache und Kultur", "Philosophie", "Soziale Arbeit", "Spanische Sprache und Kultur",
+    "Structural Engineering", "Sustainable Urban Technologies", "Technomathematik", "Urbane Kultur, Gesellschaft und Raum",
+    "Volkswirtschaftslehre", "Water Science", "Water Sciences, Wasser: Chemie, Analytik, Mikrobiologie",
+    "Wirtschaftsinformatik", "Wirtschaftsmathematik";
+  <https://schema.org/location> "http://dbpedia.org/page/Essen";
+  <https://schema.org/numberOfEmployees> "39153";
+  <https://schema.org/url> <https://www.uni-due.de/en/index.php> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.46361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.00579"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b82 <http://schema.org/name> "Universität Duisburg-Essen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b83;
+  <https://schema.org/hasOfferCatalog> "Automotive Engineering & Management", "Public Policy (berufsbegleitend)",
+    "Soziologie", "Angewandte Informatik", "Angewandte Kognitions- und Medienwissenschaften",
+    "Automation and Control Engineering", "Betriebswirtschaftslehre", "Computer Engineering",
+    "Computer Science and Communications Engineering", "Contemporary East Asian Studies",
+    "Development and Governance", "Eingebettete Systeme / Embedded Systems Engineering",
+    "Electrical and Electronic Engineering", "Elektrotechnik und Informationstechnik",
+    "Energy Science", "Globale und Transnationale Soziologie", "Innopreneurship", "Internationale Beziehungen und Entwicklungspolitik",
+    "Kulturwirt", "Management Technology of Water and Wastewater", "Maschinenbau", "Maschinenbautechnik (Lehramt)",
+    "Mechanical Engineering", "Metallurgy and Metal Forming", "Modern East Asian Studies",
+    "Moderne Ostasienstudien", "Nano Engineering", "Physik", "Politikmanagement, Public Policy und öffentliche Verwaltung",
+    "Politikwissenschaft", "Sozioökonomie", "Steel Technology and Metal Forming (dual)",
+    "Survey Methodology", "Technische Logistik", "Theorie und Vergleich politischer Systeme im Wandel",
+    "Wirtschaftsingenieurwesen", "Wirtschaftspädagogik";
+  <https://schema.org/location> "http://dbpedia.org/page/Duisburg";
+  <https://schema.org/numberOfEmployees> "39153";
+  <https://schema.org/url> <https://www.uni-due.de/en/index.php> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.42753"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.80017"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b84 <http://schema.org/name> "Johannes Gutenberg-Universität Mainz";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b85;
+  <https://schema.org/hasOfferCatalog> "Sprache, Kultur, Translation", "Medienrecht",
+    "American Studies", "American Studies / Anglais", "American Studies / Études anglophones",
+    "Angewandte Bioinformatik", "Anthropologie", "Archäologie", "Archäologie, Christliche und Byzantinische Kunstgeschichte",
+    "Archäologie, Vor- und Frühgeschichtliche", "Archäologien", "Archäologische Restaurierung",
+    "Audiovisuelles Publizieren", "Bildungswissenschaften (Lehramt)", "Biologie", "Biologie (Lehramt)",
+    "Biologie, Molekulare", "Biomedizin", "Biomedizinische Chemie", "British Studies",
+    "Buchwissenschaft", "Chemie", "Chemie (Lehramt)", "Chor- und Orchesterdirigieren",
+    "Computational Science / Rechnergestützte Naturwissenschaften", "Deutsch (Lehramt)",
+    "Deutsch / Allemand (Lehramt)", "Deutsch als Fremdsprache", "Deutsch-französischer integrierter Studiengang Lehramt im Sekundarbereich",
+    "Deutsches Recht für im Ausland graduierte Juristen", "Deutsches und Französisches Recht",
+    "Digitale Methodik in den Geistes- und Kulturwissenschaften", "Elementare Musikpädagogik",
+    "Empirische Demokratieforschung", "Englisch (Lehramt)", "Englisch / Anglais (Lehramt)",
+    "English Literature and Culture", "Epidemiologie (berufsbegleitend)", "Erziehungswissenschaft",
+    "Ethnologie", "European Studies", "Evangelische Religionslehre (Lehramt)", "Evangelische Theologie",
+    "Evangelische Theologie (Lehramt)", "Filmwissenschaft", "Filmwissenschaft / Mediendramaturgie",
+    "Französisch", "Französisch (Lehramt)", "Französisch / Lettres modernes", "Französisch / Lettres modernes (Lehramt)",
+    "Französische Literaturwissenschaft und Kulturkontakte / Lettres modernes", "Geographie",
+    "Geographie (Lehramt)", "Geographie / Géographie (Lehramt)", "Geowissenschaften",
+    "Germanistik", "Germanistik / Allemand", "Germanistik / Recherche Etudes germaniques",
+    "Geschichte", "Geschichte (Lehramt)", "Geschichte / Histoire", "Geschichte / Histoire (Lehramt)",
+    "Geschichte / Histoire - Schwerpunkt Alte Geschichte / Histoire ancienne", "Geschichte / Histoire - Schwerpunkt Geschichte (Mittelalter) / Histoire médiévale",
+    "Geschichte / Histoire - Schwerpunkt Geschichte (Neuzeit) / Histoire moderne et contemporaine",
+    "Griechisch (Lehramt)", "Humographie: Globalisierung, Medien und Kultur", "Informatik",
+    "Informatik (Lehramt)", "International Economics and Public Policy", "Internationales Privatrecht und europäisches Einheitsrecht",
+    "Italienisch", "Italienisch (Lehramt)", "Italienische Literaturwissenschaft und Kulturkontakte / Etudes italiennes",
+    "Jazz und Populäre Musik", "Journalismus", "Katholische Theologie", "Katholische Theologie / Religionslehre (Lehramt)",
+    "Kirchenmusik", "Klangkunst/Komposition", "Klavier", "Klima- und Umweltwandel (Physische Geographie)",
+    "Kommunikations- und Medienforschung", "Kommunikationswissenschaften", "Komparatistik",
+    "Komparatistik - Weltliteratur", "Komparatistik / Europäische Literatur", "Komparatistik / Lettres modernes",
+    "Konferenzdolmetschen", "Konzertexamen", "Kultur, Theater, Film", "Kulturanthropologie / Volkskunde",
+    "Kunst, (Freie) Bildende (Lehramt)", "Kunst, Freie Bildende (Diplom)", "Kunstgeschichte",
+    "Kunstgeschichte / Histoire de lart", "Latein (Lehramt)", "Liedbegleitung/Korrepetition",
+    "Linguistik", "Management", "Mathematik", "Mathematik (Lehramt)", "Medienmanagement",
+    "Medizin", "Meteorologie", "Musik", "Musik (Lehramt)", "Musiktheorie", "Musikwissenschaft",
+    "Naturwissenschaftliche Informatik", "Oper und Konzert", "Orchesterinstrumente", "Orgelimprovisation",
+    "Orgelliteraturspiel", "Pharmazie", "Philosophie", "Philosophie (Lehramt)", "Philosophie / Philosophie: imaginaire et rationalité",
+    "Philosophie/Ethik (Lehramt)", "Physik", "Physik (Lehramt)", "Physische Geographie: klima- und Umwelt",
+    "Politikwissenschaft", "Politische Ökonomie und Internationale Beziehungen", "Polymerchemie (berufsbegleitend)",
+    "Psychologie", "Publizistik", "Rechtswissenschaft", "Romanistik (interkulturell)",
+    "Russisch (Lehramt)", "Slavistik: Schwerpunkt Polonistik", "Slavistik: Schwerpunkt Russistik",
+    "Sociolinguistics and Multilingualism", "Sozialkunde (Lehramt)", "Soziologie", "Soziologie: Forschungspraxis und Praxisforschung",
+    "Spanisch", "Spanisch (Lehramt)", "Sport (Lehramt)", "Sport und Sportwissenschaft",
+    "Sports Ethics and Integrity", "Sportwissenschaft", "Theaterwissenschaft", "Translation",
+    "Unternehmenskommunikation/ PR", "Voice", "Weltliteratur", "Wirtschaftspädagogik",
+    "Wirtschaftspädagogik (Lehramt)", "Wirtschaftswissenschaften", "Wirtschaftswissenschaftliche Informatik",
+    "Zahnmedizin", "Ägyptologie / Altorientalistik";
+  <https://schema.org/location> "http://dbpedia.org/page/Mainz";
+  <https://schema.org/numberOfEmployees> "36500";
+  <https://schema.org/url> <https://www.uni-mainz.de/eng/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.99305555555556"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.241666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b86 <http://schema.org/name> "Philipps-Universität Marburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b87;
+  <https://schema.org/hasOfferCatalog> "Physik und Wirtschaft", "Chemie", "Chemie (Lehramt)",
+    "Baurecht und Baubegleitung  von der Projektentwicklung bis zur Streitbeilegung",
+    "Physik", "Interdisziplinäre Literatur- und Kulturstudien", "Physik - Vertiefung und Forschung",
+    "Abenteuer- und Erlebnispädagogik", "Anglophone Studies", "Arabische Literatur und Kultur",
+    "Archäologische Wissenschaften", "Betriebswirtschaftslehre", "Bildende Kunst  Künstlerische Konzeptionen",
+    "Biodiversität und Naturschutz", "Biologie", "Biologie (Lehramt)", "Blinden- und Sehbehindertenpädagogik",
+    "Data Science", "Deutsch (Lehramt)", "Deutsch als Fremdsprache", "Deutsche Literatur",
+    "Deutsche Sprache und Literatur (Germanistik)", "Economics and Institutions", "Economics of the Middle East",
+    "Englisch (Lehramt)", "Environmental Geography: Systems, Processes and Interactions",
+    "Erdkunde (Lehramt)", "Erziehungs- und Bildungswissenschaft", "Ethik (Lehramt)", "Europäische Ethnologie / Kulturwissenschaft",
+    "Europäische Literaturen", "Europäische Wirtschafts- und Sozialgeschichte", "Evangelische Religionslehre (Lehramt)",
+    "Evangelische Theologie", "Französisch (Lehramt)", "Friedens- und Konfliktforschung",
+    "Functional Materials", "Geoarchäologie", "Geographie", "Germanistische Linguistik",
+    "Geschichte", "Geschichte (Lehramt)", "Geschichte der Internationalen Politik", "Griechisch (Lehramt)",
+    "Hebräisch (lehramt)", "Historisch-Vergleichende Sprachwissenschaft", "Historische Sprach-, Text- und Kulturwissenschaften",
+    "Human Geography: Innovation and Spatial Impacts", "Humanbiologie", "Humanbiologie - Infektionsbiologie",
+    "Humanbiologie - Neurobiologie", "Humanbiologie - Tumorbiologie", "Humanbiologie - Zellbiologie",
+    "Indologie", "Informatik", "Informatik (Lehramt)", "Interkulturelle Betriebswirtschaftslehre",
+    "International Business Management", "International Development Studies", "Iranistik / Iranian Studies",
+    "Islamwissenschaft", "Italienisch (Lehramt)", "Katholische Religionslehre (Lehramt)",
+    "Keltologie", "Klassische Archäologie", "Klassische Philologie", "Klinische Linguistik",
+    "Kognitive und Integrative Systemneurowissenschaften", "Kultur - und Sozialanthropologie",
+    "Kunst, Musik und Medien: Organisation und Vermittlung", "Kunstgeschichte", "Latein (Lehramt)",
+    "Linguistics and Web Technology", "Linguistik: Kognition und Kommunikation", "Literaturvermittlung in den Medien",
+    "Mathematik", "Mathematik (Lehramt)", "Medien und kulturelle Praxis: Geschichte, Ästhetik, Theorie",
+    "Medienwissenschaft", "Medizin", "Moderne arabische Politik, Gesellschaft und Kultur",
+    "Molecular and Cellular Biology", "Molekulare und Zelluläre Neurowissenschaften",
+    "Motologie", "Musikwissenschaft. Geschichte und Vermittlung", "Nah- und Mitteloststudien (Near and Middle Eastern Studies)",
+    "North American Studies", "Orientwissenschaft", "Peace and Conflict Studies", "Pharmazie",
+    "Philosophie", "Philosophie (Lehramt)", "Physik (Lehramt)", "Physische Geographie",
+    "Politik und Wirtschaft (Lehramt)", "Politik und Wirtschaft des Nahen und Mittleren Ostens",
+    "Politikwissenschaft", "Politische Integration und Wirtschaftliche Globalisierung",
+    "Prähistorische Archäologie", "Psychologie", "Quantitative Accounting and Finance",
+    "Rechtswissenschaft", "Religionswissenschaft", "Romanische Philologie", "Sozialwissenschaften",
+    "Soziologie und Sozialforschung", "Spanisch (Lehramt)", "Speech Science (Sprechwissenschaft / Phonetik)",
+    "Sport (Lehramt)", "Sprach- und Kulturwissenschaften des Vorderen Orients", "Sprache und Kommunikation",
+    "Transcultural European Outdoor Studies (TEOS)", "Vergleichende Kultur- und Religionswissenschaft",
+    "Volkswirtschaftslehre", "Web Development for Linguistics", "Wirtschaftsgeographie",
+    "Wirtschaftsinformatik", "Wirtschaftsmathematik", "Zahnmedizin";
+  <https://schema.org/location> "http://dbpedia.org/page/Marburg";
+  <https://schema.org/numberOfEmployees> "26355";
+  <https://schema.org/url> <https://www.uni-marburg.de/en> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.810833333333335"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.77361111111111"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b88 <http://schema.org/name> "Universität Bayreuth";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b89;
+  <https://schema.org/hasOfferCatalog> "Germanistik", "Sportmanagement (berufsbegleitend)",
+    "Healthcare Management (berufsbegleitend)", "Sportrecht", "Betriebswirtschaftslehre",
+    "Ethnologie", "African Language Studies", "African Verbal and Visual Arts", "Afrikanische Sprachen, Literaturen und Kunst",
+    "Angewandte Informatik", "Anglistik/Amerikanistik", "Automotive und Mechatronik",
+    "Berufliche Bildung Fachrichtung Elektrotechnik", "Berufliche Bildung, Fachrichtung Metalltechnik (Lehramt)",
+    "Biochemie", "Biochemie und Molekulare Biologie", "Biodiversität und Ökologie", "Biofabrication",
+    "Biologie", "Biologie (Lehramt)", "Biologie / Chemie (Lehramt)", "Biotechnologie und chemische Verfahrenstechnik (BCV)",
+    "Chemie", "Chemie (Lehramt)", "Computer Science", "Computerspielwissenschaften", "Deutsch (Lehramt)",
+    "Development Studies", "Economics", "Economics and Institutions", "Elektrotechnik und Informationssystemtechnik",
+    "Energietechnik", "Engineering Science", "Environmental Chemistry", "Environmental Geography",
+    "Erdkunde (Lehramt)", "Etudes Francophones", "Europäische Geschichte", "Experimental Geosciences",
+    "Finanz- und Informationsmanagement", "Geographie", "Geographie, Entwicklung und Afrika: Geographische Entwicklungsforschung Afrikas",
+    "Geoökologie- und Umweltnaturwissenschaften", "Geschichte (Lehramt)", "Geschichte - History - Histoire",
+    "Geschichte in Wissenschaft und Praxis", "Gesundheitsökonomie", "Global Change Ecology",
+    "Global History", "History and Economics", "Humangeographie - Stadt- und Regionalforschung",
+    "Informatik", "Informatik / Mathematik (Lehramt)", "Informatik / Physik (Lehramt)",
+    "Intercultural Anglophone Studies", "Interkulturelle Germanistik", "Interkulturelle Studien / intercultural Studies",
+    "Internationale Wirtschaft & Entwicklung", "Internationale Wirtschaft & Governance",
+    "Jura", "Kultur und Gesellschaft", "Kultur und Gesellschaft Afrikas", "Kultur- und Sozialanthropologie",
+    "Lebensmittel - und Gesundheitswissenschaften", "Literatur im kulturellen Kontext",
+    "Literatur und Medien", "Maschinenbau", "Materialchemie und Katalyse", "Materialwissenschaft und Werkstofftechnik",
+    "Mathematik", "Mathematik (Lehramt)", "Medienkultur und Medienwirtschaft", "Medienwissenschaft und Medienpraxis",
+    "Molekulare Ökologie", "Musik und Performance", "Musiktheaterwissenschaft", "Natur - und Wirkstoffchemie",
+    "Oper und Performance", "Philosophy & Economics", "Physik", "Physik (Biophysik)",
+    "Physik (Lehramt)", "Physik und Philosophie", "Polymer Science", "Polymer- und Kolloidchemie",
+    "Recht und Wirtschaft", "Rechtswissenschaft", "Rechtswissenschaft: dt.-span. Doppelabschlussprogramm",
+    "Religionswissenschaft", "Scientific Computing", "Soziologie", "Sport (Lehramt)",
+    "Sporttechnologie", "Sportökonomie", "Sprache - Interaktion - Kultur", "Technomathematik",
+    "Theater und Medien", "Umwelt- und Umwelt- und Ressourcentechnologie", "Verantwortung, Führung und Kommunikation (berufsbegleitend)",
+    "Wirtschaftsingenieurwesen", "Wirtschaftsmathematik", "Wirtschaftswissenschaften (Lehramt)";
+  <https://schema.org/location> "http://dbpedia.org/page/Bayreuth";
+  <https://schema.org/numberOfEmployees> "11,000";
+  <https://schema.org/url> <https://www.uni-bayreuth.de/de/index.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.92888888888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.585833333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b90 <http://schema.org/name> "Universität Bremen";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b91;
+  <https://schema.org/hasOfferCatalog> "Marine Microbiology (IMPRS MarMic)", "Berufliche Bildung Elektrotechnik-Informationstechnik / Metalltechnik-Fahrzeugtechnik",
+    "Berufspädagogik Pflegewissenschaft", "Betriebswirtschaftslehre", "Biochemistry and Molecular Biology",
+    "Biologie", "Biologie (Lehramt)", "Chemie", "Chemie (Lehramt)", "Communication and Information Technology",
+    "Community and family health nursing", "Comparative and European Law", "Control, Microsystems, Microelectronics",
+    "Digitale Medien", "Ecology", "Elektro- und Informationstechnik", "Elementarmathematik",
+    "Elementarmathematik (Lehramt)", "English-Speaking Cultures / Englisch", "English-Speaking Cultures / Englisch (Lehramt)",
+    "Environmental Physics", "Epidemiologie", "Erziehungs- und Bildungswissenschaften",
+    "Frankoromanistik / Französisch", "Frankoromanistik / Französisch (Lehramt)", "Geographie",
+    "Geographie (Lehramt)", "Geowissenschaften", "Germanistik", "Germanistik / Deutsch (Lehramt)",
+    "Geschichte", "Geschichte (Lehramt)", "Hispanistik / Spanisch", "Informatik", "Inklusive Pädagogik",
+    "Inklusive Pädagogik - Lehramt Sonderpädagogik in Kombination mit dem Lehramt für Grund- und Sekundarschulen",
+    "Integrierte Europastudien", "International Relations: Global Governance and Social Theory",
+    "International Studies in Aquatic Tropical Ecology", "Klinische Psychologie", "Kommunikations- und Medienwissenschaft",
+    "Komplexes Entscheiden", "Kulturwissenschaft", "Kunst- und Kulturvermittlung", "Kunst-Medien-Ästetische Bildung",
+    "Kunst-Medien-Ästhetische Bildung (Lehramt)", "Language Sciences", "Lehramt an beruflichen Schulen - GTW - Hauptfach Elektrotechnik/Informatik (GTW-ETI)",
+    "Linguistik / Language Sciences", "Marine Biology", "Marine Geosciences", "Marine Mikrobiologie",
+    "Materials Chemistry and Mineralogy", "Materielle Kultur: Textil", "Mathematik", "Mathematik (Lehramt)",
+    "Medical Biometry / Biostatistics", "Medienkultur", "Musikpädagogik", "Musikpädagogik (Lehramt)",
+    "Musikwissenschaft", "Neurosciences", "Niederlandistik", "Pflegewissenschaft (dual)",
+    "Philosophie", "Physical Geography: Environmental History", "Physik", "Physik (Lehramt)",
+    "Politikwissenschaft", "Politikwissenschaft (Lehramt)", "Produktionstechnik-Maschinenbau & Verfahrenstechnik",
+    "Psychologie", "Public health - Gesundheitsförderung und Prävention", "Public health - Gesundheitsversorgung, Ökonomie und Management",
+    "Public Health / Gesundheitswissenschaften", "Rechtswissenschaften", "Religionswissenschaft",
+    "Religionswissenschaft (Lehramt)", "Religionswissenschaft: Transformationen von Religion in Medien und Gesellschaft",
+    "Sachunterricht / Interdisziplinäre Sachbildung (Lehramt)", "Slavistik/Unterrichtsfach Russisch",
+    "Slavistik/Unterrichtsfach Russisch (Lehramt)", "Sozialpolitik", "Soziologie", "Soziologie und Sozialforschung",
+    "Space Engineering", "Space Sciences and Technologies - Sensing, Processing, Communication",
+    "Spanisch/Hispanistik (Lehramt)", "Stadt- und Regionalentwicklung", "Systems Engineering",
+    "Technomathematik", "Transkulturelle Studien", "Transnational Law", "Transnationale Literaturwissenschaft",
+    "Wirtschaftsinformatik", "Wirtschaftsingenieurwesen Elektrotechnik und Informationstechnik",
+    "Wirtschaftsingenieurwesen Produktionstechnik", "Wirtschaftspsychologie", "Wirtschaftswissenschaft";
+  <https://schema.org/location> "http://dbpedia.org/page/Bremen";
+  <https://schema.org/numberOfEmployees> "20000";
+  <https://schema.org/url> <https://www.uni-bremen.de/en.html> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.10861111111111"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "8.85361111111111"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b92 <http://schema.org/name> "Technische Universität Dortmund";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b93;
+  <https://schema.org/hasOfferCatalog> "Kulturanalyse und Kulturvermittlung", "Data Science",
+    "Maschinenbau", "Statistik", "Chemieingenieurwesen", "Philosophie und Politikwissenschaft",
+    "Religion und Politik", "Bioingenieurwesen", "Informations- und Kommunikationstechnik",
+    "Logistik", "Alternde Gesellschaften", "Angewandte Informatik", "Angewandte Literatur- und Kulturwissenschaften",
+    "Angewandte Sprachwissenschaften", "Anglistik / Amerikanistik", "Architektur und Städtebau",
+    "Automation and Robotics", "Bauingenieurwesen", "Bauprozessmanagement und Immobilienwirtschaft",
+    "Chemical Engineering", "Chemie", "Chemie (Lehramt)", "Chemieingenieurwesen (Lehramt)",
+    "Chemische Biologie", "Deutsch (Lehramt)", "Econometrics", "Economics und Journalismus",
+    "Elektrotechnik", "Elektrotechnik (Lehramt)", "Elektrotechnik und Informationstechnik",
+    "Empirische Mehrsprachigkeitsforschung", "Energietechnik", "Energietechnik (Lehramt)",
+    "Erziehungswissenschaft", "Evangelische Theologie (Lehramt)", "Führung und Management in Bildungseinrichtungen (berufsbegleitend)",
+    "Germanistik (Lehramt)", "Industrial Design and Manufacturing IDM", "Informatik",
+    "Journalistik", "Konstruktiver Ingenieurbau", "Kunst (Lehramt)", "Kunst / Gestalten (Lehramt)",
+    "Manufacturing Technology (MMT)", "Mathematik", "Mathematik (Lehramt)", "Medizinphysik",
+    "Musik (Lehramt)", "Musikjournalismus", "Nachrichtentechnik (Lehramt)", "Naturwissenschaftliche Bildung (Lehramt)",
+    "Philosophie (Lehramt)", "Physik", "Polymerwissenschaften", "Process System Engineering",
+    "Raumentwicklung und Naturressourcenmanagement", "Raumplanung", "Rehabilitationspädagogik",
+    "Rehabilitationswissenschaften", "Sonderpädagogik", "Sozialpädagogik", "Sozialwissenschaften (Lehramt)",
+    "Sozialwissenschaftliche Innovationsforschung", "Spatial Planning for Regions in growing Economies (Spring)",
+    "Sport (Lehramt)", "Technik (Lehramt)", "Technomathematik", "Textiles Gestalten (Lehramt)",
+    "Urban Transformation", "Wirtschaftsingenieurwesen", "Wirtschaftsjournalismus", "Wirtschaftsmathematik",
+    "Wirtschaftspolitischer Journalismus", "Wirtschaftswissenschaften", "Wissenschaftsjournalismus";
+  <https://schema.org/location> "http://dbpedia.org/page/Dortmund";
+  <https://schema.org/numberOfEmployees> "33,500";
+  <https://schema.org/url> <https://www.tu-dortmund.de/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.4925"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "7.414166666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b94 <http://schema.org/name> "Gottfried Wilhelm Leibniz Universität Hannover";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b95;
+  <https://schema.org/hasOfferCatalog> "Mechatronik", "Technical Education", "Wirtschaftsingenieur/in",
+    "Nanotechnologie", "Wirtschaftsgeographie", "Energietechnik", "Rechtswissenschaft",
+    "Umweltplanung", "Atlantic Studies in History, Culture and Society", "Wissenschaft und Gesellschaft",
+    "Maschinenbau", "Produktion und Logistik", "Landschaftsarchitektur und Umweltplanung",
+    "Landschaftsarchitektur", "Advanced Anglophone Studies", "Analytik", "Angewandte Sprachwissenschaft",
+    "Arbeitswissenschaft (berufsbegleitend)", "Architektur", "Architektur und Städtebau",
+    "Bau- und Umweltingenieurwesen", "Bauingenieurwesen", "Bautechnik (Lehramt)", "Bildungswissenschaften",
+    "Biochemie", "Biologie", "Biologie (Lehramt)", "Biomedizintechnik", "Chemie", "Chemie (Lehramt)",
+    "Computational Methods in Engineering", "Darstellendes Spiel (Lehramt)", "Deutsch (Lehramt)",
+    "Deutsche und Englische Linguistik / German and English Linguistics", "Diversity Education",
+    "Elektrotechnik und Informationstechnik", "Elektrotechnik und Informationstechnik (Lehramt)",
+    "Englisch (Lehramt)", "European Master in Territorial Development", "Europäische Rechtspraxis",
+    "Evangelische Theologie (Lehramt)", "Farbtechnik/Raumgestaltung und Oberflächentechnik (Lehramt)",
+    "Fächerübergreifender Bachelor", "Gartenbauwissenschaften", "Geodäsie und Geoinformatik",
+    "Geographie (Erdkunde)", "Geographie (Lehramt)", "Geowissenschaften", "Geschichte",
+    "Geschichte (Lehramt)", "Holztechnik (Lehramt)", "Informatik", "Informationstechnologierecht und Recht des geistigen Eigentums",
+    "International Horticulture", "International Mechatronics", "Katholische Theologie (Lehramt)",
+    "Konstruktiver Ingenieurbau", "Kunst (Lehramt)", "Landschaftswissenschaften", "Lebensmittelwissenschaft (Lehramt)",
+    "Lehramt an berufsbildenden Schulen", "Lehramt an berufsbildenden Schulen für Ingenieure (Maschinenbau oder Elektrotechnik)",
+    "Lehramt an Gymnasien", "Lehramt für Sonderpädagogik", "Life Science", "Mathematik",
+    "Mathematik (Lehramt)", "Metalltechnik (Lehramt)", "Meteorologie", "Molekulare Mikrobiologie",
+    "Musik (Lehramt)", "Navigation und Umweltrobotik", "Neuere deutsche Literaturwissenschaft",
+    "Optische Technologien", "Pflanzenbiotechnologie", "Philosophie (Lehramt)", "Physik",
+    "Physik (Lehramt)", "Politikwissenschaft", "Politikwissenschaft (Lehramt)", "Religion im kulturellen Kontext",
+    "Religionswissenschaften / Werte und Normen (Lehramt)", "Sachunterricht", "Sachunterricht (Lehramt)",
+    "Sonderpädagogik", "Sonderpädagogik und Rehabilitationswissenschaften", "Sozial-/Sonderpädagogik in der beruflichen Bildung (Lehramt)",
+    "Sozialwissenschaften", "Soziologie", "Spanisch (Lehramt)", "Sport", "Sport (Lehramt)",
+    "Sportwissenschaft - Gesundheitsförderung", "Technische Informatik", "Umweltingenieurwesen",
+    "Wasser und Umwelt", "Wasser-, Umwelt- und Küsteningenieurwesen", "Water Resources and Environmental Management",
+    "Windenergie - Ingenieurwesen", "Wirtschaftswissenschaften", "Wissenschaftsphilosophie";
+  <https://schema.org/location> "http://dbpedia.org/page/Hanover";
+  <https://schema.org/numberOfEmployees> "25688";
+  <https://schema.org/url> <https://www.uni-hannover.de/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.38221388888889"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "9.717727777777778"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b96 <http://schema.org/name> "Otto-von-Guericke-Universität Magdeburg";
+  <http://www.opengis.net/ont/geosparql#hasGeometry> _:genid-c96864abd7cc4133a0e269f0ac47061d-b97;
+  <https://schema.org/hasOfferCatalog> "Angewandte Statistik", "Germanistik: Kultur, Transfer und Intermedialität",
+    "Informationstechnik - Smarte Systeme", "Performance Analysis of Sport", "Integrative Neuroscience",
+    "Beruf und Bildung - Profile Ingenieurpädagogik und Wirtschaftspädagogik", "Financial Economics",
+    "International Management, Marketing, Entrepreneurship", "Chemical and Energy Engineering",
+    "Elektrische Energiesysteme - Regenerative Energie", "Philosophie - Neurowissenschaften - Kognition",
+    "Verfahrenstechnik", "Wirtschaftsingenieurwesen für Verfahrens- und Energietechnik",
+    "Volkswirtschaftslehre", "Beruf und Bildung - Profile Technische Bildung und Ökonomische Bildung",
+    "Umwelt- und Energieprozesstechnik", "Molekulare Biosysteme", "International Business and Economics",
+    "Internationales Management", "Peace and Conflict Studies", "Data and Knowledge Engineering",
+    "Betriebswirtschaftslehre", "Sicherheit und Gefahrenabwehr", "Medizintechnik", "Statistik",
+    "Operations Research and Business Analytics", "Electrical Engineering and Information Technology",
+    "Nachhaltige Energiesysteme", "Integrated Design Engineering", "Lehramt an Sekundarschulen",
+    "International Vocational Education", "Immunologie", "Lehramt an Gymnasien", "Biosystemtechnik",
+    "Lehramt an allgemeinbildenden Schulen", "Wirtschaftsinformatik - Dual", "Computervisualistik - Dual",
+    "Digital Engineering", "Process Safety and Environmental Engineering", "Medizin",
+    "Betriebliche Berufsbildung und Berufsbildungsmanagement", "Sozialwissenschaften",
+    "Systemtechnik und Technische Kybernetik", "Medienbildung - Audiovisuelle Kultur und Kommunikation",
+    "Betriebswirtschaftslehre / Business Economics", "Mathematikingenieur/in", "Wirtschaftsinformatik",
+    "Medical Systems Engineering", "Mechatronik", "Informatik - Dual", "Elektromobilität",
+    "Computervisualistik", "Ingenieurinformatik", "Volkswirtschaftliche Politikanalyse / Economic Policy Analysis",
+    "Cultural Engineering", "Informatik", "Sport und Technik", "Systems Engineering for Manufacturing",
+    "Chemieingenieurwesen: Molekulare und Strukturelle Produktgestaltung", "Bildungswissenschaft",
+    "Ingenieurinformatik - Dual", "Sportwissenschaft", "Wirtschaftsingenieurwesen für Elektrotechnik und Informationstechnik",
+    "Mathematik", "Elektrotechnik und Informationstechnik", "Wirtschaftsingenieur Maschinenbau",
+    "Physik", "Lehramt an berufsbildenden Schulen", "Germanistik mit interdisziplinärem Profil",
+    "Psychologie", "Wirtschaftsingenieur Logistik", "Maschinenbau", "Philosophie-Neurowissenschaften-Kognition",
+    "European Studies";
+  <https://schema.org/location> "http://dbpedia.org/page/Magdeburg";
+  <https://schema.org/numberOfEmployees> "13833";
+  <https://schema.org/url> <https://www.uni-magdeburg.de/unimagdeburg/en/> .
+
+_:genid-c96864abd7cc4133a0e269f0ac47061d-b97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#Geometry>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "52.14"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "11.643"^^<http://www.w3.org/2001/XMLSchema#float> .
