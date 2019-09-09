@@ -67,7 +67,7 @@ docker-compose up -d
 
 ```
 
-Die ensprechenden Docker-Container werden erstellt und die Anwendung ist unter der angegebenen URL verfügbar
+Die ensprechenden Docker-Container werden erstellt und die Anwendung ist unter der angegebenen URL verfügbar. Nun müssen, falls noch nicht vorhanden die Daten aus ./Stardog/ noch in eine Datenbank importiert werden.
 
 ## Anmerkung
 
